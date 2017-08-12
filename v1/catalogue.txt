@@ -1,1 +1,157 @@
-{"baseUrl":"https:\/\/raw.githubusercontent.com\/openmuthu\/jaya-index-files\/master\/v1","lastModified":"2017-06-04T09:18:19Z","version":"1.0","items":{"itaragraMthAH":{"size":9066222,"relPath":"itaragraMthAH.zip","lastModified":"2017-06-04T09:18:19Z"},"stOtra":{"size":92612,"relPath":"stOtra.zip","lastModified":"2017-06-04T09:18:19Z"},"madhvavijaya":{"size":286084,"relPath":"madhvavijaya.zip","lastModified":"2017-06-04T09:18:19Z"},"kOsha_vAchaspatyaM":{"size":28891140,"relPath":"kOsha_vAchaspatyaM.zip","lastModified":"2017-06-04T09:18:19Z"},"purANa_harivaMsha":{"size":3697458,"relPath":"purANa_harivaMsha.zip","lastModified":"2017-06-04T09:18:19Z"},"purANa_nAradapurANa":{"size":3424853,"relPath":"purANa_nAradapurANa.zip","lastModified":"2017-06-04T09:18:19Z"},"rAmAyaNa":{"size":3018309,"relPath":"rAmAyaNa.zip","lastModified":"2017-06-04T09:18:19Z"},"mahAbhArata":{"size":17627957,"relPath":"mahAbhArata.zip","lastModified":"2017-06-04T09:18:19Z"},"kOsha_shabdakalpadruma_1":{"size":5428383,"relPath":"kOsha_shabdakalpadruma_1.zip","lastModified":"2017-06-04T09:18:19Z"},"kOsha":{"size":40573,"relPath":"kOsha.zip","lastModified":"2017-06-04T09:18:19Z"},"purANa":{"size":18897620,"relPath":"purANa.zip","lastModified":"2017-06-04T09:18:19Z"},"purANa_viShNudharma":{"size":881624,"relPath":"purANa_viShNudharma.zip","lastModified":"2017-06-04T09:18:19Z"},"purANa_vAyupurANa":{"size":3385740,"relPath":"purANa_vAyupurANa.zip","lastModified":"2017-06-04T09:18:19Z"},"kOsha_vAchaspatyaM_1":{"size":8796768,"relPath":"kOsha_vAchaspatyaM_1.zip","lastModified":"2017-06-04T09:18:19Z"},"vyAkaraNa":{"size":3243597,"relPath":"vyAkaraNa.zip","lastModified":"2017-06-04T09:18:19Z"},"harikathAmRtasAra":{"size":357788,"relPath":"harikathAmRtasAra.zip","lastModified":"2017-06-04T09:18:19Z"},"smRti":{"size":1819592,"relPath":"smRti.zip","lastModified":"2017-06-04T09:18:19Z"},"dAsasAhitya":{"size":453551,"relPath":"dAsasAhitya.zip","lastModified":"2017-06-04T09:18:19Z"},"kOsha_amarakOsha":{"size":369182,"relPath":"kOsha_amarakOsha.zip","lastModified":"2017-06-04T09:18:19Z"},"kOsha_shabdakalpadruma":{"size":28201768,"relPath":"kOsha_shabdakalpadruma.zip","lastModified":"2017-06-04T09:18:19Z"},"sAhitya":{"size":1561857,"relPath":"sAhitya.zip","lastModified":"2017-06-04T09:18:19Z"},"purANa_bhaviShyapurANa":{"size":4918650,"relPath":"purANa_bhaviShyapurANa.zip","lastModified":"2017-06-04T09:18:19Z"},"nirukti":{"size":414855,"relPath":"nirukti.zip","lastModified":"2017-06-04T09:18:19Z"},"purANa_padmapurANa":{"size":7960209,"relPath":"purANa_padmapurANa.zip","lastModified":"2017-06-04T09:18:19Z"},"sarvamUla":{"size":5151121,"relPath":"sarvamUla.zip","lastModified":"2017-06-04T09:18:19Z"},"vEda":{"size":7728958,"relPath":"vEda.zip","lastModified":"2017-06-04T09:18:19Z"},"purANa_vAmana-purANa":{"size":1097529,"relPath":"purANa_vAmana-purANa.zip","lastModified":"2017-06-04T09:18:19Z"},"mImAMsA":{"size":190577,"relPath":"mImAMsA.zip","lastModified":"2017-06-04T09:18:19Z"},"purANa_skandapurANa":{"size":19703154,"relPath":"purANa_skandapurANa.zip","lastModified":"2017-06-04T09:18:19Z"}}}
+{
+  "baseUrl": "https://raw.githubusercontent.com/openmuthu/jaya-index-files/master/v1",
+  "lastModified": "2017-08-12T10:44:23.568Z",
+  "version": "1.0",
+  "items": {
+    "itaragraMthAH": {
+      "size": 9066222,
+      "relPath": "itaragraMthAH.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "stOtra": {
+      "size": 545383,
+      "relPath": "stOtra.zip",
+      "lastModified": "2017-08-12T10:44:23.568Z"
+    },
+    "madhvavijaya": {
+      "size": 286084,
+      "relPath": "madhvavijaya.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "kOsha_vAchaspatyaM": {
+      "size": 28891140,
+      "relPath": "kOsha_vAchaspatyaM.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "purANa_harivaMsha": {
+      "size": 3697458,
+      "relPath": "purANa_harivaMsha.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "purANa_nAradapurANa": {
+      "size": 3424853,
+      "relPath": "purANa_nAradapurANa.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "rAmAyaNa": {
+      "size": 3018309,
+      "relPath": "rAmAyaNa.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "mahAbhArata": {
+      "size": 17627957,
+      "relPath": "mahAbhArata.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "kOsha_shabdakalpadruma_1": {
+      "size": 5428383,
+      "relPath": "kOsha_shabdakalpadruma_1.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "kOsha": {
+      "size": 40573,
+      "relPath": "kOsha.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "purANa": {
+      "size": 18897620,
+      "relPath": "purANa.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "purANa_viShNudharma": {
+      "size": 881624,
+      "relPath": "purANa_viShNudharma.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "purANa_vAyupurANa": {
+      "size": 3385740,
+      "relPath": "purANa_vAyupurANa.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "kOsha_vAchaspatyaM_1": {
+      "size": 8796768,
+      "relPath": "kOsha_vAchaspatyaM_1.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "vyAkaraNa": {
+      "size": 3243597,
+      "relPath": "vyAkaraNa.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "harikathAmRtasAra": {
+      "size": 357788,
+      "relPath": "harikathAmRtasAra.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "smRti": {
+      "size": 1819592,
+      "relPath": "smRti.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "dAsasAhitya": {
+      "size": 453551,
+      "relPath": "dAsasAhitya.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "kOsha_amarakOsha": {
+      "size": 369182,
+      "relPath": "kOsha_amarakOsha.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "kOsha_shabdakalpadruma": {
+      "size": 28201768,
+      "relPath": "kOsha_shabdakalpadruma.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "sAhitya": {
+      "size": 1561857,
+      "relPath": "sAhitya.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "purANa_bhaviShyapurANa": {
+      "size": 4918650,
+      "relPath": "purANa_bhaviShyapurANa.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "nirukti": {
+      "size": 414855,
+      "relPath": "nirukti.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "purANa_padmapurANa": {
+      "size": 7960209,
+      "relPath": "purANa_padmapurANa.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "sarvamUla": {
+      "size": 5151121,
+      "relPath": "sarvamUla.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "strIdharma": {
+      "size": 30200,
+      "relPath": "strIdharma.zip",
+      "lastModified": "2017-08-12T10:44:23.568Z"
+    },
+    "vEda": {
+      "size": 7728958,
+      "relPath": "vEda.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "purANa_vAmana-purANa": {
+      "size": 1097529,
+      "relPath": "purANa_vAmana-purANa.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "mImAMsA": {
+      "size": 190577,
+      "relPath": "mImAMsA.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    },
+    "purANa_skandapurANa": {
+      "size": 19703154,
+      "relPath": "purANa_skandapurANa.zip",
+      "lastModified": "2017-06-04T09:18:19Z"
+    }
+  }
+}
