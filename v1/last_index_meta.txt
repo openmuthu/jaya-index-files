@@ -1,0 +1,1898 @@
+{
+    "kOsha_shabdakalpadruma.zip": {
+        "contents": {
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-119.txt": {
+                "hash": "14d4ca40d3d071ca28e1359bcd5929a1"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-072.txt": {
+                "hash": "10b8025c8c18a7e1ac64a30e0c53da2d"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-080.txt": {
+                "hash": "fd41eec284c678b80c6165d262b6aace"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-127.txt": {
+                "hash": "8294737eeda9a36090ae43cefbbd8174"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-013.txt": {
+                "hash": "d09f572a1daf6630d5e6d2adb2017729"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-089.txt": {
+                "hash": "0487ef8fad2167e79e610f2d0629cb33"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-100.txt": {
+                "hash": "e57ad40ca24ff5d6e863e4d57e29354a"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-011.txt": {
+                "hash": "4ffe217e1086e18a437651267d175ce2"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-102.txt": {
+                "hash": "af74ee3030de34715f5a92271e601e96"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-005.txt": {
+                "hash": "a5598c2bfbe95591484fc4d4835189b4"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-048.txt": {
+                "hash": "efad090a534486ebf951aafe035abe88"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-054.txt": {
+                "hash": "fd3df500d37e4373887079a029c5d80c"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-097.txt": {
+                "hash": "f79396c7dbc175af188144827ad814ca"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-137.txt": {
+                "hash": "6a3f5ce6b97cfd8c18a6b5efa9ff4db9"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-129.txt": {
+                "hash": "3bd0dbd73bc0192174b429a6a9d98428"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-062.txt": {
+                "hash": "4fad45d4b44f4759e0258e8a645de4ee"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-036.txt": {
+                "hash": "e0a89ed53440d94c418a9b5643be66f2"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-001.txt": {
+                "hash": "c71c238d04a5e61a480bd6fcd441bb56"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-031.txt": {
+                "hash": "3ee0b7ff91798e94622651dc1bb9a751"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-044.txt": {
+                "hash": "54fe767c2741f4adf64b1265c268478d"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-087.txt": {
+                "hash": "b9743e7b2a7590a58cdc3c7ad1bfc51c"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-074.txt": {
+                "hash": "e576af43bbde48f73cb6b9ba7581e163"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-117.txt": {
+                "hash": "8f9de822d746090f3b63c7932b2b5cb7"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-104.txt": {
+                "hash": "98e8aee8b3289135ea035b1d29521fc8"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-060.txt": {
+                "hash": "592e6adfb470b7bd7ae24da8fe07f05a"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-007.txt": {
+                "hash": "f667d8d03dca95975cbecc3364eaced8"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-056.txt": {
+                "hash": "03fa71ec6a401bed83bf4d06a5a605f6"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-110.txt": {
+                "hash": "ced80cb559d388c00426ca5b775abd75"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-099.txt": {
+                "hash": "6cadcec1dfe506e8e935020fe7dcf20a"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-135.txt": {
+                "hash": "4cbc86f5ff80e788b59d04fab6f5a471"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-068.txt": {
+                "hash": "fe8422112103ab58e53ce50b340e426b"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-025.txt": {
+                "hash": "a6ab65bc921c2114a376fbc5404eb622"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-090.txt": {
+                "hash": "aa3ed78a620d4a93d264da966230b453"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-038.txt": {
+                "hash": "5f4f9c3533d301a1cb1edd44e8f027c0"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-017.txt": {
+                "hash": "256fb71d68eaa43a63c72336b3469a20"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-042.txt": {
+                "hash": "d0ef9cf304e4795f8a05b69df7df7b60"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-085.txt": {
+                "hash": "a4b50f4453f5709b78287a93a0d5cd49"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-069.txt": {
+                "hash": "f4de6604b55414882af5e1958643e85f"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-026.txt": {
+                "hash": "a3b4e76e7bb46c38388348a8db2f26a4"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-009.txt": {
+                "hash": "eb01fc8c4ab0b739f013080d1c98526c"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-115.txt": {
+                "hash": "26269b3c88b3eaece8f088b6ed52c8e8"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-130.txt": {
+                "hash": "3d230b6f117cbdfb199329a3b48d519d"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-107.txt": {
+                "hash": "a12334424e6ffcdd293631247dbf4410"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-092.txt": {
+                "hash": "0b40f02c8e4820b5ad5db668a37f286b"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-124.txt": {
+                "hash": "c31c635b0f510f8e75100c93eba3e980"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-032.txt": {
+                "hash": "5b8372ff1f9aea8ae1dd4af980f09fd1"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-121.txt": {
+                "hash": "5f323868ee52f3eb62402be82ea1cb2f"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-075.txt": {
+                "hash": "dd4f3e806341329811e8e8de4821e7bd"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-040.txt": {
+                "hash": "3d789aec0968bd4752b279534a930998"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-023.txt": {
+                "hash": "aae5e9064642dd287930858888358a84"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-079.txt": {
+                "hash": "58e1f7e2b544c4cb8a0128c6977c646e"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-066.txt": {
+                "hash": "dea1de910fe7963cfa603128fae9839c"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-028.txt": {
+                "hash": "22a33c54e7a9dfbf8c93e9a2b255a900"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-053.txt": {
+                "hash": "9e5e2dc4bd48ce65ffb8ae38fbc249f4"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-096.txt": {
+                "hash": "8ddb9270a1e3c38baf697219c2c6f1ba"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-058.txt": {
+                "hash": "ad5854458cd01f515313311be7ed8cdf"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-083.txt": {
+                "hash": "60e4f792ead0e889427896b08e8d4b8a"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-070.txt": {
+                "hash": "cb3aaefe068093a1bb9a2b2b0cddaf21"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-002.txt": {
+                "hash": "1a617dde686187e52630d70c617225c2"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-015.txt": {
+                "hash": "a4d2ce888cff949c29878ab388438245"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-132.txt": {
+                "hash": "fd511a33177f75b5782d59f360c40a28"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-126.txt": {
+                "hash": "f46fa99647b1c3e3a47cfd0b7e43e046"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-113.txt": {
+                "hash": "419c2bd48b8d61416d6fe0678a911122"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-081.txt": {
+                "hash": "0d5c0d392f9129e50ca113dd4175f984"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-021.txt": {
+                "hash": "ad4e6eaa3df42e001e1b9861bc6a7d66"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-094.txt": {
+                "hash": "db30cd44215643f1b8373a41d9d6ace7"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-051.txt": {
+                "hash": "be8d9983f24d50a3dc2bb0e40bdd0eaf"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-109.txt": {
+                "hash": "b3c4f7054e18b52e6dac77f0e8652497"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-034.txt": {
+                "hash": "f28cf1cf02aabee581b4eb54316aa87e"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-077.txt": {
+                "hash": "08ed568680dbc490f59eed7f559da3c0"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-064.txt": {
+                "hash": "87d3fed45b235532559286d7b112f634"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-012.txt": {
+                "hash": "31b8fb012309304953ea5d854b34081c"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-101.txt": {
+                "hash": "6f16531086183409561d69a36156a804"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-047.txt": {
+                "hash": "e153e4a1d536695fdaabba479671c444"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-055.txt": {
+                "hash": "85531a3e2786913560c7ce9e378620e0"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-098.txt": {
+                "hash": "9fc11700fb2fe03af9714349f1f0be69"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-136.txt": {
+                "hash": "c89aad06de488c07033ba441a4c5526a"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-004.txt": {
+                "hash": "1f1786f249841ea7ef79dcd4a708ef04"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-020.txt": {
+                "hash": "9db7076904cdf32fb11621ecbe24c11d"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-128.txt": {
+                "hash": "fbb46e03e9931cdfe7d28c22ab0115cf"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-039.txt": {
+                "hash": "097756caabaef9db90d03c7d356f09a7"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-063.txt": {
+                "hash": "64bc147daf7e5ab47fa8e8793b857303"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-071.txt": {
+                "hash": "fa2dd8bc830d4de494c527e960cd0edd"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-045.txt": {
+                "hash": "9a434c439c0c73cf5f13e026c820f248"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-057.txt": {
+                "hash": "3467f5b90bbea58d55eb64d439f03990"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-088.txt": {
+                "hash": "bc976ab488b5f359171bdecb3614e39f"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-014.txt": {
+                "hash": "95d825f0729a07ecef2a072483f4d358"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-049.txt": {
+                "hash": "45243318ea18284c7a4821a2b90dd6f1"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-010.txt": {
+                "hash": "e893098cc2e753f1f90c6392ad893262"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-103.txt": {
+                "hash": "41f858f623fb27d6819f94554a780611"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-061.txt": {
+                "hash": "8a77893fccea96e8bcb6d6bb742bf155"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-091.txt": {
+                "hash": "50b8b04dd7e9491cc58c2e7df8c4ccde"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-006.txt": {
+                "hash": "1737de1ffd2579b989aa39d18a1734d7"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-019.txt": {
+                "hash": "a743cccc99f5fa2de46f4ec7d74adff0"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-111.txt": {
+                "hash": "771d20684a3a514705e08872c306fa42"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-134.txt": {
+                "hash": "f2883e5ff81e58dc490a932d79f651eb"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-037.txt": {
+                "hash": "1db6778fa95caffe63a8837d7b36c3d0"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-024.txt": {
+                "hash": "bce178aa066809fd41f37ca80aca18f8"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-030.txt": {
+                "hash": "378aa002a5ba322019efcdb2b471c8f8"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-073.txt": {
+                "hash": "05814b9625be29a59da65f498d2abd34"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-086.txt": {
+                "hash": "bd3f91f0ab0d380d791f7c9747767ad2"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-043.txt": {
+                "hash": "d9f10bcfe8ede68b842123a88ecc37fd"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-008.txt": {
+                "hash": "424b78b5be6c1bfacd184ec3a2817adb"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-105.txt": {
+                "hash": "95fa54a1ff49dc9850c246d1410e1038"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-118.txt": {
+                "hash": "f864f5f899db383ab6abe65b08bd519a"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-114.txt": {
+                "hash": "bacff2d5b6c48a196a5e06c559d8addc"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-122.txt": {
+                "hash": "3b7a01da5f094607c96c310220f19419"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-123.txt": {
+                "hash": "260aa2e6db70289767815b274b11e416"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-033.txt": {
+                "hash": "b620a61bb827e754294cfa099f80c613"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-093.txt": {
+                "hash": "d17a5d7ca9ee994e4c0d7b32bf47f999"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-050.txt": {
+                "hash": "5d8a99018b653b9f535d0c5e33848860"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-106.txt": {
+                "hash": "d17c9eb1dbeeaee67ab1511c5cab8224"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-076.txt": {
+                "hash": "20b647d2d966e9795339d6e4c67d0683"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-035.txt": {
+                "hash": "df60c0838d7bf330f6a17af509a392de"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-067.txt": {
+                "hash": "7c7bb2a75d1481a7d594475fca00dcb2"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-041.txt": {
+                "hash": "af641844d29846b0c4d0d522c211a4f1"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-018.txt": {
+                "hash": "49747f1a126207fc8dfa92799d8b0e15"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-084.txt": {
+                "hash": "21a5e6da3658212ad9d9b64d1f167f5f"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-116.txt": {
+                "hash": "2c70d8f2239c721329ff5aeada539763"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-027.txt": {
+                "hash": "4299049d5673293fbcca58c482e0ccaf"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-120.txt": {
+                "hash": "d1829dc8e20d66a1ec215a0c2b4f930d"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-125.txt": {
+                "hash": "861df2fb616fb28bbfb3326226d6ce5e"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-108.txt": {
+                "hash": "c8a15f4c9f93cb0acb876da9631a6f70"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-133.txt": {
+                "hash": "732a1a45f4a60df543d92ceac387611f"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-112.txt": {
+                "hash": "a0c49924384987dd2bb5b6aa93a48cc1"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-138.txt": {
+                "hash": "a43976d9fdef88462585de87806d18bf"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-082.txt": {
+                "hash": "26c0a617e96b1837170217f32562ca66"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-052.txt": {
+                "hash": "7f76e28d402c07129411add82d549393"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-022.txt": {
+                "hash": "b160778ee256456b81a1005216b61a21"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-065.txt": {
+                "hash": "146067a03dd1d281942abaa73854eff8"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-078.txt": {
+                "hash": "4aa6c63545764677a75d69d015e77dbf"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-029.txt": {
+                "hash": "cea9a0c4714969ee7fcdaac02856b721"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-016.txt": {
+                "hash": "f28ffbcb3119ee084bbe4a68baf37504"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-046.txt": {
+                "hash": "056fbf3e30b738390a523ecdc4b9499e"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-095.txt": {
+                "hash": "4c78f0e77bcf01124499c6be675d63a3"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-003.txt": {
+                "hash": "f5e59adc48799ac4947616b503503922"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-059.txt": {
+                "hash": "41a0ed0d678a28d12f8b8ab27166764c"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-131.txt": {
+                "hash": "18f95f6a00ad975b4b92c7c54517748e"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "3670e4953fb1e02ce1d8b3ee115a7525"
+    },
+    "kOsha_vAchaspatyaM_1.zip": {
+        "contents": {
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-127.txt": {
+                "hash": "b16e631005bb7028754d429886593971"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-152.txt": {
+                "hash": "204e77b0efbefa587ded896be5d9ebb7"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-157.txt": {
+                "hash": "a7a0bab4339d2555d9a524fe47072ae8"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-122.txt": {
+                "hash": "13f19ae28a97ce98d6315a7d39144c4d"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-144.txt": {
+                "hash": "8911f57b0b833eefb4f46e6ac16cdb67"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-130.txt": {
+                "hash": "e4212633a47965d0f8d20bf99eb16bf8"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-131.txt": {
+                "hash": "71446fa7fea36b7181e233724538ac1d"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-148.txt": {
+                "hash": "dddde7951b668019315478c9bb317fc7"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-143.txt": {
+                "hash": "723951dc6a30f763851c71150034d1a9"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-135.txt": {
+                "hash": "bed1e20a8aef75fbbac85cb588249208"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-161.txt": {
+                "hash": "2902a0acfec9c8ecfbfc30a185bdedd0"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-128.txt": {
+                "hash": "5cfa3259473c65f80d6108b0a1159804"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-126.txt": {
+                "hash": "5abf0eab95285d6037801ae583a73aaa"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-134.txt": {
+                "hash": "3bacb7c1656873489c34942bb065aa2e"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-121.txt": {
+                "hash": "6eaab42a1d54c7cc3aa784ec98ca524c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-156.txt": {
+                "hash": "bb28231a355e0b49f71651b6a2e45540"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-147.txt": {
+                "hash": "9158665fbe7c3f8f3bff00d80bca94d7"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-129.txt": {
+                "hash": "1057df4ff6a9cea0c5bc3ed6ff4f2df8"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-142.txt": {
+                "hash": "2a6f88cfdb118b0db49f4368ce6956af"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-155.txt": {
+                "hash": "902c5c5cdbbcb73bb00763e298c7fc81"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-160.txt": {
+                "hash": "63fb4dce938833e17110abdb046496c7"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-138.txt": {
+                "hash": "50a6de756ec3cb6ebc0cf6dab1db846c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-125.txt": {
+                "hash": "7f634eda597309c2c8806940eecc5f91"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-151.txt": {
+                "hash": "3ac0d6332835b4e051cd2ff6ef8f5c46"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-133.txt": {
+                "hash": "010394945869d31b9b58ee287d90d764"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-141.txt": {
+                "hash": "907e80d61783e439e8d546a60b01058c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-146.txt": {
+                "hash": "26f11ad0cf15efd1209fb56093113857"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-159.txt": {
+                "hash": "7401001c6c9bd946b8dac80fa3350b31"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-124.txt": {
+                "hash": "70c7fe7a9223fb4c81e20563172192f1"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-137.txt": {
+                "hash": "eb03d0effe744b1a901820d198021bc3"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-154.txt": {
+                "hash": "d47a15e2bfda49b1a4349273c25ce4a0"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-150.txt": {
+                "hash": "60cf5a7ac76cb731d95861b5e43b66eb"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-139.txt": {
+                "hash": "29ee80e5575d70238fc409650c38f84f"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-140.txt": {
+                "hash": "0cb2b37ed41a8f8bcb16184c6eea533e"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-132.txt": {
+                "hash": "6767065137616f9d5a8acac370c9a862"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-158.txt": {
+                "hash": "8157c1153ce235eef9fd4621c81d15f0"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-145.txt": {
+                "hash": "0c01ba1b0ff1ef4b87f45b3adcdd57db"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-136.txt": {
+                "hash": "b2f25aff7c84ac8c40784771b04bcd31"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-149.txt": {
+                "hash": "66580037a65696025538ed8ed10f5494"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-162.txt": {
+                "hash": "9c648019b70ee45c4a2baee68a399dd4"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-123.txt": {
+                "hash": "16f2a059bf3fac76c1c142700186d274"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-153.txt": {
+                "hash": "0fec1cd68b163e8dc4c79395ef88ec74"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "9d52ed5a9a9afce710615b0f048d38ad"
+    },
+    "kOsha_amarakOsha.zip": {
+        "contents": {
+            "\/kOsha\/amarakOsha\/amara.txt": {
+                "hash": "2cb038218167c97ac0db9580c99f2ccc"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "42c947d056db468eb86295a855bfc4f0"
+    },
+    "nirukti.zip": {
+        "contents": {
+            "\/nirukti\/yAska nirukti.txt": {
+                "hash": "a3f202ce330abe71ed39f85af051f7e6"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "3d09fb75c93ce14ed935b7de7329a82d"
+    },
+    "mahAbhArata.zip": {
+        "contents": {
+            "\/mahAbhArata\/04-virATa-parva.txt": {
+                "hash": "034a75f18c80dc491853f242e3c4232a"
+            },
+            "\/mahAbhArata\/12-shaanti-parva.txt": {
+                "hash": "898e3711425acc27b79564b1696919eb"
+            },
+            "\/mahAbhArata\/13-anushAsana-parva.txt": {
+                "hash": "b5011c1b5d8e1431062d3e979eb42c8c"
+            },
+            "\/mahAbhArata\/01-Adi-parva.txt": {
+                "hash": "163f9b76e1cf3bb954f9a9ec8c4fb248"
+            },
+            "\/mahAbhArata\/14-AshvamEdhika-parva.txt": {
+                "hash": "e8ab705dedcb383eeb7d75830873ba70"
+            },
+            "\/mahAbhArata\/17-mahAprasthAnika-parva.txt": {
+                "hash": "91bb9339e1780607923f67100fdb013e"
+            },
+            "\/mahAbhArata\/11-strI-parva.txt": {
+                "hash": "da895bfe12c02338a6ed00979ec68360"
+            },
+            "\/mahAbhArata\/15-AshramavAsika-parva.txt": {
+                "hash": "f94d5eadb0e8313128d1b2503e4bfd6d"
+            },
+            "\/mahAbhArata\/07-droNa-parva.txt": {
+                "hash": "3e788a1c199f4f5d53879c7d9084f954"
+            },
+            "\/mahAbhArata\/05-udyoga-parva.txt": {
+                "hash": "2b1727373c1febdf0426939a00b06488"
+            },
+            "\/mahAbhArata\/06-bhIshma-parva.txt": {
+                "hash": "defb26017a039af5fa7abba40bfc9821"
+            },
+            "\/mahAbhArata\/03-vana-parva.txt": {
+                "hash": "1fd06e1909bb98f0df31f9b99f64d45b"
+            },
+            "\/mahAbhArata\/08-karNa-parva.txt": {
+                "hash": "dce21d75bae007bc4026915876e70a8b"
+            },
+            "\/mahAbhArata\/nArAyaNIya.txt": {
+                "hash": "b2af118af18161b4fa55acd3c3e827b9"
+            },
+            "\/mahAbhArata\/10-sauptika-parva.txt": {
+                "hash": "8a50f09e3f7ff3ce3a37c7ef8d71bf20"
+            },
+            "\/mahAbhArata\/02-sabhA-parva.txt": {
+                "hash": "0cfd8f861b57c27313e437978f414af5"
+            },
+            "\/mahAbhArata\/09-shalya-parva.txt": {
+                "hash": "012e094f62cec3df537f18aa3f25a12c"
+            },
+            "\/mahAbhArata\/18-svargArOhaNa-parva.txt": {
+                "hash": "14f070332190f749edf0b1751ad3cc4c"
+            },
+            "\/mahAbhArata\/16-mausala-parva.txt": {
+                "hash": "ca3ee86d65883594547dc93dd13c9f45"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "55ad7945ee803a1edfc4a2e0518b9ee2"
+    },
+    "smRti.zip": {
+        "contents": {
+            "\/smRti\/aMgirasasmRti.txt": {
+                "hash": "a8892342e3fdf79e3fb28ae5d952803f"
+            },
+            "\/smRti\/bRhaspatismRti-vyavahArakANDa.txt": {
+                "hash": "e492e4be7986d0bfe71497445f1c2ee1"
+            },
+            "\/smRti\/manu-smRti\/manu-smRti.txt": {
+                "hash": "c2fb355bc1c7ee9f4a9a589ba24b9b25"
+            },
+            "\/smRti\/viShNusmRti.txt": {
+                "hash": "3871849b977d8c2b3ecc518856495c69"
+            },
+            "\/smRti\/yamasmRti.txt": {
+                "hash": "a9cc35c4e24a8072d30a87029ce4cc9c"
+            },
+            "\/smRti\/parAsharasmRti.txt": {
+                "hash": "eb65c621055c8ec451ba41bda9931dae"
+            },
+            "\/smRti\/yAjnavalkyasmRti.txt": {
+                "hash": "8908032c2b8d1d5b3458d839ab64d957"
+            },
+            "\/smRti\/nAradasmRti.txt": {
+                "hash": "afd9adf3f24ae4525082f5e672985f86"
+            },
+            "\/smRti\/kAtyAyana-smRti.txt": {
+                "hash": "675fbce115e95458d24e684ed1bbd5e7"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "eeb2a265099be1d91b75fc1a3068c8ca"
+    },
+    "stOtra.zip": {
+        "contents": {
+            "\/stOtra\/ramAstOtram.txt": {
+                "hash": "38465bf6dbe23d83ecced0bb2e6f0728"
+            },
+            "\/stOtra\/prAtaHsaMkalpa gadya.txt": {
+                "hash": "50254a17512730ede038910959605d3f"
+            },
+            "\/stOtra\/kaMdukastuti.txt": {
+                "hash": "819589c9699abf47b035190af8c36b9c"
+            },
+            "\/stOtra\/maMgaLASTakam.txt": {
+                "hash": "0cbcfc4e86ac153420256cf32a0c8492"
+            },
+            "\/stOtra\/raghUttamagurustOtram.txt": {
+                "hash": "e5bb05a8bc6ae35185282065c9a7eec8"
+            },
+            "\/stOtra\/kRSNa aSTOttarashatanAma stOtram.txt": {
+                "hash": "33024a89d8daf39a5ef1cf709c11a1c1"
+            },
+            "\/stOtra\/tulasI mAhAtmya.txt": {
+                "hash": "593df40effab6a6bd11dfe12e3efbd4b"
+            },
+            "\/stOtra\/vishvarUpasaMdarshanayOga.txt": {
+                "hash": "dd7a1e9570629b9464a241c409ed49cb"
+            },
+            "\/stOtra\/saMxiptalaxmIhRdayam.txt": {
+                "hash": "5c3824d50256c0ce7834b200dc4bfd1a"
+            },
+            "\/stOtra\/hayagrIva saMpadA stOtram.txt": {
+                "hash": "99b1b786e1ce25fc7f5c00d45620aafe"
+            },
+            "\/stOtra\/kRSNASTakam pAlayAcyuta.txt": {
+                "hash": "d043b42cff825a61e2913ca5925edde9"
+            },
+            "\/stOtra\/gOpIgItam.txt": {
+                "hash": "32d2fabe5fe2791ae93cfbe094f410a2"
+            },
+            "\/stOtra\/shivastuti.txt": {
+                "hash": "1f5fe601b9819a350871d599cb132ec0"
+            },
+            "\/stOtra\/vEdavyAsakarAvalaMbana.txt": {
+                "hash": "8b243cf2cd645701668edf08b3538109"
+            },
+            "\/stOtra\/chaturviMshatimUrti-stuti.txt": {
+                "hash": "6f0c8029e88ced15ef2aeee147f3326e"
+            },
+            "\/stOtra\/guru stOtram.txt": {
+                "hash": "5955d455bfefb52522548d2f12788e0e"
+            },
+            "\/stOtra\/nArAyaNahRdayam.txt": {
+                "hash": "1f7f809bed73d433d4eebdabed29dbe7"
+            },
+            "\/stOtra\/prAtaH prArthanA krama.txt": {
+                "hash": "157fda7c12206f3a6798dafbd3065197"
+            },
+            "\/stOtra\/sarvamUla AdyaMta shlOkAH.txt": {
+                "hash": "6e1086178d3e70ad306d20d0eb2d6e38"
+            },
+            "\/stOtra\/daamOdarastOtram.txt": {
+                "hash": "c53c0794a0b5d2e864a5cc5983e6e4c8"
+            },
+            "\/stOtra\/navagrahastOtram.txt": {
+                "hash": "952f66c92f80f4490260216621e462b6"
+            },
+            "\/stOtra\/viShNusahasranaama.txt": {
+                "hash": "7594f0d000ef1601d913e2cfe2da2ac4"
+            },
+            "\/stOtra\/suMdarakANDa.txt": {
+                "hash": "282278bef88524bda3e5a45983880569"
+            },
+            "\/stOtra\/madhvagurustuti guru paraMparA.txt": {
+                "hash": "109f1d4c1d5421926de40fb5af41ad3d"
+            },
+            "\/stOtra\/viShNustuti satyasaMdharu.txt": {
+                "hash": "d3a45b6c7e8df51265732bd4fdd18550"
+            },
+            "\/stOtra\/bAlaraxAstOtram.txt": {
+                "hash": "ee3d9b205a9b62a913a77ffcae1fd157"
+            },
+            "\/stOtra\/puruShOttama_yOga.txt": {
+                "hash": "d40b509fcd87d550f992cbd473349089"
+            },
+            "\/stOtra\/brahma sUtra aNubhaaShya.txt": {
+                "hash": "d8c6a519e9fa24e7c3878589738ef43e"
+            },
+            "\/stOtra\/raghUttama maMgaLASTakam.txt": {
+                "hash": "d68d8eb6817574365cc9c6cc52c54824"
+            },
+            "\/stOtra\/bhAgIrathI gadyam.txt": {
+                "hash": "2c91edb42e74f9f41aadce24be29d9b5"
+            },
+            "\/stOtra\/laxmIhRdayam.txt": {
+                "hash": "d39de6fdbcfa51bfb4af51c72c6250ff"
+            },
+            "\/stOtra\/yaMtrOddhAraka hanumat stOtram.txt": {
+                "hash": "a715beb421f0f458d710fd072e75117b"
+            },
+            "\/stOtra\/rAghavEMdrastOtram.txt": {
+                "hash": "7204608d4e1ccaa48f6affe3c7c25482"
+            },
+            "\/stOtra\/jitaMtEstOtram.txt": {
+                "hash": "a38e23080de9aacb15b22055874aca5a"
+            },
+            "\/stOtra\/vEMkaTEshastOtram.txt": {
+                "hash": "077e5c7cb2799df6d9a3770895dc9e22"
+            },
+            "\/stOtra\/satyabOdhastOtram.txt": {
+                "hash": "15f48460205141a4edc18e19ed1a0abf"
+            },
+            "\/stOtra\/stOtra.txt": {
+                "hash": "a784dba0cdead0991583e88813843c1a"
+            },
+            "\/stOtra\/srIraamavarNanam.txt": {
+                "hash": "cc92fbaffb7078cf8bebb854ebc36b64"
+            },
+            "\/stOtra\/laxmyaSTakam.txt": {
+                "hash": "7c3fa8d3b05c7cd8589867e0bd2e5eb2"
+            },
+            "\/stOtra\/shrIpAdarAja paMratnamAlikA.txt": {
+                "hash": "9c5ad04ea2e9e720a851e3ac2b51ed74"
+            },
+            "\/stOtra\/gOsAvitrI stOtram.txt": {
+                "hash": "52b122160da2957bd7535560570a2412"
+            },
+            "\/stOtra\/dvaadashastOtram.txt": {
+                "hash": "505351784489f192d9c18842de13d923"
+            },
+            "\/stOtra\/harivAyustuti.txt": {
+                "hash": "787847e84aafa6a97760dc2b5a2179a3"
+            },
+            "\/stOtra\/tAratamyastOtram.txt": {
+                "hash": "9fa41a4618c509b2a94d6ac74ce4ae7e"
+            },
+            "\/stOtra\/prArthanA dashaka stOtram.txt": {
+                "hash": "89c4eab9520c7019fc92aef27f5dcedc"
+            },
+            "\/stOtra\/narasiMhastuti.txt": {
+                "hash": "b54069578335999504a94b5c5371c1df"
+            },
+            "\/stOtra\/mahAbhAratatAtparyanirNayabhAvasaMgraha.txt": {
+                "hash": "38953a0afda7d0bc1437664ed033b9fb"
+            },
+            "\/stOtra\/narasiMhastuti shanaishcarakRta.txt": {
+                "hash": "c241fe9d1b4ce366b9c82bb7a5b6ff49"
+            },
+            "\/stOtra\/durgAstOtram.txt": {
+                "hash": "41d131c76bd561da5703e698f3f616f1"
+            },
+            "\/stOtra\/brahma sUtra.txt": {
+                "hash": "9b0f9016aa220a737d639bc0ffa71a5b"
+            },
+            "\/stOtra\/bhagavaddhyaanam.txt": {
+                "hash": "3bc37281a0aab25c76e9e4fd382dfa1a"
+            },
+            "\/stOtra\/raMgastOtram.txt": {
+                "hash": "6845e54e9f4d82f249e69254eae40fea"
+            },
+            "\/stOtra\/TIkAkRtpAdASTakam.txt": {
+                "hash": "9841263d23de1e81fdd3b6f3303c7523"
+            },
+            "\/stOtra\/vyAsarAjastOtram.txt": {
+                "hash": "bf989312d515f713e59d83b09c74bebb"
+            },
+            "\/stOtra\/vAdirAjastOtram.txt": {
+                "hash": "b77edcae7e6a8f106e4c527a7bb4766d"
+            },
+            "\/stOtra\/nArAyaNavarma.txt": {
+                "hash": "04585c0eb6abc447d5d3e223093d34ac"
+            },
+            "\/stOtra\/shrIshaguNadarpaNam.txt": {
+                "hash": "0ee62aa4fdd40bfee99402b531c52d08"
+            },
+            "\/stOtra\/vyAsagadyam.txt": {
+                "hash": "5d740a2665eb3f34f04cd893578df14a"
+            },
+            "\/stOtra\/dadhivaamanastOtram.txt": {
+                "hash": "9621be43c10fad73ed23433bf9cd25d1"
+            },
+            "\/stOtra\/jayatIrthastuti.txt": {
+                "hash": "4b4a63fe20d5589a0414a30fe035d336"
+            },
+            "\/stOtra\/satyapriyAShTakam.txt": {
+                "hash": "b847fc69538fb96d8ebe0be36fb8321b"
+            },
+            "\/stOtra\/AmaMtraNOtsava stOtram.txt": {
+                "hash": "8b1593a8ed8abba9cf9aebf56184e17d"
+            },
+            "\/stOtra\/dashAvatArastuti.txt": {
+                "hash": "1c656b06a25051d89f149ff5d32f4343"
+            },
+            "\/stOtra\/narasiMhastuti trivikrama paMDita.txt": {
+                "hash": "3645829eadea56b1d51ac99d076b0f10"
+            }
+        },
+        "lastModified": "2017-08-12T10:44:23.568Z",
+        "hash": "ef3062fdb6091ad51a49965f98af8148"
+    },
+    "rAmAyaNa.zip": {
+        "contents": {
+            "\/rAmAyaNa\/vAlmIki rAmAyaNa.txt": {
+                "hash": "f0d24531a73bad3abdb503eda2625ca0"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "3bd58a467152776d7ad34760a2bfa017"
+    },
+    "vEda.zip": {
+        "contents": {
+            "\/vEda\/nAdabiMdu upaniShat.txt": {
+                "hash": "f46a3db94d1ad47ab4a34d6556dcd75c"
+            },
+            "\/vEda\/puruShasUktakhaMDaartha.txt": {
+                "hash": "b27d9645b208bcf9a713f1628a11d5c8"
+            },
+            "\/vEda\/IshAvAsya upaniShat.txt": {
+                "hash": "7bcb46221578a2343e6ebd7df9f2e076"
+            },
+            "\/vEda\/aitarEya upaniShat.txt": {
+                "hash": "a65db0e2386bd6418455483229651cca"
+            },
+            "\/vEda\/mAMDUkya upaniShat.txt": {
+                "hash": "f6bb5f262010fd44678ac0afabd1b771"
+            },
+            "\/vEda\/garbha upaniShat.txt": {
+                "hash": "49068e90947865f6555ab0dc4d0e0037"
+            },
+            "\/vEda\/sAmavEda.txt": {
+                "hash": "cdaf73efc95f2866edd605f8a0fe39dc"
+            },
+            "\/vEda\/atharvavEda saMhitA.txt": {
+                "hash": "76e8d0308cac83d44aa3a2c3edc11828"
+            },
+            "\/vEda\/brahmabiMdu upaniShat.txt": {
+                "hash": "9ea8f592f9042a13e28737f6200ad080"
+            },
+            "\/vEda\/gOpatha brAhmaNa.txt": {
+                "hash": "1fd6b8badc27287be52d2b2e8c65f2d1"
+            },
+            "\/vEda\/RgvEda.txt": {
+                "hash": "763cdf8c3cefa3c2e00b621799111347"
+            },
+            "\/vEda\/RgvEda khilAni.txt": {
+                "hash": "119095a4f02717f5895394df4fc650a1"
+            },
+            "\/vEda\/bRhadAraNyaka upaniShad.txt": {
+                "hash": "451860b24d0d38189aa8f6eef2609ded"
+            },
+            "\/vEda\/maitrAyaNI-saMhitA.txt": {
+                "hash": "9f16025fee3449b8960beac622f127b5"
+            },
+            "\/vEda\/ChAMdOgya upaniShat.txt": {
+                "hash": "66b4e632f9cb0519cf9984f578813402"
+            },
+            "\/vEda\/mAMDUkya kArikA.txt": {
+                "hash": "97c23724587237fe99d9976042f0542b"
+            },
+            "\/vEda\/shatapatha brAhmaNa.txt": {
+                "hash": "1b876f63ba5110c9a6b65cec8d8d6e17"
+            },
+            "\/vEda\/RgvidhAna.txt": {
+                "hash": "006f31fbd6d7fac07a64c046bc71f7ff"
+            },
+            "\/vEda\/atharva shira upaniShat.txt": {
+                "hash": "68808005156898fcef4860900a10c56e"
+            },
+            "\/vEda\/shvEtAshvatara upaniShat.txt": {
+                "hash": "1022cac9e5f808080f8f74e7e76d15ad"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "ae0eb10f89bd4ef24255725acabf27f0"
+    },
+    "purANa_harivaMsha.zip": {
+        "contents": {
+            "\/purANa\/harivaMsha\/harivaMsha-01.txt": {
+                "hash": "0e61ee86f9d920e2901806525f2e9f6d"
+            },
+            "\/purANa\/harivaMsha\/harivaMsha-02.txt": {
+                "hash": "bbb62930c4a124c9d5e3daf8407d32d4"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "0e82136ff610421ba3a82b6eebde8e17"
+    },
+    "purANa_vAmana-purANa.zip": {
+        "contents": {
+            "\/purANa\/vAmana-purANa\/vAmana purANa.txt": {
+                "hash": "3782fba94f53773e70643876093cc57c"
+            },
+            "\/purANa\/vAmana-purANa\/vAmana purANa sarO mahAtmya.txt": {
+                "hash": "31939a53426cbe3478b12b3b48fd3e32"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "d7b50cf62583515bce1140148433fcb2"
+    },
+    "madhvavijaya.zip": {
+        "contents": {
+            "\/madhvavijaya\/aNumadhvavijaya.txt": {
+                "hash": "ffbf9c607a109753cc3d832a15a747a2"
+            },
+            "\/madhvavijaya\/prameyaphalamAlikA.txt": {
+                "hash": "8c343eeba86d5431a41851fcf2d8f32a"
+            },
+            "\/madhvavijaya\/madhvavijaya.txt": {
+                "hash": "3f844c65b28acb0ae630cd221ec919fc"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "15a128ef8897c635bc3fc861374fd831"
+    },
+    "zipsUpdated": [
+        
+    ],
+    "kOsha_vAchaspatyaM.zip": {
+        "contents": {
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-080.txt": {
+                "hash": "d48253188829298985dbc2a5c75286e3"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-119.txt": {
+                "hash": "05b106aae21721197a5328703afeb9b4"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-038.txt": {
+                "hash": "193301ca882ac30b6311b91b4b645561"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-089.txt": {
+                "hash": "dc3ca365b5ebd40e770191d01a48eda3"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-100.txt": {
+                "hash": "f5993d705894f48570521a69f6d5f14e"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-003.txt": {
+                "hash": "193d2fe41c8dbf2a42d6b09fbcb66607"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-072.txt": {
+                "hash": "b3919223825ecd903ff784be685731d8"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-046.txt": {
+                "hash": "0c76bf66f44bdf23b5d4dda27a5558ce"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-062.txt": {
+                "hash": "61481d2a3a1b64649e550dd3eee24f16"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-054.txt": {
+                "hash": "657a34b522ab9746b00fd67d85b9377c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-011.txt": {
+                "hash": "64478af22d0286bc5ee3f92dc49bb6ac"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-028.txt": {
+                "hash": "18130a426b7146605d28267b55852f78"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-097.txt": {
+                "hash": "dd0e3945bf3c45cc78b5196c12ea841c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-001.txt": {
+                "hash": "4c2b822a9525d81f69f4cbcb63c04238"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-074.txt": {
+                "hash": "d949f58b499af6813c40af5c994fb886"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-044.txt": {
+                "hash": "b5fdfbdb2c3858d74694ad5cfa944986"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-117.txt": {
+                "hash": "1d97fa2ed26b56adcbf79bca00a98680"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-031.txt": {
+                "hash": "38b88a9714e5afb64ce8bfedf0cfb202"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-087.txt": {
+                "hash": "152c00fcb278d9580714658749dc4174"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-007.txt": {
+                "hash": "53e8850798aee6229601970d92442b69"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-013.txt": {
+                "hash": "bba37feb4d72d3fbbaf0b15cdbe8bef3"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-056.txt": {
+                "hash": "ec04a8b10f5fddbd58b1116ae6c3865d"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-069.txt": {
+                "hash": "60bbace5c90e4f06b9749e39bfffa156"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-026.txt": {
+                "hash": "b86c0b9003d2958a726743987037e3bf"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-090.txt": {
+                "hash": "5a29a1fd3d086c49a3b964ea4b79c32b"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-060.txt": {
+                "hash": "36285ab13db21f7ba55aeccf84189270"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-099.txt": {
+                "hash": "79f0d4325386247d57e676312a7fc23b"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-110.txt": {
+                "hash": "923fe30ace92250ecdcf5b3d17303116"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-025.txt": {
+                "hash": "5206d55ff96b3685fe0e8b6ba776d29f"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-068.txt": {
+                "hash": "1049b2c62fc1b3dd332429a02a5b5045"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-009.txt": {
+                "hash": "ce6d55b1d51f9270fe168ed9802e95d2"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-042.txt": {
+                "hash": "e4d63deeb3ec1986a3e4d7ab087c557b"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-113.txt": {
+                "hash": "8f9f2e49272a838c3b14b1f550deac4a"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-085.txt": {
+                "hash": "ff2413b48c12fb7ced4a90a4ba81ef40"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-075.txt": {
+                "hash": "b7f0c2111e208ef0c1b8289e4a12c656"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-107.txt": {
+                "hash": "9dfe36a53dabbc87b65a1949b0044f32"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-040.txt": {
+                "hash": "96a3a30b0d73437e48773a3d933421f7"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-104.txt": {
+                "hash": "e2e7d70d2f56510ce67f7c285b69e9cd"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-092.txt": {
+                "hash": "529424bc318ab4354603efe81c2af3c2"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-058.txt": {
+                "hash": "8223ee026b4d68b96dcb6370a8025596"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-015.txt": {
+                "hash": "8d0d5c2f80527e601c98bbe6b01e1fcf"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-023.txt": {
+                "hash": "e44d496d80c8fd01240ee1fd4777f447"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-006.txt": {
+                "hash": "a27e885dc8d9c717eeedcb08b688eef7"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-032.txt": {
+                "hash": "0ff1ff3f533184de795ba0341ee3bd4a"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-049.txt": {
+                "hash": "47bf18ef336dc0c9238f1cc4de134bc6"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-036.txt": {
+                "hash": "71134001e451bbf1958a885a63524987"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-079.txt": {
+                "hash": "1f4a5740bacf5d9277f8c14cb2f2da9e"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-066.txt": {
+                "hash": "fca245d9d2f235d45fb9b5a8bf5d4d73"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-053.txt": {
+                "hash": "730cca1e661eed929c4a486cacf3baba"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-083.txt": {
+                "hash": "3c1653852f0ca223e4b6b318adc3254d"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-096.txt": {
+                "hash": "30c3cc45d8c2504cf5a0ee47a55430e5"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-070.txt": {
+                "hash": "ac58265cacf6747d78dea60cdf8e183a"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-115.txt": {
+                "hash": "57b0477d9263c75c55cbdc49f27a18b1"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-109.txt": {
+                "hash": "eb1d9ff57155f2cb03d12a322afa82ac"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-081.txt": {
+                "hash": "5a893cc0075866991093dc0316f628e4"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-102.txt": {
+                "hash": "cf43427b36f499e280638cdd3665610e"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-094.txt": {
+                "hash": "e2670958cb136d6aad4505c7505cee86"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-064.txt": {
+                "hash": "9c92bdd652a7ed147223f500ebb935aa"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-051.txt": {
+                "hash": "4ad46b4b4a919b99198e6e0d247d1c9a"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-077.txt": {
+                "hash": "abce53a4076da66494a7513377aeb8a9"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-004.txt": {
+                "hash": "2261091de8e1b3fa6f63844114f04b72"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-034.txt": {
+                "hash": "62b09bd00f534a8b7928f2811e045a56"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-017.txt": {
+                "hash": "ae9a07f81192dfbc28876a6054f0b6d3"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-021.txt": {
+                "hash": "f3a8f388256615c5058b999f1ae07c00"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-047.txt": {
+                "hash": "5129e2cea712977f45ea277f4a451781"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-098.txt": {
+                "hash": "bbb96a16ce6b613d158264cf690b4144"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-020.txt": {
+                "hash": "c1051a4ffe49049cd3e5920192549c3d"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-055.txt": {
+                "hash": "371c4226167d53a3c0fedbfa40623c8a"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-063.txt": {
+                "hash": "5fdba54767910d60af44e1c68ad708a9"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-012.txt": {
+                "hash": "47b09e47cd4aff9415f534042816517d"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-037.txt": {
+                "hash": "b86d6407a89be6adbbca279c4b5b3eee"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-002.txt": {
+                "hash": "681e4a9dde6b7537a638d5d55501f10f"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-010.txt": {
+                "hash": "f09d2e3e6ee4585292bb82e33eda1594"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-045.txt": {
+                "hash": "0f97a58ec6579a5210385539e8fa238f"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-088.txt": {
+                "hash": "938f485852467c9eb8cfd4a2b7b007c6"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-071.txt": {
+                "hash": "d0f8d43dd0124a9b67ae46561dcf566c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-019.txt": {
+                "hash": "69c8e6b986d525f39f912442cc76e25f"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-061.txt": {
+                "hash": "2ef5180b8b205f4fc4abc72b35655457"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-014.txt": {
+                "hash": "87c50bfbf04ae35a07744716c2c2de45"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-027.txt": {
+                "hash": "15bf41637bd721244b8f14d697dcf179"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-091.txt": {
+                "hash": "7d534a320f6c3900d800430ad15997b4"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-057.txt": {
+                "hash": "6488da243f659de1e797b7d4f8d39faf"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-111.txt": {
+                "hash": "ee372f7f4ff70ec78dec4cf4e6ee60c2"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-086.txt": {
+                "hash": "1fb66811f1d3d512ada10f785d74a1d1"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-043.txt": {
+                "hash": "92e0a539390f02f9335f19282c022fdf"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-039.txt": {
+                "hash": "64ba663bdb414226b3ae50c6c448e935"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-118.txt": {
+                "hash": "f83243b63d8d4df38d1595775d02da51"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-008.txt": {
+                "hash": "264d016688f28b1c1efd82e265adca32"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-030.txt": {
+                "hash": "a9bd940a511bf2760adb9b4456d0ab42"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-073.txt": {
+                "hash": "36e32bac099acc774795a81b41c2018e"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-050.txt": {
+                "hash": "2e74eb2932f0f00f7b3f0abe696bfff0"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-093.txt": {
+                "hash": "40674bf62fc67015cee928724bcc9445"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-105.txt": {
+                "hash": "e57e883ab6a896a8df2a7c62479e5465"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-106.txt": {
+                "hash": "30573ee0bc5e5e86b77dfd16a84d3ca5"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-016.txt": {
+                "hash": "e51b37b38a3f65ca7974732f1e837b34"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-076.txt": {
+                "hash": "a72f9e7a61caf6874c6e9bcb2d803ef2"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-033.txt": {
+                "hash": "0b446ee3f849dab9f8bb3bd86aed8253"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-059.txt": {
+                "hash": "c0eb3c7c12f349c46cd61e268d906914"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-018.txt": {
+                "hash": "39a320373e0eceea6dd034b45cf99c9c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-024.txt": {
+                "hash": "66ee78f3e9e68fce676551100201f334"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-067.txt": {
+                "hash": "8620f19aa84f129cd12b874e602f0618"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-041.txt": {
+                "hash": "69ab83700c7d14012b59e88c67b6ab4f"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-112.txt": {
+                "hash": "92a67cdbfaee47b19a985d3ad4e5d568"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-084.txt": {
+                "hash": "df0e01d377874df0fd79371736e362d3"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-103.txt": {
+                "hash": "ff97c5921bc4665447dbccc408e5f960"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-108.txt": {
+                "hash": "243adbe6be7e01f7352e8823df56c52d"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-116.txt": {
+                "hash": "41007b77131e62df15f249f7249e54e1"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-120.txt": {
+                "hash": "9a9ed8cf9bc9337c285d507a3da8d458"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-052.txt": {
+                "hash": "c6fb3a83a1a90bb7b5da1cb0ce79a36e"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-065.txt": {
+                "hash": "c37bf0ab848b39bd561e21a80c15c58a"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-035.txt": {
+                "hash": "ed9b4a2d7c158778ecad77c89c352a4a"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-022.txt": {
+                "hash": "889c8ee78fae3ed7b5851ce0ee8ba817"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-005.txt": {
+                "hash": "bd9729215cf2e6b388dc55bd8ebb658c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-048.txt": {
+                "hash": "18830a63d853612d9c1145af8954bda8"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-029.txt": {
+                "hash": "668fa3b4245eaeeedda712da289885dc"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-078.txt": {
+                "hash": "26d620d26c1932970320f7facd5b099c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-095.txt": {
+                "hash": "866fc6739de5c27417d538e4820ea6d1"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-101.txt": {
+                "hash": "5f8b4506e4fd835972ee132f39c16da9"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-082.txt": {
+                "hash": "07e04db98c6263f01addd4515c5fa729"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-114.txt": {
+                "hash": "dc477d383ab5b2629d8bf08040c1b6b7"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "a8e18200b9bf940dbacfa8db7d0e38b5"
+    },
+    "itaragraMthAH.zip": {
+        "contents": {
+            "\/itaragraMthAH\/prakAsha-saMhitA.txt": {
+                "hash": "8b95dedef60be1d822bdafae1389f821"
+            },
+            "\/itaragraMthAH\/pauShkara saMhitaa.txt": {
+                "hash": "93a68f849bb7e11462577e6016c26332"
+            },
+            "\/itaragraMthAH\/sAtvata taMtra.txt": {
+                "hash": "93738412d074126c41b5ff981e8dbf1b"
+            },
+            "\/itaragraMthAH\/tarka tAMDava nyAyadIpa.txt": {
+                "hash": "d2c1f5bceffa40d5318b47b595fdfaee"
+            },
+            "\/itaragraMthAH\/tarka saMgraha saTIka.txt": {
+                "hash": "408ff044e4409e77e020f89eceabf61d"
+            },
+            "\/itaragraMthAH\/viShvaksEna saMhitA.txt": {
+                "hash": "b6fc020db1c69cb6590f54c3424d76ad"
+            },
+            "\/itaragraMthAH\/vIramitrOdaya.txt": {
+                "hash": "f58887f87ff303b4daf9cbd1e70c968e"
+            },
+            "\/itaragraMthAH\/subhAShita.txt": {
+                "hash": "97875e7ab21af79d37503a5213ac0f99"
+            },
+            "\/itaragraMthAH\/sUrya-siddhAnta.txt": {
+                "hash": "8e415cbd72ae66f2d0606d3dd7ff9bd3"
+            },
+            "\/itaragraMthAH\/nyAya sudhA.txt": {
+                "hash": "b7c4bbed41bdb63f67d13db03c22c4b7"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "36405ac6f5deffb9b97779e87f154246"
+    },
+    "strIdharma.zip": {
+        "contents": {
+            "\/strIdharma\/gurumaMtra.txt": {
+                "hash": "d3ccb46eb3ba48280b537df7aa6e7d3e"
+            }
+        },
+        "lastModified": "2017-08-12T10:44:23.568Z",
+        "hash": "bd06cbd88267a694c44f2d60428039c0"
+    },
+    "dAsasAhitya.zip": {
+        "contents": {
+            "\/dAsasAhitya\/jagannAthadAsaru\/laxmIhRdaya-stOtra.txt": {
+                "hash": "c0a80c7f2a6ab88fabd1e3bbccd8c233"
+            },
+            "\/dAsasAhitya\/puraMdaradAsara-gadya.txt": {
+                "hash": "1887d0cc91a29925654badda261a9ad2"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/paMcharatna-suLAdigaLu.txt": {
+                "hash": "6ecc2dd4923181d80c361ff03a6b5744"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/habba-suLAdi.txt": {
+                "hash": "675bb33a0dabbc9a65d436eb1cd4c2f4"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/sAdhana-suLAdi.txt": {
+                "hash": "88e37eee335604e6df96df024dc8b609"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/avatAratraya_madhva-suvvAli.txt": {
+                "hash": "bdf4a0f14427d9c3cb0f787a2185650f"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/shrInivAsa-suLAdi.txt": {
+                "hash": "1105fb40c14f2ee5fb47743b13d9dbcb"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/maDi-suLAdi.txt": {
+                "hash": "fc0a60d02be0d4f513e02163a466d2dd"
+            },
+            "\/dAsasAhitya\/kanakadAsaru\/haribhaktisAra.txt": {
+                "hash": "37769d4ef6c76f93334626c814246a1d"
+            },
+            "\/dAsasAhitya\/kanakadAsaru\/kEshavanAma.txt": {
+                "hash": "3c39fe62936e066df2b3fad415a5a87a"
+            },
+            "\/dAsasAhitya\/jagannAthadAsaru\/narasiMha-suLAdi.txt": {
+                "hash": "b20b2aec1058b69b7db87401e55f78b1"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/laxmI-shObhana-hADu.txt": {
+                "hash": "e960d5d333da31c2a705b37fdf84d950"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/svapnapada.txt": {
+                "hash": "8ff49e616d7c925008fb59156ac311d2"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/annadAna-mahimA-suLAdi.txt": {
+                "hash": "edd7fa629ba6ddee6b67ce774aca7d1c"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/sAMkhya-shAstra-suLAdi.txt": {
+                "hash": "503f868566bd52dee777802df95319bb"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/guMDa_kriye.txt": {
+                "hash": "1f56e98ee952b4ca451039361e4e9886"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/naivEdya-suLAdi.txt": {
+                "hash": "bc42b7c4b00d67edc7b341189335f41a"
+            },
+            "\/dAsasAhitya\/gOpAladAsaru\/karuNa-kavacha.txt": {
+                "hash": "2045308e2bd335cd958c1e738a848c4f"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/haridAsa-laxaNa-suLAdi.txt": {
+                "hash": "503bce7d3db662893c13cd044e30ac3d"
+            },
+            "\/dAsasAhitya\/jagannAthadAsaru\/vEMkatEsha-stavarAja.txt": {
+                "hash": "2ab75125a9e11a43e187b0a691f2b577"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/axayapAtre-hADu.txt": {
+                "hash": "d642569334eab073b6703db0e63db96f"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/virADrUpa-suLAdi.txt": {
+                "hash": "5e178bd1ef63a0c0c6449324e4762a30"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/tatvasAra-vaikuMTha-varNane.txt": {
+                "hash": "f71af02310b14612c8e748942d15f416"
+            },
+            "\/dAsasAhitya\/vijayakavacha.txt": {
+                "hash": "366c8b58ee978b58bb9b804df494ff49"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/vedavyasa-suLAdi.txt": {
+                "hash": "18335b334e1e4e2028da457eed795102"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/bhramara_gIte.txt": {
+                "hash": "b1b6d6fb667acbe2906ac2323a520aaf"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "220442d3832b10dbc046fcddf88c994c"
+    },
+    "purANa_viShNudharma.zip": {
+        "contents": {
+            "\/purANa\/viShNudharma\/viShNu dharma.txt": {
+                "hash": "a17034bc9a4271331b8c14cfa58df59c"
+            },
+            "\/purANa\/viShNudharma\/viShNudharmOttara-purANa.txt": {
+                "hash": "3b1032373b44ee8f856a694908996da7"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "005418e2fbadc2eda956411770ff918e"
+    },
+    "sAhitya.zip": {
+        "contents": {
+            "\/sAhitya\/bhAravi\/kirAtArjunIya.txt": {
+                "hash": "19481af9f56ae61082539f7bbf285fb5"
+            },
+            "\/sAhitya\/jayadEva\/gIta-gOvindam.txt": {
+                "hash": "cc299c5f22aa039c350d515136b156c7"
+            },
+            "\/sAhitya\/kALidAsa\/RtusaMhAra.txt": {
+                "hash": "6aa2a73067f4ab659d15b20432a1dc7a"
+            },
+            "\/sAhitya\/mAgha\/shishupAlavadha.txt": {
+                "hash": "3bd84c3be319ab6e7a75d963666cc287"
+            },
+            "\/sAhitya\/kALidAsa\/abhijnAnashAkuntalam.txt": {
+                "hash": "350bc83a0710d45760f3cf895c66e7f5"
+            },
+            "\/sAhitya\/kALidAsa\/shyAmalA-daMDakam.txt": {
+                "hash": "2d87c6ff5098145b9c64fe73bb82b25b"
+            },
+            "\/sAhitya\/kALidAsa\/mEghadUta.txt": {
+                "hash": "769ac23c00bbc64e742144bf58ea159d"
+            },
+            "\/sAhitya\/kALidAsa\/raghuvaMsha.txt": {
+                "hash": "d5fdb8e53eec18fdabc53ddae53bdfc2"
+            },
+            "\/sAhitya\/kALidAsa\/kumArasaMbhavam.txt": {
+                "hash": "0e6432b2cd9c51e44d62682c82aba413"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "7570be37dee5ff3606a0b83135d6d1e2"
+    },
+    "sarvamUla.zip": {
+        "contents": {
+            "\/sarvamUla\/aitarEya-bhAShya.txt": {
+                "hash": "a61b9b72d1b342c363d997f34a5ed244"
+            },
+            "\/sarvamUla\/RgbhAShya.txt": {
+                "hash": "a054115957e46dc8475aaaf972eb636d"
+            },
+            "\/sarvamUla\/saMkIrNa.txt": {
+                "hash": "823822f58bfc324fd4c53a596b24ef83"
+            },
+            "\/sarvamUla\/gItAbhAShya.txt": {
+                "hash": "0e83fad08d2c30a5cf1aef2177c968fe"
+            },
+            "\/sarvamUla\/kAThaka-bhAShya.txt": {
+                "hash": "263dd973d9264dd4d606ee55a84eda88"
+            },
+            "\/sarvamUla\/bhAgavata-tAtparya.txt": {
+                "hash": "8d69ed250bb98a49638b26d6d3b50dac"
+            },
+            "\/sarvamUla\/gItAtAtparya.txt": {
+                "hash": "fc911ecf463beab5aa44f1092dfffeea"
+            },
+            "\/sarvamUla\/shaTprashna-bhAShya.txt": {
+                "hash": "2a11bf5dcf3f260006a6676fcdf509e6"
+            },
+            "\/sarvamUla\/sUtra.txt": {
+                "hash": "34094395493fcf0fa06a106e3d3e2aca"
+            },
+            "\/sarvamUla\/kRShNAmRta mahArNava.txt": {
+                "hash": "ad96ec3c4726b7f0e14e04c3cf860d74"
+            },
+            "\/sarvamUla\/mANDUkya-bhAShya.txt": {
+                "hash": "593325eaf386026910a4785ab911b319"
+            },
+            "\/sarvamUla\/yamaka.txt": {
+                "hash": "5f8dba9d2e8067b397895a68f7914c99"
+            },
+            "\/sarvamUla\/nyAyavivaraNa.txt": {
+                "hash": "b69b57455924dbf88b071c452132f062"
+            },
+            "\/sarvamUla\/sUtrabhAShya.txt": {
+                "hash": "5c3f57778ab666aaa58ced3f39991e99"
+            },
+            "\/sarvamUla\/gItA.txt": {
+                "hash": "a1e930244d7349f848d8b6421a1c5a2a"
+            },
+            "\/sarvamUla\/ChAndOgya-bhAShya.txt": {
+                "hash": "63f3d9d1a5dd1ed0474a0682b9401300"
+            },
+            "\/sarvamUla\/taittirIya-bhAShya.txt": {
+                "hash": "e035d488c0f4d3eea4c2d0e6c7ad3447"
+            },
+            "\/sarvamUla\/anuvyAkhyAna.txt": {
+                "hash": "57a09ae4d549b6d5dcbcba9c9769b8f7"
+            },
+            "\/sarvamUla\/bRhadAraNyaka-bhAShya.txt": {
+                "hash": "85d8c6973e2ddc1743448c74361b5313"
+            },
+            "\/sarvamUla\/mahAbhAratatAtparyanirNaya.txt": {
+                "hash": "5ac630a1f8d09b07efd9b90e7c76f3ec"
+            },
+            "\/sarvamUla\/IshAvAsya-bhAShya.txt": {
+                "hash": "1386966d06cf4d8d14de3458e55c96f7"
+            },
+            "\/sarvamUla\/talavakAra-bhAShya.txt": {
+                "hash": "4fb61de5246e719e37a60e115b1fa7e7"
+            },
+            "\/sarvamUla\/Atharvana-bhAShya.txt": {
+                "hash": "2ad13dc55566ce4370e62841af360a8a"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "27de98944d2135a338291f6c29b94140"
+    },
+    "harikathAmRtasAra.zip": {
+        "contents": {
+            "\/harikathAmRtasAra\/harikathAmRtasAra.txt": {
+                "hash": "e6070077115806a83ec6d0e722f15d78"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "e21378227f677bf44c704b5abfb94022"
+    },
+    "purANa.zip": {
+        "contents": {
+            "\/purANa\/brahma-purANa.txt": {
+                "hash": "4e9e4ec9d541d344e3eee8077593162e"
+            },
+            "\/purANa\/shiva-purANa.txt": {
+                "hash": "0dd70642fdc1f2afb98f1baebf86bbaa"
+            },
+            "\/purANa\/agni-purANa.txt": {
+                "hash": "098619699b55c1488edf9ce33ad64254"
+            },
+            "\/purANa\/viShNu-purANa.txt": {
+                "hash": "ee095e1b67c26c97a8a50cc6246364a8"
+            },
+            "\/purANa\/matsya-purANa.txt": {
+                "hash": "8602524a005e58748e242a7513b6359a"
+            },
+            "\/purANa\/liMga-purANa.txt": {
+                "hash": "17b81aeb8d8e72ca5366bd15a6d73f84"
+            },
+            "\/purANa\/mArkaMDEya-purANa.txt": {
+                "hash": "10609b82d04d57c8acc31684e51af7d0"
+            },
+            "\/purANa\/bhAgavata-purANa.txt": {
+                "hash": "9da97e2eaffa2c6cedfe45c3b272caa1"
+            },
+            "\/purANa\/brahmAMDa-purANa.txt": {
+                "hash": "e6fbdfeb059f89c7bd14ef8e5539cb4c"
+            },
+            "\/purANa\/garuDa-purANa.txt": {
+                "hash": "75766dfd032b28ec117695d8eb029d1e"
+            },
+            "\/purANa\/kUrma-purANa.txt": {
+                "hash": "d37639f584fbd6ef59dda17b2371bd8d"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "0f575589f91226bef2f3410dadba2924"
+    },
+    "kOsha.zip": {
+        "contents": {
+            "\/kOsha\/EkArthanAmamAlA.txt": {
+                "hash": "c0a400f9186a83c60db073c8e0be6c5e"
+            },
+            "\/kOsha\/EkAxarakOsha.txt": {
+                "hash": "7d24905124ae06d4976d89aa02ce0c25"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "a1805106a50613e429a9666d5eb4016d"
+    },
+    "purANa_nAradapurANa.zip": {
+        "contents": {
+            "\/purANa\/nAradapurANa\/nArada-02.txt": {
+                "hash": "e7b69926945ee24c6437ead02ce6024f"
+            },
+            "\/purANa\/nAradapurANa\/nArada-01.txt": {
+                "hash": "1d27d5db5761260b416811a98d9b7ec3"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "cb8c150f7875f3c67d4a18bbb2e1f3dc"
+    },
+    "purANa_padmapurANa.zip": {
+        "contents": {
+            "\/purANa\/padmapurANa\/pAtALa-khaNDa.txt": {
+                "hash": "d52e36247e1774762c626e88dbea8e66"
+            },
+            "\/purANa\/padmapurANa\/kriyA-khaNDa.txt": {
+                "hash": "9efc79f0d17ab220f45017bffea40059"
+            },
+            "\/purANa\/padmapurANa\/uttara-khaNDa.txt": {
+                "hash": "12a373d6507d32879f453295e6979348"
+            },
+            "\/purANa\/padmapurANa\/svarga-khaNDa.txt": {
+                "hash": "87f3566c1e28fe43dbc206291741220c"
+            },
+            "\/purANa\/padmapurANa\/bhUmi-khaNDa.txt": {
+                "hash": "dfe7ded79a580ad13f5f34cd1200f12a"
+            },
+            "\/purANa\/padmapurANa\/brahma-khaNDa.txt": {
+                "hash": "b5a3bb2931d87d36ef63fa34e00f1c73"
+            },
+            "\/purANa\/padmapurANa\/sRShTi-khaNDa.txt": {
+                "hash": "0f43805098d86eb644bbaec7644ff4f7"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "cb73192a28b31e262892d7c9283da627"
+    },
+    "mImAMsA.zip": {
+        "contents": {
+            "\/mImAMsA\/jaimini\/mImAMsAsUtra.txt": {
+                "hash": "bfed9bd6b13378cc4a5c6ad6ffb12e2e"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "f95f820c3ce22cb13bf3598e34207c58"
+    },
+    "purANa_bhaviShyapurANa.zip": {
+        "contents": {
+            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-04.txt": {
+                "hash": "edd46b2cfcb841a82f70c5f62d9a8856"
+            },
+            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-01.txt": {
+                "hash": "59020a9a84f6de5b256749de150ae1b8"
+            },
+            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-02.txt": {
+                "hash": "6bdbf0f723e73ea664cbc6a18f5b1af8"
+            },
+            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-03.txt": {
+                "hash": "482443bf6ebe13f36b73ed695839a2cb"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "7245c2a1b786d58e5ce75b1f9be368de"
+    },
+    "kOsha_shabdakalpadruma_1.zip": {
+        "contents": {
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-144.txt": {
+                "hash": "80b52480606d4d2916d6dce1d071e545"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-149.txt": {
+                "hash": "45fa6b8ea55cbe0b72ff4ddb1393b695"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-152.txt": {
+                "hash": "f24a6d809cbbb4ac7a366b6036ddc759"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-161.txt": {
+                "hash": "9c4074de720add7e24fb125677bc4247"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-160.txt": {
+                "hash": "66e117ef3808d605d5411a6e12fc08a9"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-165.txt": {
+                "hash": "a78bda538f1d48cd1618a33b1ca3c3a3"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-145.txt": {
+                "hash": "a69ddd5489258784c9aedeaabdd12ae7"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-158.txt": {
+                "hash": "d8cd61ce6de4bdbe49230e4219e77dc5"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-143.txt": {
+                "hash": "2882feb18b191c50dfeefa420b653538"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-151.txt": {
+                "hash": "62a23c416b6f1c335f63ba80ac29531c"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-164.txt": {
+                "hash": "88882ba1a6e7b46c6652cb40727bf0da"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-159.txt": {
+                "hash": "b699af73b25c460395981e751c5e6729"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-146.txt": {
+                "hash": "863498a20840861cdee25e4eab42adf4"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-155.txt": {
+                "hash": "8fb86cb91f0b802e346d53c2245331fe"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-142.txt": {
+                "hash": "1b6964b33c67eb2b09182f6631bbbab2"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-150.txt": {
+                "hash": "a91f7349b82e85879ec69e41cd69f5a6"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-163.txt": {
+                "hash": "c20c33f97e24fce95f70fff070f1cd82"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-141.txt": {
+                "hash": "f0191ea3a3633a5227575b7a9a67b5ca"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-154.txt": {
+                "hash": "24956793a53fd80f3ec2945a15a570d6"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-147.txt": {
+                "hash": "580ecf95775500d711169efebb49614f"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-156.txt": {
+                "hash": "2e666a07cfe5e0ee2178e1ca4143d177"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-139.txt": {
+                "hash": "c63da35ae693f3ff6b87683b8932031b"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-148.txt": {
+                "hash": "eb4956ed3549186319fdf5fcadd11101"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-162.txt": {
+                "hash": "9288ad4ee9e4cc3f959a071f7e4045d3"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-153.txt": {
+                "hash": "db8d974d06298a79c78016ea746f11a3"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-140.txt": {
+                "hash": "d54f786c3c797ee86620c9fd2c3b7bc3"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-157.txt": {
+                "hash": "0b6a6119e137e80b4af96ebdfaac4487"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "7d457602a80e854c54633eac4abe6f8f"
+    },
+    "purANa_skandapurANa.zip": {
+        "contents": {
+            "\/purANa\/skandapurANa\/kAshIkhaNDa.txt": {
+                "hash": "ebed830d3ed5a761d74f22972ae5c53d"
+            },
+            "\/purANa\/skandapurANa\/mAhEshvarakhaNDa.txt": {
+                "hash": "18d79c16ecdb6ba6928d756867a8ae47"
+            },
+            "\/purANa\/skandapurANa\/skaMda purANa rEvA khaMDa.txt": {
+                "hash": "d514bdfdc3e2592d8c3ead5681bc9035"
+            },
+            "\/purANa\/skandapurANa\/avantIkhaNDa.txt": {
+                "hash": "698682d33817172e9b5263a60cdc20de"
+            },
+            "\/purANa\/skandapurANa\/prabhAsakhaNDa.txt": {
+                "hash": "a763c53ad94766cc80447c5f30a2b44b"
+            },
+            "\/purANa\/skandapurANa\/vaiShNavakhaNDa.txt": {
+                "hash": "bcb7f099986a693dc2d3278fd2e6b78c"
+            },
+            "\/purANa\/skandapurANa\/brahmakhaNDa.txt": {
+                "hash": "2265d4675ffa6ebb2716cefeae6f69de"
+            },
+            "\/purANa\/skandapurANa\/nAgarakhaNDa.txt": {
+                "hash": "82e501ad463227a67fd091199c0f5729"
+            },
+            "\/purANa\/skandapurANa\/skaMda purANa.txt": {
+                "hash": "2305625d1f79750bbef3529e17ff7e31"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "317c4ceabd2349055aa521d18d0207bc"
+    },
+    "vyAkaraNa.zip": {
+        "contents": {
+            "\/vyAkaraNa\/kAshikA-5.txt": {
+                "hash": "9411f7417b1cd0a20aa36aaf9a465748"
+            },
+            "\/vyAkaraNa\/kAshikA-6.txt": {
+                "hash": "06eedda1876b3a82525513def6b0b817"
+            },
+            "\/vyAkaraNa\/nAgOjibhaTTa\/paribhAshEMdushEkhara.txt": {
+                "hash": "e72c377744d828e6ec72825c9a524266"
+            },
+            "\/vyAkaraNa\/varadarAja\/laghusiddhAntakaumudI.txt": {
+                "hash": "8fc15b3079e9aede5c45c09541785ad2"
+            },
+            "\/vyAkaraNa\/kAshikA-8.txt": {
+                "hash": "68ca6ca05c8e4b51312b11772ba123cc"
+            },
+            "\/vyAkaraNa\/kAshikA-7.txt": {
+                "hash": "c7acb3eabb04bc2d9911e38e319d8efc"
+            },
+            "\/vyAkaraNa\/kAshikA-1.txt": {
+                "hash": "0b17db57073dea966d07e49aa27569b0"
+            },
+            "\/vyAkaraNa\/kAshikA-4.txt": {
+                "hash": "5165cc8b331fb73dcf940d01df7fc0c1"
+            },
+            "\/vyAkaraNa\/bhartRhari\/vAkyapAdIya.txt": {
+                "hash": "1c23963d184dd3c7a4d99b50212e75e6"
+            },
+            "\/vyAkaraNa\/kAshikA-3.txt": {
+                "hash": "cd11c65a6242260fad8329ac149f2702"
+            },
+            "\/vyAkaraNa\/kAshikA-2.txt": {
+                "hash": "b729573fd3e71cd5131f6849356def37"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "0cc7fd39b496d3b3f1a3c9a6b9844161"
+    },
+    "purANa_vAyupurANa.zip": {
+        "contents": {
+            "\/purANa\/vAyupurANa\/vAyupurANa revAkhaNDa.txt": {
+                "hash": "d78c0b9e7d80d3279bc5c0f69d1c4b00"
+            },
+            "\/purANa\/vAyupurANa\/vAyupurANa-01.txt": {
+                "hash": "74bdff1b82e21824ac71d220bdf3b447"
+            },
+            "\/purANa\/vAyupurANa\/vAyupurANa-02.txt": {
+                "hash": "cc1967fb3959d52cbf6762f3b6c44a30"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "cd87e9017363550b7258cc4e59f59f95"
+    }
+}
