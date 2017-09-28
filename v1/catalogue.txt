@@ -1,155 +1,155 @@
 {
     "baseUrl": "https:\/\/raw.githubusercontent.com\/openmuthu\/jaya-index-files\/master\/v1",
-    "lastModified": "2017-09-28T05:56:14.491Z",
+    "lastModified": "2017-09-28T06:12:48.844Z",
     "version": "1.0",
     "items": {
         "itaragraMthAH": {
-            "size": 18115125,
+            "size": 27163714,
             "relPath": "itaragraMthAH.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "stOtra": {
-            "size": 905741,
+            "size": 1267935,
             "relPath": "stOtra.zip",
             "lastModified": "2017-08-12T10:44:23.568Z"
         },
         "madhvavijaya": {
-            "size": 570775,
+            "size": 609254,
             "relPath": "madhvavijaya.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "kOsha_vAchaspatyaM": {
-            "size": 57672504,
+            "size": 83112479,
             "relPath": "kOsha_vAchaspatyaM.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa_harivaMsha": {
-            "size": 7394469,
+            "size": 11090516,
             "relPath": "purANa_harivaMsha.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa_nAradapurANa": {
-            "size": 6847837,
+            "size": 10271654,
             "relPath": "purANa_nAradapurANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "rAmAyaNa": {
-            "size": 6035291,
+            "size": 9051668,
             "relPath": "rAmAyaNa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "mahAbhArata": {
-            "size": 30664056,
+            "size": 48458796,
             "relPath": "mahAbhArata.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "kOsha_shabdakalpadruma_1": {
-            "size": 9339065,
+            "size": 13821441,
             "relPath": "kOsha_shabdakalpadruma_1.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "kOsha": {
-            "size": 79578,
+            "size": 118515,
             "relPath": "kOsha.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa": {
-            "size": 36847188,
+            "size": 55621394,
             "relPath": "purANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa_viShNudharma": {
-            "size": 1761857,
+            "size": 2642610,
             "relPath": "purANa_viShNudharma.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa_vAyupurANa": {
-            "size": 6770814,
+            "size": 7966771,
             "relPath": "purANa_vAyupurANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "kOsha_vAchaspatyaM_1": {
-            "size": 16308084,
+            "size": 22459398,
             "relPath": "kOsha_vAchaspatyaM_1.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "vyAkaraNa": {
-            "size": 5919029,
+            "size": 8506230,
             "relPath": "vyAkaraNa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "harikathAmRtasAra": {
-            "size": 715013,
+            "size": 1070795,
             "relPath": "harikathAmRtasAra.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "smRti": {
-            "size": 3093965,
+            "size": 4347475,
             "relPath": "smRti.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "dAsasAhitya": {
-            "size": 860160,
+            "size": 1113804,
             "relPath": "dAsasAhitya.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "kOsha_amarakOsha": {
-            "size": 737689,
+            "size": 1106623,
             "relPath": "kOsha_amarakOsha.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "kOsha_shabdakalpadruma": {
-            "size": 56540284,
+            "size": 82113835,
             "relPath": "kOsha_shabdakalpadruma.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "sAhitya": {
-            "size": 3121729,
+            "size": 3984268,
             "relPath": "sAhitya.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa_bhaviShyapurANa": {
-            "size": 9836521,
+            "size": 12749122,
             "relPath": "purANa_bhaviShyapurANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "nirukti": {
-            "size": 827768,
+            "size": 1241317,
             "relPath": "nirukti.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa_padmapurANa": {
-            "size": 15333730,
+            "size": 21834802,
             "relPath": "purANa_padmapurANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "sarvamUla": {
-            "size": 8820978,
+            "size": 12650657,
             "relPath": "sarvamUla.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "strIdharma": {
-            "size": 58958,
+            "size": 87641,
             "relPath": "strIdharma.zip",
             "lastModified": "2017-08-12T10:44:23.568Z"
         },
         "vEda": {
-            "size": 14263457,
+            "size": 22077860,
             "relPath": "vEda.zip",
-            "lastModified": "2017-06-04T09:18:19Z"
+            "lastModified": "2017-09-28T06:14:24.804Z"
         },
         "purANa_vAmana-purANa": {
-            "size": 2193485,
+            "size": 3290422,
             "relPath": "purANa_vAmana-purANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "mImAMsA": {
-            "size": 379440,
+            "size": 567786,
             "relPath": "mImAMsA.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa_skandapurANa": {
-            "size": 38200773,
+            "size": 56202429,
             "relPath": "purANa_skandapurANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         }

@@ -1,5 +1,5 @@
 {
-    "lastModified": "2017-09-28T05:56:14.491Z",
+    "lastModified": "2017-09-28T06:12:48.844Z",
     "version": "1.0",
     "items": {
         "itaragraMthAH": {
@@ -81,7 +81,7 @@
             "files": "\/strIdharma\/gurumaMtra.txt"
         },
         "vEda": {
-            "files": "\/vEda\/nAdabiMdu upaniShat.txt\r\n\/vEda\/puruShasUktakhaMDaartha.txt\r\n\/vEda\/IshAvAsya upaniShat.txt\r\n\/vEda\/aitarEya upaniShat.txt\r\n\/vEda\/mAMDUkya upaniShat.txt\r\n\/vEda\/garbha upaniShat.txt\r\n\/vEda\/sAmavEda.txt\r\n\/vEda\/atharvavEda saMhitA.txt\r\n\/vEda\/brahmabiMdu upaniShat.txt\r\n\/vEda\/gOpatha brAhmaNa.txt\r\n\/vEda\/RgvEda.txt\r\n\/vEda\/RgvEda khilAni.txt\r\n\/vEda\/bRhadAraNyaka upaniShad.txt\r\n\/vEda\/maitrAyaNI-saMhitA.txt\r\n\/vEda\/ChAMdOgya upaniShat.txt\r\n\/vEda\/mAMDUkya kArikA.txt\r\n\/vEda\/shatapatha brAhmaNa.txt\r\n\/vEda\/RgvidhAna.txt\r\n\/vEda\/atharva shira upaniShat.txt\r\n\/vEda\/shvEtAshvatara upaniShat.txt"
+            "files": "\/vEda\/nAdabiMdu upaniShat.txt\r\n\/vEda\/puruShasUktakhaMDaartha.txt\r\n\/vEda\/IshAvAsya upaniShat.txt\r\n\/vEda\/aitarEya upaniShat.txt\r\n\/vEda\/mAMDUkya upaniShat.txt\r\n\/vEda\/garbha upaniShat.txt\r\n\/vEda\/sAmavEda.txt\r\n\/vEda\/atharvavEda saMhitA.txt\r\n\/vEda\/brahmabiMdu upaniShat.txt\r\n\/vEda\/gOpatha brAhmaNa.txt\r\n\/vEda\/RgvEda.txt\r\n\/vEda\/mahAnArAyaNa upaniShat.txt\r\n\/vEda\/RgvEda khilAni.txt\r\n\/vEda\/bRhadAraNyaka upaniShad.txt\r\n\/vEda\/maitrAyaNI-saMhitA.txt\r\n\/vEda\/ChAMdOgya upaniShat.txt\r\n\/vEda\/mAMDUkya kArikA.txt\r\n\/vEda\/shatapatha brAhmaNa.txt\r\n\/vEda\/RgvidhAna.txt\r\n\/vEda\/atharva shira upaniShat.txt\r\n\/vEda\/shvEtAshvatara upaniShat.txt"
         },
         "purANa_vAmana-purANa": {
             "files": "\/purANa\/vAmana-purANa\/vAmana purANa.txt\r\n\/purANa\/vAmana-purANa\/vAmana purANa sarO mahAtmya.txt"

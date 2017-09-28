@@ -907,6 +907,9 @@
             "\/vEda\/RgvEda.txt": {
                 "hash": "763cdf8c3cefa3c2e00b621799111347"
             },
+            "\/vEda\/mahAnArAyaNa upaniShat.txt": {
+                "hash": "2b8ce3e83a7eb71dc747465ae79c17f6"
+            },
             "\/vEda\/RgvEda khilAni.txt": {
                 "hash": "119095a4f02717f5895394df4fc650a1"
             },
@@ -935,8 +938,8 @@
                 "hash": "1022cac9e5f808080f8f74e7e76d15ad"
             }
         },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "ae0eb10f89bd4ef24255725acabf27f0"
+        "lastModified": "2017-09-28T06:14:24.804Z",
+        "hash": "635ae5086d986bcffdee9f9ed9a3a0c3"
     },
     "purANa_harivaMsha.zip": {
         "contents": {
@@ -978,7 +981,7 @@
         "hash": "15a128ef8897c635bc3fc861374fd831"
     },
     "zipsUpdated": [
-        
+        "vEda.zip"
     ],
     "kOsha_vAchaspatyaM.zip": {
         "contents": {
