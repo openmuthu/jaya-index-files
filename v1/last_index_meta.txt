@@ -710,7 +710,7 @@
                 "hash": "8b243cf2cd645701668edf08b3538109"
             },
             "\/stOtra\/chaturviMshatimUrti-stuti.txt": {
-                "hash": "6f0c8029e88ced15ef2aeee147f3326e"
+                "hash": "f6fd0bb88d745ea0b8481ee2bd8bb266"
             },
             "\/stOtra\/guru stOtram.txt": {
                 "hash": "5955d455bfefb52522548d2f12788e0e"
@@ -1397,82 +1397,82 @@
     "dAsasAhitya.zip": {
         "contents": {
             "\/dAsasAhitya\/jagannAthadAsaru\/laxmIhRdaya-stOtra.txt": {
-                "hash": "c0a80c7f2a6ab88fabd1e3bbccd8c233"
+                "hash": "a9c1c2cc969f7439df4012afd2e7565f"
             },
             "\/dAsasAhitya\/puraMdaradAsara-gadya.txt": {
-                "hash": "1887d0cc91a29925654badda261a9ad2"
+                "hash": "8f27be1859fe973241270f5bbd6c2334"
             },
             "\/dAsasAhitya\/vijayadAsaru\/paMcharatna-suLAdigaLu.txt": {
-                "hash": "6ecc2dd4923181d80c361ff03a6b5744"
+                "hash": "be5d6fc0d0f3b6db96bf3d6b8995fdd3"
             },
             "\/dAsasAhitya\/vijayadAsaru\/habba-suLAdi.txt": {
-                "hash": "675bb33a0dabbc9a65d436eb1cd4c2f4"
+                "hash": "476bc332ad1444662fbb0ef8867e3c89"
             },
             "\/dAsasAhitya\/vijayadAsaru\/sAdhana-suLAdi.txt": {
-                "hash": "88e37eee335604e6df96df024dc8b609"
+                "hash": "658028a67452bd98f65aa0465b41a86d"
             },
             "\/dAsasAhitya\/vAdirAjaru\/avatAratraya_madhva-suvvAli.txt": {
-                "hash": "bdf4a0f14427d9c3cb0f787a2185650f"
+                "hash": "2d8237cd8182482362d1151955fc530b"
             },
             "\/dAsasAhitya\/vijayadAsaru\/shrInivAsa-suLAdi.txt": {
-                "hash": "1105fb40c14f2ee5fb47743b13d9dbcb"
+                "hash": "65ac44966d4a9eb4827865f6b1a24685"
             },
             "\/dAsasAhitya\/vijayadAsaru\/maDi-suLAdi.txt": {
-                "hash": "fc0a60d02be0d4f513e02163a466d2dd"
+                "hash": "4a15eacb9de9de1d6c098e50f752c1ae"
             },
             "\/dAsasAhitya\/kanakadAsaru\/haribhaktisAra.txt": {
-                "hash": "37769d4ef6c76f93334626c814246a1d"
+                "hash": "cf68725f0d8c5ff2c9b870c622592c79"
             },
             "\/dAsasAhitya\/kanakadAsaru\/kEshavanAma.txt": {
-                "hash": "3c39fe62936e066df2b3fad415a5a87a"
+                "hash": "755f97a0c161720d45c46f45a7cc1a83"
             },
             "\/dAsasAhitya\/jagannAthadAsaru\/narasiMha-suLAdi.txt": {
-                "hash": "b20b2aec1058b69b7db87401e55f78b1"
+                "hash": "40617a8f2b027a17093323734ba0c74c"
             },
             "\/dAsasAhitya\/vAdirAjaru\/laxmI-shObhana-hADu.txt": {
-                "hash": "e960d5d333da31c2a705b37fdf84d950"
+                "hash": "8b36df3567a2ee6caeae034c4e129326"
             },
             "\/dAsasAhitya\/vAdirAjaru\/svapnapada.txt": {
-                "hash": "8ff49e616d7c925008fb59156ac311d2"
+                "hash": "10f6fa663731327ec333fbb780e92bc5"
             },
             "\/dAsasAhitya\/vijayadAsaru\/annadAna-mahimA-suLAdi.txt": {
-                "hash": "edd7fa629ba6ddee6b67ce774aca7d1c"
+                "hash": "2cd41a34a5390dac765adbd2001cf347"
             },
             "\/dAsasAhitya\/vijayadAsaru\/sAMkhya-shAstra-suLAdi.txt": {
-                "hash": "503f868566bd52dee777802df95319bb"
+                "hash": "9f988fea5677025e48d0efd6efd1a794"
             },
             "\/dAsasAhitya\/vAdirAjaru\/guMDa_kriye.txt": {
-                "hash": "1f56e98ee952b4ca451039361e4e9886"
+                "hash": "b824cfe72e226a9128bc30b0d78a880c"
             },
             "\/dAsasAhitya\/vijayadAsaru\/naivEdya-suLAdi.txt": {
-                "hash": "bc42b7c4b00d67edc7b341189335f41a"
+                "hash": "0ec41499aa4b28cf0439b53f4ff66a3a"
             },
             "\/dAsasAhitya\/gOpAladAsaru\/karuNa-kavacha.txt": {
-                "hash": "2045308e2bd335cd958c1e738a848c4f"
+                "hash": "3e8b655345dafeeef4020dbad68cdb7b"
             },
             "\/dAsasAhitya\/vijayadAsaru\/haridAsa-laxaNa-suLAdi.txt": {
-                "hash": "503bce7d3db662893c13cd044e30ac3d"
+                "hash": "24d3a9254006034622d088e4cabd1004"
             },
             "\/dAsasAhitya\/jagannAthadAsaru\/vEMkatEsha-stavarAja.txt": {
-                "hash": "2ab75125a9e11a43e187b0a691f2b577"
+                "hash": "46ecd5e421e5125f5941bcb2b16ca8de"
             },
             "\/dAsasAhitya\/vAdirAjaru\/axayapAtre-hADu.txt": {
-                "hash": "d642569334eab073b6703db0e63db96f"
+                "hash": "ac58943fa943ef238a847c085c26eeef"
             },
             "\/dAsasAhitya\/vijayadAsaru\/virADrUpa-suLAdi.txt": {
-                "hash": "5e178bd1ef63a0c0c6449324e4762a30"
+                "hash": "efaf69a9ed45b38769588221d2bb8390"
             },
             "\/dAsasAhitya\/vAdirAjaru\/tatvasAra-vaikuMTha-varNane.txt": {
-                "hash": "f71af02310b14612c8e748942d15f416"
+                "hash": "42557efba7c363cf9d25cb195fc59faf"
             },
             "\/dAsasAhitya\/vijayakavacha.txt": {
-                "hash": "366c8b58ee978b58bb9b804df494ff49"
+                "hash": "ed91ab2f6550e8117d09d38cf246a505"
             },
             "\/dAsasAhitya\/vijayadAsaru\/vedavyasa-suLAdi.txt": {
-                "hash": "18335b334e1e4e2028da457eed795102"
+                "hash": "4629fa4a655fb29833593ad4dcfab85d"
             },
             "\/dAsasAhitya\/vAdirAjaru\/bhramara_gIte.txt": {
-                "hash": "b1b6d6fb667acbe2906ac2323a520aaf"
+                "hash": "8b7be9775bd500f77eebb1f155d2aff2"
             }
         },
         "lastModified": "2017-06-04T09:18:19Z",
