@@ -661,11 +661,11 @@
             "\/stOtra\/prAtaHsaMkalpa gadya.txt": {
                 "hash": "50254a17512730ede038910959605d3f"
             },
-            "\/stOtra\/kaMdukastuti.txt": {
-                "hash": "819589c9699abf47b035190af8c36b9c"
-            },
             "\/stOtra\/maMgaLASTakam.txt": {
                 "hash": "0cbcfc4e86ac153420256cf32a0c8492"
+            },
+            "\/stOtra\/kaMdukastuti.txt": {
+                "hash": "819589c9699abf47b035190af8c36b9c"
             },
             "\/stOtra\/raghUttamagurustOtram.txt": {
                 "hash": "e5bb05a8bc6ae35185282065c9a7eec8"
@@ -682,11 +682,11 @@
             "\/stOtra\/saMxiptalaxmIhRdayam.txt": {
                 "hash": "5c3824d50256c0ce7834b200dc4bfd1a"
             },
-            "\/stOtra\/hayagrIva saMpadA stOtram.txt": {
-                "hash": "99b1b786e1ce25fc7f5c00d45620aafe"
-            },
             "\/stOtra\/kRSNASTakam pAlayAcyuta.txt": {
                 "hash": "d043b42cff825a61e2913ca5925edde9"
+            },
+            "\/stOtra\/hayagrIva saMpadA stOtram.txt": {
+                "hash": "99b1b786e1ce25fc7f5c00d45620aafe"
             },
             "\/stOtra\/gOpIgItam.txt": {
                 "hash": "32d2fabe5fe2791ae93cfbe094f410a2"
@@ -700,11 +700,11 @@
             "\/stOtra\/chaturviMshatimUrti-stuti.txt": {
                 "hash": "f6fd0bb88d745ea0b8481ee2bd8bb266"
             },
-            "\/stOtra\/guru stOtram.txt": {
-                "hash": "5955d455bfefb52522548d2f12788e0e"
-            },
             "\/stOtra\/nArAyaNahRdayam.txt": {
                 "hash": "1f7f809bed73d433d4eebdabed29dbe7"
+            },
+            "\/stOtra\/guru stOtram.txt": {
+                "hash": "5955d455bfefb52522548d2f12788e0e"
             },
             "\/stOtra\/prAtaH prArthanA krama.txt": {
                 "hash": "157fda7c12206f3a6798dafbd3065197"
@@ -724,11 +724,11 @@
             "\/stOtra\/suMdarakANDa.txt": {
                 "hash": "282278bef88524bda3e5a45983880569"
             },
-            "\/stOtra\/madhvagurustuti guru paraMparA.txt": {
-                "hash": "109f1d4c1d5421926de40fb5af41ad3d"
-            },
             "\/stOtra\/viShNustuti satyasaMdharu.txt": {
                 "hash": "d3a45b6c7e8df51265732bd4fdd18550"
+            },
+            "\/stOtra\/madhvagurustuti guru paraMparA.txt": {
+                "hash": "109f1d4c1d5421926de40fb5af41ad3d"
             },
             "\/stOtra\/bAlaraxAstOtram.txt": {
                 "hash": "ee3d9b205a9b62a913a77ffcae1fd157"
@@ -781,6 +781,12 @@
             "\/stOtra\/dvaadashastOtram.txt": {
                 "hash": "505351784489f192d9c18842de13d923"
             },
+            "\/stOtra\/nadItAratamya stOtram.txt": {
+                "hash": "84a348ca99518e1cd91b23bf1bcfb961"
+            },
+            "\/stOtra\/kRSNacAritryamaMjarI.txt": {
+                "hash": "8cabedc8bc37ec5405e455611d980b1a"
+            },
             "\/stOtra\/harivAyustuti.txt": {
                 "hash": "787847e84aafa6a97760dc2b5a2179a3"
             },
@@ -793,11 +799,11 @@
             "\/stOtra\/narasiMhastuti.txt": {
                 "hash": "b54069578335999504a94b5c5371c1df"
             },
-            "\/stOtra\/mahAbhAratatAtparyanirNayabhAvasaMgraha.txt": {
-                "hash": "38953a0afda7d0bc1437664ed033b9fb"
-            },
             "\/stOtra\/narasiMhastuti shanaishcarakRta.txt": {
                 "hash": "c241fe9d1b4ce366b9c82bb7a5b6ff49"
+            },
+            "\/stOtra\/mahAbhAratatAtparyanirNayabhAvasaMgraha.txt": {
+                "hash": "38953a0afda7d0bc1437664ed033b9fb"
             },
             "\/stOtra\/durgAstOtram.txt": {
                 "hash": "41d131c76bd561da5703e698f3f616f1"
@@ -811,11 +817,14 @@
             "\/stOtra\/raMgastOtram.txt": {
                 "hash": "6845e54e9f4d82f249e69254eae40fea"
             },
+            "\/stOtra\/vyAsarAjastOtram.txt": {
+                "hash": "bf989312d515f713e59d83b09c74bebb"
+            },
             "\/stOtra\/TIkAkRtpAdASTakam.txt": {
                 "hash": "9841263d23de1e81fdd3b6f3303c7523"
             },
-            "\/stOtra\/vyAsarAjastOtram.txt": {
-                "hash": "bf989312d515f713e59d83b09c74bebb"
+            "\/stOtra\/rAghavEndragAthAstava.txt": {
+                "hash": "c7f2209029c96b0dac42140705305c7a"
             },
             "\/stOtra\/vAdirAjastOtram.txt": {
                 "hash": "b77edcae7e6a8f106e4c527a7bb4766d"
@@ -823,20 +832,20 @@
             "\/stOtra\/nArAyaNavarma.txt": {
                 "hash": "04585c0eb6abc447d5d3e223093d34ac"
             },
+            "\/stOtra\/vyAsagadyam.txt": {
+                "hash": "5d740a2665eb3f34f04cd893578df14a"
+            },
             "\/stOtra\/shrIshaguNadarpaNam.txt": {
                 "hash": "0ee62aa4fdd40bfee99402b531c52d08"
             },
-            "\/stOtra\/vyAsagadyam.txt": {
-                "hash": "5d740a2665eb3f34f04cd893578df14a"
+            "\/stOtra\/satyapriyAShTakam.txt": {
+                "hash": "b847fc69538fb96d8ebe0be36fb8321b"
             },
             "\/stOtra\/dadhivaamanastOtram.txt": {
                 "hash": "9621be43c10fad73ed23433bf9cd25d1"
             },
             "\/stOtra\/jayatIrthastuti.txt": {
                 "hash": "4b4a63fe20d5589a0414a30fe035d336"
-            },
-            "\/stOtra\/satyapriyAShTakam.txt": {
-                "hash": "b847fc69538fb96d8ebe0be36fb8321b"
             },
             "\/stOtra\/AmaMtraNOtsava stOtram.txt": {
                 "hash": "8b1593a8ed8abba9cf9aebf56184e17d"
@@ -848,8 +857,8 @@
                 "hash": "3645829eadea56b1d51ac99d076b0f10"
             }
         },
-        "lastModified": "2017-08-12T10:44:23.568Z",
-        "hash": "604dc8f4a48a97cf5f09b89c7f8cc1cd"
+        "lastModified": "2020-06-27T05:25:55.996Z",
+        "hash": "49c9e9a15a012fce740efb7565f3538a"
     },
     "rAmAyaNa.zip": {
         "contents": {
@@ -969,12 +978,7 @@
         "hash": "3c25e24696896b4a4a941c56b2b50e19"
     },
     "zipsUpdated": [
-        "sarvamUla.zip",
-        "itaragraMthAH.zip",
-        "kOsha_vAchaspatyaM_1.zip",
-        "kOsha_vAchaspatyaM.zip",
-        "kOsha_shabdakalpadruma_1.zip",
-        "kOsha_shabdakalpadruma.zip"
+        
     ],
     "kOsha_vAchaspatyaM.zip": {
         "contents": {
@@ -1719,6 +1723,66 @@
         },
         "lastModified": "2017-06-04T09:18:19Z",
         "hash": "7f59dede654d37c625f796f602da0b26"
+    },
+    "mahAbhArata_mAdhvapATha.zip": {
+        "contents": {
+            "\/mahAbhArata_mAdhvapATha\/04-virATa-parva.txt": {
+                "hash": "8fae8e57345e2e9f4f75bb5853102b4a"
+            },
+            "\/mahAbhArata_mAdhvapATha\/13-anushAsana-parva.txt": {
+                "hash": "6439c6299eadca4498bfa10c107bd675"
+            },
+            "\/mahAbhArata_mAdhvapATha\/14-AshvamEdhika-parva.txt": {
+                "hash": "2cf0e9bd4e42b1a9c19c5343734e9729"
+            },
+            "\/mahAbhArata_mAdhvapATha\/09-shalya-parva.txt": {
+                "hash": "e4345f59151551151dd588ae55fbb4fe"
+            },
+            "\/mahAbhArata_mAdhvapATha\/16-mausala-parva.txt": {
+                "hash": "8a1c89230adec833bbba05bc6fd76936"
+            },
+            "\/mahAbhArata_mAdhvapATha\/08-karNa-parva.txt": {
+                "hash": "38a5c051fb9b90218c76be641aaca09a"
+            },
+            "\/mahAbhArata_mAdhvapATha\/03-vana-parva.txt": {
+                "hash": "b9ee02c9ceabd9d7083040cdba10df3b"
+            },
+            "\/mahAbhArata_mAdhvapATha\/15-AshramavAsika-parva.txt": {
+                "hash": "6613f8dd4f4c4fcef40b3bc7d663e3bc"
+            },
+            "\/mahAbhArata_mAdhvapATha\/05-udyoga-parva.txt": {
+                "hash": "e2088c259ddbc1a859f800521e25f8c2"
+            },
+            "\/mahAbhArata_mAdhvapATha\/02-sabhA-parva.txt": {
+                "hash": "78ce4fe98d265435eaa4d62de60290b5"
+            },
+            "\/mahAbhArata_mAdhvapATha\/12-shaanti-parva.txt": {
+                "hash": "403f6a9278b31d19ede568259080b5cd"
+            },
+            "\/mahAbhArata_mAdhvapATha\/10-sauptika-parva.txt": {
+                "hash": "f51102c4891d90f2a6833ae3bfb50abf"
+            },
+            "\/mahAbhArata_mAdhvapATha\/11-strI-parva.txt": {
+                "hash": "284fac93517af34701b0ffa1ca9222ae"
+            },
+            "\/mahAbhArata_mAdhvapATha\/01-Adi-parva.txt": {
+                "hash": "a390135ed56a400ff2f1bb2da1292083"
+            },
+            "\/mahAbhArata_mAdhvapATha\/07-droNa-parva.txt": {
+                "hash": "494f939947e50efc93efbcc09c7e434b"
+            },
+            "\/mahAbhArata_mAdhvapATha\/17-mahAprasthAnika-parva.txt": {
+                "hash": "5c7efcdd5653a5aaeb57c21e9ff4d058"
+            },
+            "\/mahAbhArata_mAdhvapATha\/18-svargArOhaNa-parva.txt": {
+                "hash": "30b140639fa2dae24f745484ab696ce3"
+            },
+            "\/mahAbhArata_mAdhvapATha\/06-bhIshma-parva.txt": {
+                "hash": "c9f793193932f30bd90435901c7a1b96"
+            }
+        },
+        "lastModified": "2020-06-27T05:25:54.870Z",
+        "hash": "1b5e560a330704fdee5a78876a476df9"
     },
     "mImAMsA.zip": {
         "contents": {
