@@ -1,6 +1,6 @@
 {
     "baseUrl": "https:\/\/raw.githubusercontent.com\/openmuthu\/jaya-index-files\/master\/v1",
-    "lastModified": "2018-08-05T13:59:30.129Z",
+    "lastModified": "2020-06-27T04:10:05.226Z",
     "version": "1.0",
     "items": {
         "itaragraMthAH": {
@@ -9,9 +9,9 @@
             "lastModified": "2018-08-05T13:59:47.625Z"
         },
         "stOtra": {
-            "size": 547036,
+            "size": 574733,
             "relPath": "stOtra.zip",
-            "lastModified": "2017-08-12T10:44:23.568Z"
+            "lastModified": "2020-06-27T04:10:08.336Z"
         },
         "madhvavijaya": {
             "size": 286522,
