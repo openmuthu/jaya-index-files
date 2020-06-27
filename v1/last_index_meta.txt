@@ -978,7 +978,7 @@
         "hash": "3c25e24696896b4a4a941c56b2b50e19"
     },
     "zipsUpdated": [
-        
+        "mahAbhArata_mAdhvapATha.zip"
     ],
     "kOsha_vAchaspatyaM.zip": {
         "contents": {
@@ -1739,7 +1739,7 @@
                 "hash": "e4345f59151551151dd588ae55fbb4fe"
             },
             "\/mahAbhArata_mAdhvapATha\/16-mausala-parva.txt": {
-                "hash": "8a1c89230adec833bbba05bc6fd76936"
+                "hash": "8b4e25214d66ed60148572eac59239f5"
             },
             "\/mahAbhArata_mAdhvapATha\/08-karNa-parva.txt": {
                 "hash": "38a5c051fb9b90218c76be641aaca09a"
@@ -1781,7 +1781,7 @@
                 "hash": "c9f793193932f30bd90435901c7a1b96"
             }
         },
-        "lastModified": "2020-06-27T05:25:54.870Z",
+        "lastModified": "2020-06-27T05:51:46.803Z",
         "hash": "1b5e560a330704fdee5a78876a476df9"
     },
     "mImAMsA.zip": {
