@@ -1,6 +1,6 @@
 {
     "baseUrl": "https:\/\/raw.githubusercontent.com\/openmuthu\/jaya-index-files\/master\/v1",
-    "lastModified": "2020-07-31T20:34:05.416Z",
+    "lastModified": "2020-08-01T08:42:38.148Z",
     "version": "1.0",
     "items": {
         "advaitam": {
@@ -8,53 +8,68 @@
             "relPath": "advaitam.zip",
             "lastModified": "2020-07-31T20:34:19.062Z"
         },
+        "mAdhva_tatvaprakAshikA": {
+            "size": 1560439,
+            "relPath": "mAdhva_tatvaprakAshikA.zip",
+            "lastModified": "2020-08-01T08:42:47.847Z"
+        },
+        "mAdhva_tantradIpikA": {
+            "size": 614183,
+            "relPath": "mAdhva_tantradIpikA.zip",
+            "lastModified": "2020-08-01T08:43:21.825Z"
+        },
         "mAdhva_sarvamUla": {
-            "size": 4969064,
+            "size": 5130822,
             "relPath": "mAdhva_sarvamUla.zip",
-            "lastModified": "2020-07-31T20:34:17.402Z"
+            "lastModified": "2020-08-01T08:42:53.365Z"
+        },
+        "mAdhva_gItAvivRti": {
+            "size": 766733,
+            "relPath": "mAdhva_gItAvivRti.zip",
+            "lastModified": "2020-08-01T08:42:51.753Z"
         },
         "itaragraMthAH": {
-            "size": 10223750,
+            "size": 10223749,
             "relPath": "itaragraMthAH.zip",
             "lastModified": "2020-07-31T20:34:21.761Z"
         },
+        "mAdhva_gItAbhAShya": {
+            "size": 1110226,
+            "relPath": "mAdhva_gItAbhAShya.zip",
+            "lastModified": "2020-08-01T08:42:42.183Z"
+        },
         "stOtra": {
-            "size": 850314,
+            "size": 850317,
             "relPath": "stOtra.zip",
             "lastModified": "2020-07-31T20:34:11.681Z"
         },
         "madhvavijaya": {
-            "size": 286521,
+            "size": 286523,
             "relPath": "madhvavijaya.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "mahAbhArata_mAdhvapATha": {
-            "size": 21393856,
+            "size": 19895143,
             "relPath": "mahAbhArata_mAdhvapATha.zip",
-            "lastModified": "2020-07-31T20:34:10.013Z"
+            "lastModified": "2020-08-01T08:42:45.666Z"
         },
         "kOsha_vAchaspatyaM": {
-            "size": 28954187,
+            "size": 28954189,
             "relPath": "kOsha_vAchaspatyaM.zip",
             "lastModified": "2018-08-05T14:00:06.927Z"
         },
         "purANa_harivaMsha": {
-            "size": 3697466,
+            "size": 3697467,
             "relPath": "purANa_harivaMsha.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
-        "sarvamUla_viShNutatva vinirNayaH": {
-            "size": 92500,
-            "relPath": "sarvamUla_viShNutatva vinirNayaH.zip",
-            "lastModified": "2020-07-31T20:34:21.784Z"
-        },
         "purANa_nAradapurANa": {
-            "size": 3424862,
+            "size": 3424864,
             "relPath": "purANa_nAradapurANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "rAmAyaNa": {
-            "size": 3018316,
+            "size": 3018317,
             "relPath": "rAmAyaNa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
@@ -63,23 +78,13 @@
             "relPath": "mahAbhArata.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
-        "sarvamUla_tantrasAra saMgraha": {
-            "size": 98798,
-            "relPath": "sarvamUla_tantrasAra saMgraha.zip",
-            "lastModified": "2020-07-31T20:34:32.098Z"
-        },
         "mAdhva": {
-            "size": 4633710,
+            "size": 4633591,
             "relPath": "mAdhva.zip",
-            "lastModified": "2020-07-31T20:34:10.727Z"
-        },
-        "sarvamUla_tatvaprakAshikA": {
-            "size": 1572883,
-            "relPath": "sarvamUla_tatvaprakAshikA.zip",
-            "lastModified": "2020-07-31T20:34:24.087Z"
+            "lastModified": "2020-08-01T08:42:46.766Z"
         },
         "kOsha_shabdakalpadruma_1": {
-            "size": 5789199,
+            "size": 5789205,
             "relPath": "kOsha_shabdakalpadruma_1.zip",
             "lastModified": "2018-08-05T14:00:09.027Z"
         },
@@ -89,42 +94,32 @@
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa": {
-            "size": 19573329,
+            "size": 19573331,
             "relPath": "purANa.zip",
             "lastModified": "2020-07-31T20:34:23.778Z"
         },
         "purANa_viShNudharma": {
-            "size": 881628,
+            "size": 881630,
             "relPath": "purANa_viShNudharma.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa_vAyupurANa": {
-            "size": 3384938,
+            "size": 3384940,
             "relPath": "purANa_vAyupurANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "vyAkaraNa": {
-            "size": 3221262,
+            "size": 3221263,
             "relPath": "vyAkaraNa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "kOsha_vAchaspatyaM_1": {
-            "size": 8914560,
+            "size": 8824511,
             "relPath": "kOsha_vAchaspatyaM_1.zip",
             "lastModified": "2018-08-05T13:59:54.145Z"
         },
-        "sarvamUla_sUtrabhAShya dIpikA": {
-            "size": 1060666,
-            "relPath": "sarvamUla_sUtrabhAShya dIpikA.zip",
-            "lastModified": "2020-07-31T20:34:32.064Z"
-        },
-        "sarvamUla_sudhA samagra": {
-            "size": 23380913,
-            "relPath": "sarvamUla_sudhA samagra.zip",
-            "lastModified": "2020-07-31T20:34:16.273Z"
-        },
         "smRti": {
-            "size": 1819594,
+            "size": 1819596,
             "relPath": "smRti.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
@@ -133,8 +128,13 @@
             "relPath": "harikathAmRtasAra.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
+        "mAdhva_sudhA_samagra": {
+            "size": 23260505,
+            "relPath": "mAdhva_sudhA_samagra.zip",
+            "lastModified": "2020-08-01T08:43:01.741Z"
+        },
         "dAsasAhitya": {
-            "size": 453727,
+            "size": 453732,
             "relPath": "dAsasAhitya.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
@@ -148,28 +148,28 @@
             "relPath": "sAhitya.zip",
             "lastModified": "2020-07-31T20:34:32.395Z"
         },
+        "mAdhva_sUtrabhAShyadIpikA": {
+            "size": 1055979,
+            "relPath": "mAdhva_sUtrabhAShyadIpikA.zip",
+            "lastModified": "2020-08-01T08:43:22.580Z"
+        },
         "kOsha_shabdakalpadruma": {
-            "size": 28466720,
+            "size": 28466721,
             "relPath": "kOsha_shabdakalpadruma.zip",
             "lastModified": "2018-08-05T14:00:18.261Z"
         },
         "purANa_varAhapurANa": {
-            "size": 1844925,
+            "size": 1844953,
             "relPath": "purANa_varAhapurANa.zip",
             "lastModified": "2020-07-31T20:34:27.291Z"
         },
         "purANa_bhaviShyapurANa": {
-            "size": 4918998,
+            "size": 4919003,
             "relPath": "purANa_bhaviShyapurANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
-        "sarvamUla_tantradIpikA": {
-            "size": 618425,
-            "relPath": "sarvamUla_tantradIpikA.zip",
-            "lastModified": "2020-07-31T20:34:10.881Z"
-        },
         "purANa_padmapurANa": {
-            "size": 7957508,
+            "size": 7957509,
             "relPath": "purANa_padmapurANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
@@ -179,7 +179,7 @@
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "strIdharma": {
-            "size": 30208,
+            "size": 30209,
             "relPath": "strIdharma.zip",
             "lastModified": "2017-08-12T10:44:23.568Z"
         },
@@ -189,17 +189,17 @@
             "lastModified": "2017-09-28T06:25:35.190Z"
         },
         "purANa_vAmana-purANa": {
-            "size": 1098195,
+            "size": 1098197,
             "relPath": "purANa_vAmana-purANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "mImAMsA": {
-            "size": 190584,
+            "size": 190583,
             "relPath": "mImAMsA.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         },
         "purANa_skandapurANa": {
-            "size": 19703854,
+            "size": 19703860,
             "relPath": "purANa_skandapurANa.zip",
             "lastModified": "2017-06-04T09:18:19Z"
         }
