@@ -422,123 +422,6 @@
         "lastModified": "2018-08-05T14:00:18.261Z",
         "hash": "65ed942fc9a7e66ffb660042db88d233"
     },
-    "kOsha_vAchaspatyaM_1.zip": {
-        "contents": {
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-152.txt": {
-                "hash": "204e77b0efbefa587ded896be5d9ebb7"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-025.txt": {
-                "hash": "5206d55ff96b3685fe0e8b6ba776d29f"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-020.txt": {
-                "hash": "c1051a4ffe49049cd3e5920192549c3d"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-157.txt": {
-                "hash": "a7a0bab4339d2555d9a524fe47072ae8"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-144.txt": {
-                "hash": "8911f57b0b833eefb4f46e6ac16cdb67"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-009.txt": {
-                "hash": "ce6d55b1d51f9270fe168ed9802e95d2"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-143.txt": {
-                "hash": "723951dc6a30f763851c71150034d1a9"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-033.txt": {
-                "hash": "0b446ee3f849dab9f8bb3bd86aed8253"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-037.txt": {
-                "hash": "b86d6407a89be6adbbca279c4b5b3eee"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-018.txt": {
-                "hash": "39a320373e0eceea6dd034b45cf99c9c"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-156.txt": {
-                "hash": "bb28231a355e0b49f71651b6a2e45540"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-147.txt": {
-                "hash": "9158665fbe7c3f8f3bff00d80bca94d7"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-024.txt": {
-                "hash": "66ee78f3e9e68fce676551100201f334"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-023.txt": {
-                "hash": "e44d496d80c8fd01240ee1fd4777f447"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-142.txt": {
-                "hash": "2a6f88cfdb118b0db49f4368ce6956af"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-155.txt": {
-                "hash": "902c5c5cdbbcb73bb00763e298c7fc81"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-084.txt": {
-                "hash": "df0e01d377874df0fd79371736e362d3"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-032.txt": {
-                "hash": "0ff1ff3f533184de795ba0341ee3bd4a"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-151.txt": {
-                "hash": "3ac0d6332835b4e051cd2ff6ef8f5c46"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-019.txt": {
-                "hash": "69c8e6b986d525f39f912442cc76e25f"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-141.txt": {
-                "hash": "907e80d61783e439e8d546a60b01058c"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-036.txt": {
-                "hash": "71134001e451bbf1958a885a63524987"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-146.txt": {
-                "hash": "26f11ad0cf15efd1209fb56093113857"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-027.txt": {
-                "hash": "15bf41637bd721244b8f14d697dcf179"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-154.txt": {
-                "hash": "d47a15e2bfda49b1a4349273c25ce4a0"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-035.txt": {
-                "hash": "ed9b4a2d7c158778ecad77c89c352a4a"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-022.txt": {
-                "hash": "889c8ee78fae3ed7b5851ce0ee8ba817"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-031.txt": {
-                "hash": "38b88a9714e5afb64ce8bfedf0cfb202"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-150.txt": {
-                "hash": "60cf5a7ac76cb731d95861b5e43b66eb"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-140.txt": {
-                "hash": "0cb2b37ed41a8f8bcb16184c6eea533e"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-026.txt": {
-                "hash": "b86c0b9003d2958a726743987037e3bf"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-145.txt": {
-                "hash": "0c01ba1b0ff1ef4b87f45b3adcdd57db"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-034.txt": {
-                "hash": "62b09bd00f534a8b7928f2811e045a56"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-008.txt": {
-                "hash": "264d016688f28b1c1efd82e265adca32"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-021.txt": {
-                "hash": "f3a8f388256615c5058b999f1ae07c00"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-153.txt": {
-                "hash": "0fec1cd68b163e8dc4c79395ef88ec74"
-            },
-            "\/kOsha\/vAchaspatyaM\/vAchaspatya-030.txt": {
-                "hash": "a9bd940a511bf2760adb9b4456d0ab42"
-            }
-        },
-        "lastModified": "2018-08-05T13:59:54.145Z",
-        "hash": "b3d300a7871e27d79eb9052186e073de"
-    },
     "purANa_varAhapurANa.zip": {
         "contents": {
             "\/purANa\/varAhapurANa\/136.txt": {
@@ -1208,6 +1091,1146 @@
         "lastModified": "2017-06-04T09:18:19Z",
         "hash": "42c947d056db468eb86295a855bfc4f0"
     },
+    "nirukti.zip": {
+        "contents": {
+            "\/nirukti\/yAska nirukti.txt": {
+                "hash": "a3f202ce330abe71ed39f85af051f7e6"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "3d09fb75c93ce14ed935b7de7329a82d"
+    },
+    "mAdhva_gItAbhAShya.zip": {
+        "contents": {
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/01-arjuna viShAda yOga.txt": {
+                "hash": "5b5852f29cb21b903d5019f3f966af62"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/11-vishvarUpa yOga.txt": {
+                "hash": "da57645150ba24986d802dcfbab623e9"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/03-karma yOga.txt": {
+                "hash": "e5009906032ae0d46c365a2be1291352"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/08-axara parabrahma yOga.txt": {
+                "hash": "3153e5ec58afb135ecfae9f6607775d6"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/02-sAMkhya yOga.txt": {
+                "hash": "f43550959f93194af202ce6c93e1f73b"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/17-shraddhAtraya vibhAga yOga.txt": {
+                "hash": "53a74dcbb05d3cfae6b85cb8edc42286"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/04-jnAna yOga.txt": {
+                "hash": "0de8887d4ae03b07851dd43c79f73479"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/12-bhakti yOga.txt": {
+                "hash": "79f7bcbde23c17e04b36c6ffa30970f1"
+            },
+            "\/mAdhva\/gItAbhAShya\/gItAbhAShyavirOdhaparihAra.txt": {
+                "hash": "903085543edf0bf049c5d3b3566af32b"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/09-rAjavidyA rAjaguhya yOga.txt": {
+                "hash": "45edb1269974b99779fcfc07c246a5aa"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/18-mOxa sanyAsa yOga.txt": {
+                "hash": "675d27cad1934ea290ffbaa1ccfe2861"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/14-guNatraya vibhAga yOga.txt": {
+                "hash": "2f1f6772db811b3588e247f0ff5e5fc8"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/06-Atma saMyama yOga.txt": {
+                "hash": "3a7f45098f0fcd256f9c3a8a5af7041a"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/10-vibhUti yOga.txt": {
+                "hash": "8d07a5a873136e58c6085b8cf5b9ba49"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/13-xEtra xEtrajna yOga.txt": {
+                "hash": "7953f79ea911b35b9581d5e1c84c4d8e"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/05-karma sanyAsa yOga.txt": {
+                "hash": "df12d0d9a11383b0ccdba9be6057f364"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/15-puruShOttama yOga.txt": {
+                "hash": "23810f9602de74556192a77e86b610c8"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/07-jnAna vijnAna yOga.txt": {
+                "hash": "705e784ff0d90a500330cd6afb67549a"
+            },
+            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/16-daivAsura saMpadvibhAga yOga.txt": {
+                "hash": "ef4472d15485a63d70e2cb42ff98d565"
+            }
+        },
+        "lastModified": "2021-01-31T18:34:57.494Z",
+        "hash": "70e3c462114b66ea1d51bb628e6916a7"
+    },
+    "mAdhva_sarvamUla.zip": {
+        "contents": {
+            "\/mAdhva\/sarvamUla\/nyAyavivaraNa.txt": {
+                "hash": "b69b57455924dbf88b071c452132f062"
+            },
+            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/1.txt": {
+                "hash": "11df0acc1d3c9afe98e1059402b682ff"
+            },
+            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/viShNutattvanirNayaH-saTIkA\/9.txt": {
+                "hash": "55ace7feeb2e30c2b8e25d9cade3c084"
+            },
+            "\/mAdhva\/sarvamUla\/tatvOdyOtaH-saTIkA\/tatvOdyOtaH-bhAvaprakAsha-vijayayati.txt": {
+                "hash": "6ef1945e4c7b8dc0d235b2963dc0824d"
+            },
+            "\/mAdhva\/sarvamUla\/gItAtAtparya.txt": {
+                "hash": "fc911ecf463beab5aa44f1092dfffeea"
+            },
+            "\/mAdhva\/sarvamUla\/sUtra.txt": {
+                "hash": "34094395493fcf0fa06a106e3d3e2aca"
+            },
+            "\/mAdhva\/sarvamUla\/taittirIya-bhAShya.txt": {
+                "hash": "e035d488c0f4d3eea4c2d0e6c7ad3447"
+            },
+            "\/mAdhva\/sarvamUla\/sadAchArasmRtiH.txt": {
+                "hash": "cc7e86a814a2dde49bbedd39426b7d59"
+            },
+            "\/mAdhva\/sarvamUla\/ChAndOgya-bhAShya.txt": {
+                "hash": "00e07dd7b63c124622324a5138e073ae"
+            },
+            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/2.txt": {
+                "hash": "1e267b49632f3d81c8bdc6eeb03834c8"
+            },
+            "\/mAdhva\/sarvamUla\/pramANalaxaNaM.txt": {
+                "hash": "7f5fdfc8742eba7cb4e9698eb42a2993"
+            },
+            "\/mAdhva\/sarvamUla\/bRhadAraNyaka-bhAShya.txt": {
+                "hash": "85d8c6973e2ddc1743448c74361b5313"
+            },
+            "\/mAdhva\/sarvamUla\/tantrasArasaMgraha\/tantrasArasaMgraha-4.txt": {
+                "hash": "2a8538e57af4ba8bda780a88b36399a9"
+            },
+            "\/mAdhva\/sarvamUla\/anuvyAkhyAna.txt": {
+                "hash": "57a09ae4d549b6d5dcbcba9c9769b8f7"
+            },
+            "\/mAdhva\/sarvamUla\/mAyAvAdakhaNDanam.txt": {
+                "hash": "80cbf542797bfb8fb072b3c2e44b0593"
+            },
+            "\/mAdhva\/sarvamUla\/aitarEya-bhAShya.txt": {
+                "hash": "a61b9b72d1b342c363d997f34a5ed244"
+            },
+            "\/mAdhva\/sarvamUla\/kRShNAmRtamahArNava.txt": {
+                "hash": "18ce1be01609418a052b9eeb530cfa08"
+            },
+            "\/mAdhva\/sarvamUla\/tithinirNayaH.txt": {
+                "hash": "73cae28da0c58a8902dcd9b90ee93441"
+            },
+            "\/mAdhva\/sarvamUla\/mahAbhAratatAtparyanirNaya.txt": {
+                "hash": "5ac630a1f8d09b07efd9b90e7c76f3ec"
+            },
+            "\/mAdhva\/sarvamUla\/talavakAra-bhAShya.txt": {
+                "hash": "4fb61de5246e719e37a60e115b1fa7e7"
+            },
+            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/viShNutattvanirNayaH-saTIkA\/2.txt": {
+                "hash": "adebdb569274c1adccfa9aa458193cb4"
+            },
+            "\/mAdhva\/sarvamUla\/tantrasArasaMgraha\/tantrasArasaMgraha-2.txt": {
+                "hash": "007a6227c3ab296c651e6de43f706e04"
+            },
+            "\/mAdhva\/sarvamUla\/tantrasArasaMgraha\/tantrasArasaMgraha-3.txt": {
+                "hash": "1edea073151417a11fd145ac88656433"
+            },
+            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/viShNutattvanirNayaH-saTIkA\/1.txt": {
+                "hash": "21fa66f88f21416da36f99fd17afdb18"
+            },
+            "\/mAdhva\/sarvamUla\/tatvavivEkaH.txt": {
+                "hash": "061e211f70b7764717199cd6f401b31b"
+            },
+            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/viShNutattvanirNayaH-saTIkA\/3.txt": {
+                "hash": "4f8fd0554114b2210e4a9af5a9867cbb"
+            },
+            "\/mAdhva\/sarvamUla\/gItAbhAShya.txt": {
+                "hash": "0e83fad08d2c30a5cf1aef2177c968fe"
+            },
+            "\/mAdhva\/sarvamUla\/upAdhikhaNDanam.txt": {
+                "hash": "745655a0ab6feb2bfd0e921e5a77e74f"
+            },
+            "\/mAdhva\/sarvamUla\/mANDUkya-bhAShya.txt": {
+                "hash": "593325eaf386026910a4785ab911b319"
+            },
+            "\/mAdhva\/sarvamUla\/ShaTprashna-bhAShya.txt": {
+                "hash": "2a11bf5dcf3f260006a6676fcdf509e6"
+            },
+            "\/mAdhva\/sarvamUla\/tantrasArasaMgraha\/tantrasArasaMgraha-1.txt": {
+                "hash": "eedea8d7b8509281ac59b4e23f919b93"
+            },
+            "\/mAdhva\/sarvamUla\/tatvOdyOtaH-saTIkA\/tatvOdyOtaH-janArdanaTipapNi.txt": {
+                "hash": "f8f24603ecb9fc9127ff1621a554b366"
+            },
+            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/3.txt": {
+                "hash": "4c25264e457eccf692b050143d385433"
+            },
+            "\/mAdhva\/sarvamUla\/dvAdashastrOtraTIkA.txt": {
+                "hash": "de8f9cab118ccfdbea71441ae23f7ee0"
+            },
+            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/viShNutattvanirNayaH-saTIkA\/4.txt": {
+                "hash": "d7672cc8946df4e1cbe821939e220bbf"
+            },
+            "\/mAdhva\/sarvamUla\/Atharvana-bhAShya.txt": {
+                "hash": "2ad13dc55566ce4370e62841af360a8a"
+            },
+            "\/mAdhva\/sarvamUla\/yamaka.txt": {
+                "hash": "5f8dba9d2e8067b397895a68f7914c99"
+            },
+            "\/mAdhva\/sarvamUla\/saMkIrNa.txt": {
+                "hash": "8e7025b2e52c6583a88c60bfe166ff84"
+            },
+            "\/mAdhva\/sarvamUla\/kAThaka-bhAShya.txt": {
+                "hash": "263dd973d9264dd4d606ee55a84eda88"
+            },
+            "\/mAdhva\/sarvamUla\/tatvOdyOtaH.txt": {
+                "hash": "e9e312a67aeb76592867be443e1c37cc"
+            },
+            "\/mAdhva\/sarvamUla\/karmanirNayaH.txt": {
+                "hash": "94c1ef8d5e572fd1ca3d3ccbc7e736b7"
+            },
+            "\/mAdhva\/sarvamUla\/yamakabhArataM-yAdupatyaTIkA.txt": {
+                "hash": "e8af58bbb8d7ba296320c392a7a114c1"
+            },
+            "\/mAdhva\/sarvamUla\/prapaMcamithyAtvAnumAnakhaNDanam.txt": {
+                "hash": "6fc9f3bd8333cbf6aeb6a34b7a5e37e3"
+            },
+            "\/mAdhva\/sarvamUla\/krmanirNaya-saTIkA\/karmanirNaya-saTIkA.txt": {
+                "hash": "746701d8ce100522f48714cc4309c996"
+            },
+            "\/mAdhva\/sarvamUla\/tatvasaMkhyAnam-TIkA.txt": {
+                "hash": "9caf1f04c101b8039486f6d2cac611fb"
+            },
+            "\/mAdhva\/sarvamUla\/gItA.txt": {
+                "hash": "a1e930244d7349f848d8b6421a1c5a2a"
+            },
+            "\/mAdhva\/sarvamUla\/yatipraNava kalpa.txt": {
+                "hash": "04c92caf9bf925ae0cd1a8485c23d04d"
+            },
+            "\/mAdhva\/sarvamUla\/RgbhAShya.txt": {
+                "hash": "a054115957e46dc8475aaaf972eb636d"
+            },
+            "\/mAdhva\/sarvamUla\/kRShNAmRta mahArNava.txt": {
+                "hash": "ad96ec3c4726b7f0e14e04c3cf860d74"
+            },
+            "\/mAdhva\/sarvamUla\/bhAgavata-tAtparya.txt": {
+                "hash": "8d69ed250bb98a49638b26d6d3b50dac"
+            },
+            "\/mAdhva\/sarvamUla\/pramANalaxaNaM-saTIkA.txt": {
+                "hash": "8fdb95e2333d62d28c9bdb24c3fda9f2"
+            },
+            "\/mAdhva\/sarvamUla\/tatvasaMkhyAnam.txt": {
+                "hash": "2d4aab1bcf6ca1ae1f55aeebdb9b5ecf"
+            },
+            "\/mAdhva\/sarvamUla\/IshAvAsya-bhAShya.txt": {
+                "hash": "1386966d06cf4d8d14de3458e55c96f7"
+            },
+            "\/mAdhva\/sarvamUla\/kathAlaxaNam.txt": {
+                "hash": "829ef09b2e2f66c8d4b94014852cf95d"
+            },
+            "\/mAdhva\/sarvamUla\/tatvavivEka-TIkA.txt": {
+                "hash": "25e630219a0636e9d12ee2777d0b9c73"
+            },
+            "\/mAdhva\/sarvamUla\/sanyAsapaddhatiH.txt": {
+                "hash": "705aab47a188a09c27199e31d6052563"
+            },
+            "\/mAdhva\/sarvamUla\/sUtrabhAShya.txt": {
+                "hash": "5c3f57778ab666aaa58ced3f39991e99"
+            }
+        },
+        "lastModified": "2021-01-31T18:35:05.780Z",
+        "hash": "27c433345bf489ef379a0c165dbaca90"
+    },
+    "sarvamUla_viShNutatva vinirNayaH.zip": {
+        "contents": {
+            "\/mAdhva\/sarvamUla\/viShNutatva vinirNayaH\/1.txt": {
+                "hash": "11df0acc1d3c9afe98e1059402b682ff"
+            },
+            "\/mAdhva\/sarvamUla\/viShNutatva vinirNayaH\/3.txt": {
+                "hash": "4c25264e457eccf692b050143d385433"
+            },
+            "\/mAdhva\/sarvamUla\/viShNutatva vinirNayaH\/2.txt": {
+                "hash": "1e267b49632f3d81c8bdc6eeb03834c8"
+            }
+        },
+        "lastModified": "2020-07-31T20:34:21.784Z",
+        "hash": "9f2d498c543023dda5b2a74ed6132af8"
+    },
+    "vEda.zip": {
+        "contents": {
+            "\/vEda\/nAdabiMdu upaniShat.txt": {
+                "hash": "f46a3db94d1ad47ab4a34d6556dcd75c"
+            },
+            "\/vEda\/puruShasUktakhaMDaartha.txt": {
+                "hash": "b27d9645b208bcf9a713f1628a11d5c8"
+            },
+            "\/vEda\/IshAvAsya upaniShat.txt": {
+                "hash": "7bcb46221578a2343e6ebd7df9f2e076"
+            },
+            "\/vEda\/aitarEya upaniShat.txt": {
+                "hash": "a65db0e2386bd6418455483229651cca"
+            },
+            "\/vEda\/mAMDUkya upaniShat.txt": {
+                "hash": "f6bb5f262010fd44678ac0afabd1b771"
+            },
+            "\/vEda\/garbha upaniShat.txt": {
+                "hash": "49068e90947865f6555ab0dc4d0e0037"
+            },
+            "\/vEda\/sAmavEda.txt": {
+                "hash": "cdaf73efc95f2866edd605f8a0fe39dc"
+            },
+            "\/vEda\/atharvavEda saMhitA.txt": {
+                "hash": "76e8d0308cac83d44aa3a2c3edc11828"
+            },
+            "\/vEda\/brahmabiMdu upaniShat.txt": {
+                "hash": "9ea8f592f9042a13e28737f6200ad080"
+            },
+            "\/vEda\/gOpatha brAhmaNa.txt": {
+                "hash": "1fd6b8badc27287be52d2b2e8c65f2d1"
+            },
+            "\/vEda\/mahAnArAyaNa upaniShat.txt": {
+                "hash": "2b8ce3e83a7eb71dc747465ae79c17f6"
+            },
+            "\/vEda\/RgvEda.txt": {
+                "hash": "763cdf8c3cefa3c2e00b621799111347"
+            },
+            "\/vEda\/RgvEda khilAni.txt": {
+                "hash": "119095a4f02717f5895394df4fc650a1"
+            },
+            "\/vEda\/bRhadAraNyaka upaniShad.txt": {
+                "hash": "451860b24d0d38189aa8f6eef2609ded"
+            },
+            "\/vEda\/maitrAyaNI-saMhitA.txt": {
+                "hash": "9f16025fee3449b8960beac622f127b5"
+            },
+            "\/vEda\/ChAMdOgya upaniShat.txt": {
+                "hash": "66b4e632f9cb0519cf9984f578813402"
+            },
+            "\/vEda\/mAMDUkya kArikA.txt": {
+                "hash": "97c23724587237fe99d9976042f0542b"
+            },
+            "\/vEda\/shatapatha brAhmaNa.txt": {
+                "hash": "1b876f63ba5110c9a6b65cec8d8d6e17"
+            },
+            "\/vEda\/RgvidhAna.txt": {
+                "hash": "006f31fbd6d7fac07a64c046bc71f7ff"
+            },
+            "\/vEda\/atharva shira upaniShat.txt": {
+                "hash": "68808005156898fcef4860900a10c56e"
+            },
+            "\/vEda\/shvEtAshvatara upaniShat.txt": {
+                "hash": "1022cac9e5f808080f8f74e7e76d15ad"
+            }
+        },
+        "lastModified": "2017-09-28T06:25:35.190Z",
+        "hash": "53b3016319ba3150ed63c736ef01a448"
+    },
+    "mAdhva_gItAvivRti.zip": {
+        "contents": {
+            "\/mAdhva\/gItAvivRti\/16-daivAsura saMpadvibhAga yOga.txt": {
+                "hash": "1ee794ca90af2fd9a77dc8cba184a112"
+            },
+            "\/mAdhva\/gItAvivRti\/11-vishvarUpa yOga.txt": {
+                "hash": "02320ee13f76dc7274967403ef769b69"
+            },
+            "\/mAdhva\/gItAvivRti\/02-sAMkhya yOga.txt": {
+                "hash": "2642d390415300e096180eee98fe67d0"
+            },
+            "\/mAdhva\/gItAvivRti\/18-mOxa sanyAsa yOga.txt": {
+                "hash": "1fd7f4270c167a65d8ffcd4889fb59a7"
+            },
+            "\/mAdhva\/gItAvivRti\/12-bhakti yOga.txt": {
+                "hash": "20b23ea800934f2c5486c9dfa15277a3"
+            },
+            "\/mAdhva\/gItAvivRti\/13-xEtra xEtrajna yOga.txt": {
+                "hash": "03bce990b605b4a03b846313f89d2c5d"
+            },
+            "\/mAdhva\/gItAvivRti\/09-rAjavidyA rAjaguhya yOga.txt": {
+                "hash": "97ccffc269e6da01a048fc7545578134"
+            },
+            "\/mAdhva\/gItAvivRti\/03-karma yOga.txt": {
+                "hash": "143d1de63a05cd171595ef2705c2f1fb"
+            },
+            "\/mAdhva\/gItAvivRti\/17-shraddhAtraya vibhAga yOga.txt": {
+                "hash": "041e379d54d65aee53b88fe916497b42"
+            },
+            "\/mAdhva\/gItAvivRti\/01-arjuna viShAda yOga.txt": {
+                "hash": "d2e79acb762e1fc0a4493665053a371e"
+            },
+            "\/mAdhva\/gItAvivRti\/08-axara parabrahma yOga.txt": {
+                "hash": "0877e27c311def465a41cf556e952aad"
+            },
+            "\/mAdhva\/gItAvivRti\/14-guNatraya vibhAga yOga.txt": {
+                "hash": "636491da0c372f331f5b9fc0c6d43854"
+            },
+            "\/mAdhva\/gItAvivRti\/07-jnAna vijnAna yOga.txt": {
+                "hash": "38d745ac4e1812f5beeb7db09bd1c9ac"
+            },
+            "\/mAdhva\/gItAvivRti\/04-jnAna yOga.txt": {
+                "hash": "f6ce145dd91f0186d3a80c8b9eac28c8"
+            },
+            "\/mAdhva\/gItAvivRti\/15-puruShOttama yOga.txt": {
+                "hash": "17b541353d0d3b5ed45f0e43307813c3"
+            },
+            "\/mAdhva\/gItAvivRti\/06-Atma saMyama yOga.txt": {
+                "hash": "bc9f00bd9171375fce645cd2a96d4207"
+            },
+            "\/mAdhva\/gItAvivRti\/10-vibhUti yOga.txt": {
+                "hash": "1411ac8c926ca53751003d2e0fc3e2d6"
+            },
+            "\/mAdhva\/gItAvivRti\/05-karma sanyAsa yOga.txt": {
+                "hash": "341cd06468cef4290d0cb47eb75b35b2"
+            }
+        },
+        "lastModified": "2020-08-01T08:42:51.753Z",
+        "hash": "ba125ec95e747dfc7451cbeebe4ec741"
+    },
+    "mAdhva_upaniShatprasthAnaM.zip": {
+        "contents": {
+            "\/mAdhva\/upaniShatprasthAnaM\/bRhadAraNyaka\/bhAvabOdha.txt": {
+                "hash": "9512ea0454d9086dfbea3a88869047a1"
+            },
+            "\/mAdhva\/upaniShatprasthAnaM\/aitarEya\/aitarEya-tAmraparNIya-TIkA.txt": {
+                "hash": "a8559dd687cc8547ca6fd5d74d01872f"
+            },
+            "\/mAdhva\/upaniShatprasthAnaM\/aitarEya\/aitarEya-bhAvapradIpa-1.txt": {
+                "hash": "8a577b0498c1e5292ab2168ee397b641"
+            },
+            "\/mAdhva\/upaniShatprasthAnaM\/bRhadAraNyaka\/khaNDArtha.txt": {
+                "hash": "93b85b61c5aaade520b294fdc9dc3950"
+            }
+        },
+        "lastModified": "2021-01-31T18:35:08.380Z",
+        "hash": "e686d96d3a17b5842026b886fe91e8bd"
+    },
+    "purANa_harivaMsha.zip": {
+        "contents": {
+            "\/purANa\/harivaMsha\/harivaMsha-01.txt": {
+                "hash": "0e61ee86f9d920e2901806525f2e9f6d"
+            },
+            "\/purANa\/harivaMsha\/harivaMsha-02.txt": {
+                "hash": "bbb62930c4a124c9d5e3daf8407d32d4"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "0e82136ff610421ba3a82b6eebde8e17"
+    },
+    "purANa_vAmana-purANa.zip": {
+        "contents": {
+            "\/purANa\/vAmana-purANa\/vAmana purANa.txt": {
+                "hash": "3782fba94f53773e70643876093cc57c"
+            },
+            "\/purANa\/vAmana-purANa\/vAmana purANa sarO mahAtmya.txt": {
+                "hash": "31939a53426cbe3478b12b3b48fd3e32"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "a5f147a4c48d474b6dba2431fb15b244"
+    },
+    "madhvavijaya.zip": {
+        "contents": {
+            "\/madhvavijaya\/aNumadhvavijaya.txt": {
+                "hash": "ffbf9c607a109753cc3d832a15a747a2"
+            },
+            "\/madhvavijaya\/prameyaphalamAlikA.txt": {
+                "hash": "8c343eeba86d5431a41851fcf2d8f32a"
+            },
+            "\/madhvavijaya\/madhvavijaya.txt": {
+                "hash": "3f844c65b28acb0ae630cd221ec919fc"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "3c25e24696896b4a4a941c56b2b50e19"
+    },
+    "zipsUpdated": [
+        "dAsasAhitya.zip"
+    ],
+    "dAsasAhitya.zip": {
+        "contents": {
+            "\/dAsasAhitya\/jagannAthadAsaru\/laxmIhRdaya-stOtra.txt": {
+                "hash": "a9c1c2cc969f7439df4012afd2e7565f"
+            },
+            "\/dAsasAhitya\/puraMdaradAsara-gadya.txt": {
+                "hash": "8f27be1859fe973241270f5bbd6c2334"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/paMcharatna-suLAdigaLu.txt": {
+                "hash": "be5d6fc0d0f3b6db96bf3d6b8995fdd3"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/habba-suLAdi.txt": {
+                "hash": "476bc332ad1444662fbb0ef8867e3c89"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/sAdhana-suLAdi.txt": {
+                "hash": "658028a67452bd98f65aa0465b41a86d"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/avatAratraya_madhva-suvvAli.txt": {
+                "hash": "2d8237cd8182482362d1151955fc530b"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/shrInivAsa-suLAdi.txt": {
+                "hash": "65ac44966d4a9eb4827865f6b1a24685"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/maDi-suLAdi.txt": {
+                "hash": "4a15eacb9de9de1d6c098e50f752c1ae"
+            },
+            "\/dAsasAhitya\/kanakadAsaru\/haribhaktisAra.txt": {
+                "hash": "cf68725f0d8c5ff2c9b870c622592c79"
+            },
+            "\/dAsasAhitya\/kanakadAsaru\/kEshavanAma.txt": {
+                "hash": "755f97a0c161720d45c46f45a7cc1a83"
+            },
+            "\/dAsasAhitya\/jagannAthadAsaru\/narasiMha-suLAdi.txt": {
+                "hash": "40617a8f2b027a17093323734ba0c74c"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/svapnapada.txt": {
+                "hash": "10f6fa663731327ec333fbb780e92bc5"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/laxmI-shObhana-hADu.txt": {
+                "hash": "8b36df3567a2ee6caeae034c4e129326"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/sAMkhya-shAstra-suLAdi.txt": {
+                "hash": "9f988fea5677025e48d0efd6efd1a794"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/annadAna-mahimA-suLAdi.txt": {
+                "hash": "2cd41a34a5390dac765adbd2001cf347"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/naivEdya-suLAdi.txt": {
+                "hash": "0ec41499aa4b28cf0439b53f4ff66a3a"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/guMDa_kriye.txt": {
+                "hash": "b824cfe72e226a9128bc30b0d78a880c"
+            },
+            "\/dAsasAhitya\/gOpAladAsaru\/karuNa-kavacha.txt": {
+                "hash": "3e8b655345dafeeef4020dbad68cdb7b"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/haridAsa-laxaNa-suLAdi.txt": {
+                "hash": "24d3a9254006034622d088e4cabd1004"
+            },
+            "\/dAsasAhitya\/jagannAthadAsaru\/tatvasuvvAli.txt": {
+                "hash": "bb69cfeb16e9a48a451292a3c78d398a"
+            },
+            "\/dAsasAhitya\/jagannAthadAsaru\/vEMkatEsha-stavarAja.txt": {
+                "hash": "46ecd5e421e5125f5941bcb2b16ca8de"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/axayapAtre-hADu.txt": {
+                "hash": "ac58943fa943ef238a847c085c26eeef"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/virADrUpa-suLAdi.txt": {
+                "hash": "efaf69a9ed45b38769588221d2bb8390"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/tatvasAra-vaikuMTha-varNane.txt": {
+                "hash": "42557efba7c363cf9d25cb195fc59faf"
+            },
+            "\/dAsasAhitya\/vijayakavacha.txt": {
+                "hash": "ed91ab2f6550e8117d09d38cf246a505"
+            },
+            "\/dAsasAhitya\/vijayadAsaru\/vedavyasa-suLAdi.txt": {
+                "hash": "4629fa4a655fb29833593ad4dcfab85d"
+            },
+            "\/dAsasAhitya\/vAdirAjaru\/bhramara_gIte.txt": {
+                "hash": "8b7be9775bd500f77eebb1f155d2aff2"
+            }
+        },
+        "lastModified": "2021-01-31T18:54:47.015Z",
+        "hash": "80bf5cebfd4132cc427d6e9f44df0da3"
+    },
+    "mAdhva_sudhA_samagra.zip": {
+        "contents": {
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-3.txt": {
+                "hash": "f82a54e521d104d90f3a7fb1e67890d8"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-2-bhAga-2.txt": {
+                "hash": "77280b7b4989d894bbae67a69fb5a0a9"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-1-bhAga-2.txt": {
+                "hash": "bcd056ff2581b94e38d210a8086d8b13"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-1_3-2-bhAga-1.txt": {
+                "hash": "8e6e6fac981754b55b4fd1e7be612b1b"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-4-2.txt": {
+                "hash": "e5c4f42a497004d6174556f897ddec56"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-4-3_4-4.txt": {
+                "hash": "ff127a00a15edfae98e42674422ad1e5"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-3.txt": {
+                "hash": "daa2aa8bb129c078c885c2ca08ac7934"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-2.txt": {
+                "hash": "fb4921e9a606b045445c0f98bd5cee07"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-4.txt": {
+                "hash": "1d20de1a1c678e63b71512ec9c2aada1"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-1-bhAga-3.txt": {
+                "hash": "bc0dc02c3fff672a50dda02837d79f9c"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1.txt": {
+                "hash": "705bb4da185e75616f0c16d98e0ba17b"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-3_2-4.txt": {
+                "hash": "13362df845d17279329bb1cbab4a2217"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-1_3-2-bhAga-2.txt": {
+                "hash": "50d9c4b3b61d16d10e888c77c64d1e8e"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-1-bhAga-1.txt": {
+                "hash": "a36943e734ea9de82fbf43410b64588f"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-4-1.txt": {
+                "hash": "1ff6e4a66a02621da552fd05f0faa9bf"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-2-bhAga-1.txt": {
+                "hash": "33ddf99498292b94811f87805f4fcecb"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-2-bhAga-3.txt": {
+                "hash": "af46a06efaf56c0829ac87ba063b9095"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-3.txt": {
+                "hash": "30221aae94338d8f746118fa94b6ede5"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-1.txt": {
+                "hash": "3f4cf1c8506c8d50c0e2800ee8db3d9a"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-4.txt": {
+                "hash": "cb68a0d8a13b557b3d6dbb2125cb59bf"
+            },
+            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-2.txt": {
+                "hash": "acbe7c1b213db2cffb449915b81e64c1"
+            }
+        },
+        "lastModified": "2020-08-01T08:43:01.741Z",
+        "hash": "703f3762ce23fc081e4e41a5003cbf72"
+    },
+    "purANa_dEvI-mahApurANa.zip": {
+        "contents": {
+            "\/purANa\/dEvI-mahApurANa\/dEvI-bhAgavataM.txt": {
+                "hash": "dfb830cb08e329ae48183d0470a242c9"
+            }
+        },
+        "lastModified": "2021-01-31T18:35:25.754Z",
+        "hash": "a1dfd92cfdc705b5f8752d5b84c12a50"
+    },
+    "sarvamUla_tantrasAra saMgraha.zip": {
+        "contents": {
+            "\/mAdhva\/sarvamUla\/tantrasAra saMgraha\/tantrasAra saMgraha-4.txt": {
+                "hash": "2a8538e57af4ba8bda780a88b36399a9"
+            },
+            "\/mAdhva\/sarvamUla\/tantrasAra saMgraha\/tantrasAra saMgraha-2.txt": {
+                "hash": "007a6227c3ab296c651e6de43f706e04"
+            },
+            "\/mAdhva\/sarvamUla\/tantrasAra saMgraha\/tantrasAra saMgraha-3.txt": {
+                "hash": "1edea073151417a11fd145ac88656433"
+            },
+            "\/mAdhva\/sarvamUla\/tantrasAra saMgraha\/tantrasAra saMgraha-1.txt": {
+                "hash": "eedea8d7b8509281ac59b4e23f919b93"
+            }
+        },
+        "lastModified": "2020-07-31T20:34:32.098Z",
+        "hash": "1810bbc403bc971f3a95dee44303fae4"
+    },
+    "purANa_padmapurANa.zip": {
+        "contents": {
+            "\/purANa\/padmapurANa\/pAtALa-khaNDa.txt": {
+                "hash": "d52e36247e1774762c626e88dbea8e66"
+            },
+            "\/purANa\/padmapurANa\/kriyA-khaNDa.txt": {
+                "hash": "9efc79f0d17ab220f45017bffea40059"
+            },
+            "\/purANa\/padmapurANa\/uttara-khaNDa.txt": {
+                "hash": "12a373d6507d32879f453295e6979348"
+            },
+            "\/purANa\/padmapurANa\/svarga-khaNDa.txt": {
+                "hash": "87f3566c1e28fe43dbc206291741220c"
+            },
+            "\/purANa\/padmapurANa\/bhUmi-khaNDa.txt": {
+                "hash": "dfe7ded79a580ad13f5f34cd1200f12a"
+            },
+            "\/purANa\/padmapurANa\/brahma-khaNDa.txt": {
+                "hash": "b5a3bb2931d87d36ef63fa34e00f1c73"
+            },
+            "\/purANa\/padmapurANa\/sRShTi-khaNDa.txt": {
+                "hash": "0f43805098d86eb644bbaec7644ff4f7"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "7f59dede654d37c625f796f602da0b26"
+    },
+    "mahAbhArata_mAdhvapATha.zip": {
+        "contents": {
+            "\/mahAbhArata_mAdhvapATha\/04-virATa-parva.txt": {
+                "hash": "8fae8e57345e2e9f4f75bb5853102b4a"
+            },
+            "\/mahAbhArata_mAdhvapATha\/13-anushAsana-parva.txt": {
+                "hash": "6439c6299eadca4498bfa10c107bd675"
+            },
+            "\/mahAbhArata_mAdhvapATha\/14-AshvamEdhika-parva.txt": {
+                "hash": "2cf0e9bd4e42b1a9c19c5343734e9729"
+            },
+            "\/mahAbhArata_mAdhvapATha\/09-shalya-parva.txt": {
+                "hash": "e4345f59151551151dd588ae55fbb4fe"
+            },
+            "\/mahAbhArata_mAdhvapATha\/16-mausala-parva.txt": {
+                "hash": "8b4e25214d66ed60148572eac59239f5"
+            },
+            "\/mahAbhArata_mAdhvapATha\/08-karNa-parva.txt": {
+                "hash": "38a5c051fb9b90218c76be641aaca09a"
+            },
+            "\/mahAbhArata_mAdhvapATha\/03-vana-parva.txt": {
+                "hash": "b9ee02c9ceabd9d7083040cdba10df3b"
+            },
+            "\/mahAbhArata_mAdhvapATha\/15-AshramavAsika-parva.txt": {
+                "hash": "6613f8dd4f4c4fcef40b3bc7d663e3bc"
+            },
+            "\/mahAbhArata_mAdhvapATha\/05-udyoga-parva.txt": {
+                "hash": "e2088c259ddbc1a859f800521e25f8c2"
+            },
+            "\/mahAbhArata_mAdhvapATha\/02-sabhA-parva.txt": {
+                "hash": "78ce4fe98d265435eaa4d62de60290b5"
+            },
+            "\/mahAbhArata_mAdhvapATha\/12-shaanti-parva.txt": {
+                "hash": "403f6a9278b31d19ede568259080b5cd"
+            },
+            "\/mahAbhArata_mAdhvapATha\/10-sauptika-parva.txt": {
+                "hash": "f51102c4891d90f2a6833ae3bfb50abf"
+            },
+            "\/mahAbhArata_mAdhvapATha\/11-strI-parva.txt": {
+                "hash": "284fac93517af34701b0ffa1ca9222ae"
+            },
+            "\/mahAbhArata_mAdhvapATha\/01-Adi-parva.txt": {
+                "hash": "a390135ed56a400ff2f1bb2da1292083"
+            },
+            "\/mahAbhArata_mAdhvapATha\/07-droNa-parva.txt": {
+                "hash": "494f939947e50efc93efbcc09c7e434b"
+            },
+            "\/mahAbhArata_mAdhvapATha\/17-mahAprasthAnika-parva.txt": {
+                "hash": "5c7efcdd5653a5aaeb57c21e9ff4d058"
+            },
+            "\/mahAbhArata_mAdhvapATha\/18-svargArOhaNa-parva.txt": {
+                "hash": "30b140639fa2dae24f745484ab696ce3"
+            },
+            "\/mahAbhArata_mAdhvapATha\/06-bhIshma-parva.txt": {
+                "hash": "c9f793193932f30bd90435901c7a1b96"
+            }
+        },
+        "lastModified": "2020-08-01T08:42:45.666Z",
+        "hash": "1b5e560a330704fdee5a78876a476df9"
+    },
+    "mImAMsA.zip": {
+        "contents": {
+            "\/mImAMsA\/jaimini\/mImAMsAsUtra.txt": {
+                "hash": "bfed9bd6b13378cc4a5c6ad6ffb12e2e"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "f95f820c3ce22cb13bf3598e34207c58"
+    },
+    "sarvamUla_sudhA samagra.zip": {
+        "contents": {
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-1-bhAga-3.txt": {
+                "hash": "bc0dc02c3fff672a50dda02837d79f9c"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-2-bhAga-3.txt": {
+                "hash": "af46a06efaf56c0829ac87ba063b9095"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-4.txt": {
+                "hash": "cb68a0d8a13b557b3d6dbb2125cb59bf"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-3-1_3-2-bhAga-2.txt": {
+                "hash": "50d9c4b3b61d16d10e888c77c64d1e8e"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-2.txt": {
+                "hash": "fb4921e9a606b045445c0f98bd5cee07"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-2.txt": {
+                "hash": "acbe7c1b213db2cffb449915b81e64c1"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-3-4.txt": {
+                "hash": "1d20de1a1c678e63b71512ec9c2aada1"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-3-1_3-2-bhAga-1.txt": {
+                "hash": "8e6e6fac981754b55b4fd1e7be612b1b"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-1-bhAga-2.txt": {
+                "hash": "bcd056ff2581b94e38d210a8086d8b13"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-4-1.txt": {
+                "hash": "1ff6e4a66a02621da552fd05f0faa9bf"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-3.txt": {
+                "hash": "f82a54e521d104d90f3a7fb1e67890d8"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-1.txt": {
+                "hash": "705bb4da185e75616f0c16d98e0ba17b"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-2-bhAga-1.txt": {
+                "hash": "33ddf99498292b94811f87805f4fcecb"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-3_2-4.txt": {
+                "hash": "13362df845d17279329bb1cbab4a2217"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-1.txt": {
+                "hash": "3f4cf1c8506c8d50c0e2800ee8db3d9a"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-2-bhAga-2.txt": {
+                "hash": "77280b7b4989d894bbae67a69fb5a0a9"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-1-bhAga-1.txt": {
+                "hash": "a36943e734ea9de82fbf43410b64588f"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-3.txt": {
+                "hash": "daa2aa8bb129c078c885c2ca08ac7934"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-3-3.txt": {
+                "hash": "30221aae94338d8f746118fa94b6ede5"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-4-2.txt": {
+                "hash": "e5c4f42a497004d6174556f897ddec56"
+            },
+            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-4-3_4-4.txt": {
+                "hash": "ff127a00a15edfae98e42674422ad1e5"
+            }
+        },
+        "lastModified": "2020-07-31T20:34:16.273Z",
+        "hash": "f7212e294457e6804c7d58cb8456be1b"
+    },
+    "purANa_bhaviShyapurANa.zip": {
+        "contents": {
+            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-04.txt": {
+                "hash": "edd46b2cfcb841a82f70c5f62d9a8856"
+            },
+            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-01.txt": {
+                "hash": "59020a9a84f6de5b256749de150ae1b8"
+            },
+            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-02.txt": {
+                "hash": "6bdbf0f723e73ea664cbc6a18f5b1af8"
+            },
+            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-03.txt": {
+                "hash": "482443bf6ebe13f36b73ed695839a2cb"
+            },
+            "\/purANa\/bhaviShyapurANa\/srInivAsakalyANa-bhavishyOttarapurANam.txt": {
+                "hash": "1c846c3d401d8f1d7d60f5338ac47970"
+            }
+        },
+        "lastModified": "2021-01-31T18:35:08.967Z",
+        "hash": "ee4b3cde93762d1ccf3e15428fdc16bc"
+    },
+    "mAdhva.zip": {
+        "contents": {
+            "\/mAdhva\/dvaitadyumaNiH.txt": {
+                "hash": "046765d03d3eee4ffe4456025ac19d05"
+            },
+            "\/mAdhva\/vadAvali.txt": {
+                "hash": "1db1899d2a7531dd1113671491c4f29c"
+            },
+            "\/mAdhva\/yuktimallikA.txt": {
+                "hash": "3ed8966eb5443dac26e3a716ff045946"
+            },
+            "\/mAdhva\/IshAvAsya khaNDArthaH.txt": {
+                "hash": "ca39159a459d76486fb8aa67d30bacd1"
+            },
+            "\/mAdhva\/sattatvaratnamAlA.txt": {
+                "hash": "607206afa14e08ecc8b1c9cd1e03bcaa"
+            },
+            "\/mAdhva\/pramANapaddhatiH-vAnivAla.txt": {
+                "hash": "caac3715460650f20590a788c36d4ce2"
+            },
+            "\/mAdhva\/tatvavivEkaTIkA.txt": {
+                "hash": "f041e36e2f865c3c06e73de4ce603e26"
+            },
+            "\/mAdhva\/saMgraharAmAyaNa.txt": {
+                "hash": "4b78db1fb680394dea76a2c2800a875c"
+            },
+            "\/mAdhva\/nyAyAmRutam.txt": {
+                "hash": "8d1c77debb4bfa9cc5020e23b94431e0"
+            },
+            "\/mAdhva\/tatvasaMkhyAnaTIkA.txt": {
+                "hash": "7310e58776852227db6e3b1e20cc91e3"
+            },
+            "\/mAdhva\/IshAvAsyaTIkA.txt": {
+                "hash": "2e6bf11aaaa306704e2b72520c6d4d8c"
+            },
+            "\/mAdhva\/pramANapaddhatiH.txt": {
+                "hash": "2e94e830c2103d3223e9d9b155fff157"
+            },
+            "\/mAdhva\/yOgadIpikA.txt": {
+                "hash": "cdeb48f3c8e21c6e98139100681dc3b4"
+            }
+        },
+        "lastModified": "2021-01-31T18:35:00.413Z",
+        "hash": "52d50757a2000450e1eb13e0ab6ed9ff"
+    },
+    "kOsha_shabdakalpadruma_1.zip": {
+        "contents": {
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-042.txt": {
+                "hash": "d0ef9cf304e4795f8a05b69df7df7b60"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-080.txt": {
+                "hash": "fd41eec284c678b80c6165d262b6aace"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-055.txt": {
+                "hash": "85531a3e2786913560c7ce9e378620e0"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-136.txt": {
+                "hash": "c89aad06de488c07033ba441a4c5526a"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-122.txt": {
+                "hash": "3b7a01da5f094607c96c310220f19419"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-069.txt": {
+                "hash": "f4de6604b55414882af5e1958643e85f"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-054.txt": {
+                "hash": "fd3df500d37e4373887079a029c5d80c"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-041.txt": {
+                "hash": "af641844d29846b0c4d0d522c211a4f1"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-121.txt": {
+                "hash": "5f323868ee52f3eb62402be82ea1cb2f"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-097.txt": {
+                "hash": "f79396c7dbc175af188144827ad814ca"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-057.txt": {
+                "hash": "3467f5b90bbea58d55eb64d439f03990"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-040.txt": {
+                "hash": "3d789aec0968bd4752b279534a930998"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-120.txt": {
+                "hash": "d1829dc8e20d66a1ec215a0c2b4f930d"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-108.txt": {
+                "hash": "c8a15f4c9f93cb0acb876da9631a6f70"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-096.txt": {
+                "hash": "8ddb9270a1e3c38baf697219c2c6f1ba"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-083.txt": {
+                "hash": "60e4f792ead0e889427896b08e8d4b8a"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-082.txt": {
+                "hash": "26c0a617e96b1837170217f32562ca66"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-134.txt": {
+                "hash": "f2883e5ff81e58dc490a932d79f651eb"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-081.txt": {
+                "hash": "0d5c0d392f9129e50ca113dd4175f984"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-095.txt": {
+                "hash": "4c78f0e77bcf01124499c6be675d63a3"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-056.txt": {
+                "hash": "03fa71ec6a401bed83bf4d06a5a605f6"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-043.txt": {
+                "hash": "d9f10bcfe8ede68b842123a88ecc37fd"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-094.txt": {
+                "hash": "db30cd44215643f1b8373a41d9d6ace7"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-135.txt": {
+                "hash": "4cbc86f5ff80e788b59d04fab6f5a471"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-109.txt": {
+                "hash": "b3c4f7054e18b52e6dac77f0e8652497"
+            },
+            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-068.txt": {
+                "hash": "fe8422112103ab58e53ce50b340e426b"
+            }
+        },
+        "lastModified": "2018-08-05T14:00:09.027Z",
+        "hash": "06078a8b5c531117b504a521de559d26"
+    },
+    "purANa_skandapurANa.zip": {
+        "contents": {
+            "\/purANa\/skandapurANa\/kAshIkhaNDa.txt": {
+                "hash": "ebed830d3ed5a761d74f22972ae5c53d"
+            },
+            "\/purANa\/skandapurANa\/mAhEshvarakhaNDa.txt": {
+                "hash": "18d79c16ecdb6ba6928d756867a8ae47"
+            },
+            "\/purANa\/skandapurANa\/skaMda purANa rEvA khaMDa.txt": {
+                "hash": "d514bdfdc3e2592d8c3ead5681bc9035"
+            },
+            "\/purANa\/skandapurANa\/avantIkhaNDa.txt": {
+                "hash": "698682d33817172e9b5263a60cdc20de"
+            },
+            "\/purANa\/skandapurANa\/prabhAsakhaNDa.txt": {
+                "hash": "a763c53ad94766cc80447c5f30a2b44b"
+            },
+            "\/purANa\/skandapurANa\/vaiShNavakhaNDa.txt": {
+                "hash": "bcb7f099986a693dc2d3278fd2e6b78c"
+            },
+            "\/purANa\/skandapurANa\/brahmakhaNDa.txt": {
+                "hash": "2265d4675ffa6ebb2716cefeae6f69de"
+            },
+            "\/purANa\/skandapurANa\/nAgarakhaNDa.txt": {
+                "hash": "82e501ad463227a67fd091199c0f5729"
+            },
+            "\/purANa\/skandapurANa\/skaMda purANa.txt": {
+                "hash": "2305625d1f79750bbef3529e17ff7e31"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "83739dc3696a2eacd5bb32d6e757581b"
+    },
+    "vyAkaraNa.zip": {
+        "contents": {
+            "\/vyAkaraNa\/kAshikA-5.txt": {
+                "hash": "9411f7417b1cd0a20aa36aaf9a465748"
+            },
+            "\/vyAkaraNa\/kAshikA-6.txt": {
+                "hash": "06eedda1876b3a82525513def6b0b817"
+            },
+            "\/vyAkaraNa\/nAgOjibhaTTa\/paribhAshEMdushEkhara.txt": {
+                "hash": "e72c377744d828e6ec72825c9a524266"
+            },
+            "\/vyAkaraNa\/varadarAja\/laghusiddhAntakaumudI.txt": {
+                "hash": "8fc15b3079e9aede5c45c09541785ad2"
+            },
+            "\/vyAkaraNa\/kAshikA-8.txt": {
+                "hash": "68ca6ca05c8e4b51312b11772ba123cc"
+            },
+            "\/vyAkaraNa\/kAshikA-7.txt": {
+                "hash": "c7acb3eabb04bc2d9911e38e319d8efc"
+            },
+            "\/vyAkaraNa\/kAshikA-1.txt": {
+                "hash": "0b17db57073dea966d07e49aa27569b0"
+            },
+            "\/vyAkaraNa\/kAshikA-4.txt": {
+                "hash": "5165cc8b331fb73dcf940d01df7fc0c1"
+            },
+            "\/vyAkaraNa\/bhartRhari\/vAkyapAdIya.txt": {
+                "hash": "1c23963d184dd3c7a4d99b50212e75e6"
+            },
+            "\/vyAkaraNa\/kAshikA-3.txt": {
+                "hash": "cd11c65a6242260fad8329ac149f2702"
+            },
+            "\/vyAkaraNa\/kAshikA-2.txt": {
+                "hash": "b729573fd3e71cd5131f6849356def37"
+            }
+        },
+        "lastModified": "2017-06-04T09:18:19Z",
+        "hash": "366a3922f13e801d67ddf80d63cc563a"
+    },
+    "kOsha_vAchaspatyaM_1.zip": {
+        "contents": {
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-152.txt": {
+                "hash": "204e77b0efbefa587ded896be5d9ebb7"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-025.txt": {
+                "hash": "5206d55ff96b3685fe0e8b6ba776d29f"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-020.txt": {
+                "hash": "c1051a4ffe49049cd3e5920192549c3d"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-157.txt": {
+                "hash": "a7a0bab4339d2555d9a524fe47072ae8"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-144.txt": {
+                "hash": "8911f57b0b833eefb4f46e6ac16cdb67"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-009.txt": {
+                "hash": "ce6d55b1d51f9270fe168ed9802e95d2"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-143.txt": {
+                "hash": "723951dc6a30f763851c71150034d1a9"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-033.txt": {
+                "hash": "0b446ee3f849dab9f8bb3bd86aed8253"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-037.txt": {
+                "hash": "b86d6407a89be6adbbca279c4b5b3eee"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-018.txt": {
+                "hash": "39a320373e0eceea6dd034b45cf99c9c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-156.txt": {
+                "hash": "bb28231a355e0b49f71651b6a2e45540"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-147.txt": {
+                "hash": "9158665fbe7c3f8f3bff00d80bca94d7"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-024.txt": {
+                "hash": "66ee78f3e9e68fce676551100201f334"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-023.txt": {
+                "hash": "e44d496d80c8fd01240ee1fd4777f447"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-142.txt": {
+                "hash": "2a6f88cfdb118b0db49f4368ce6956af"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-155.txt": {
+                "hash": "902c5c5cdbbcb73bb00763e298c7fc81"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-084.txt": {
+                "hash": "df0e01d377874df0fd79371736e362d3"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-032.txt": {
+                "hash": "0ff1ff3f533184de795ba0341ee3bd4a"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-151.txt": {
+                "hash": "3ac0d6332835b4e051cd2ff6ef8f5c46"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-019.txt": {
+                "hash": "69c8e6b986d525f39f912442cc76e25f"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-141.txt": {
+                "hash": "907e80d61783e439e8d546a60b01058c"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-036.txt": {
+                "hash": "71134001e451bbf1958a885a63524987"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-146.txt": {
+                "hash": "26f11ad0cf15efd1209fb56093113857"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-027.txt": {
+                "hash": "15bf41637bd721244b8f14d697dcf179"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-154.txt": {
+                "hash": "d47a15e2bfda49b1a4349273c25ce4a0"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-035.txt": {
+                "hash": "ed9b4a2d7c158778ecad77c89c352a4a"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-022.txt": {
+                "hash": "889c8ee78fae3ed7b5851ce0ee8ba817"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-031.txt": {
+                "hash": "38b88a9714e5afb64ce8bfedf0cfb202"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-150.txt": {
+                "hash": "60cf5a7ac76cb731d95861b5e43b66eb"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-140.txt": {
+                "hash": "0cb2b37ed41a8f8bcb16184c6eea533e"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-026.txt": {
+                "hash": "b86c0b9003d2958a726743987037e3bf"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-145.txt": {
+                "hash": "0c01ba1b0ff1ef4b87f45b3adcdd57db"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-034.txt": {
+                "hash": "62b09bd00f534a8b7928f2811e045a56"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-008.txt": {
+                "hash": "264d016688f28b1c1efd82e265adca32"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-021.txt": {
+                "hash": "f3a8f388256615c5058b999f1ae07c00"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-153.txt": {
+                "hash": "0fec1cd68b163e8dc4c79395ef88ec74"
+            },
+            "\/kOsha\/vAchaspatyaM\/vAchaspatya-030.txt": {
+                "hash": "a9bd940a511bf2760adb9b4456d0ab42"
+            }
+        },
+        "lastModified": "2018-08-05T13:59:54.145Z",
+        "hash": "b3d300a7871e27d79eb9052186e073de"
+    },
     "mAdhva_tatvaprakAshikA.zip": {
         "contents": {
             "\/mAdhva\/tatvaprakAshikA\/1-2.txt": {
@@ -1261,75 +2284,6 @@
         },
         "lastModified": "2020-08-01T08:42:47.847Z",
         "hash": "acfff9d8eb8e627667a22dd5febe4792"
-    },
-    "nirukti.zip": {
-        "contents": {
-            "\/nirukti\/yAska nirukti.txt": {
-                "hash": "a3f202ce330abe71ed39f85af051f7e6"
-            }
-        },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "3d09fb75c93ce14ed935b7de7329a82d"
-    },
-    "mAdhva_gItAbhAShya.zip": {
-        "contents": {
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/01-arjuna viShAda yOga.txt": {
-                "hash": "5b5852f29cb21b903d5019f3f966af62"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/11-vishvarUpa yOga.txt": {
-                "hash": "da57645150ba24986d802dcfbab623e9"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/03-karma yOga.txt": {
-                "hash": "e5009906032ae0d46c365a2be1291352"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/08-axara parabrahma yOga.txt": {
-                "hash": "3153e5ec58afb135ecfae9f6607775d6"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/02-sAMkhya yOga.txt": {
-                "hash": "f43550959f93194af202ce6c93e1f73b"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/17-shraddhAtraya vibhAga yOga.txt": {
-                "hash": "53a74dcbb05d3cfae6b85cb8edc42286"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/04-jnAna yOga.txt": {
-                "hash": "0de8887d4ae03b07851dd43c79f73479"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/12-bhakti yOga.txt": {
-                "hash": "79f7bcbde23c17e04b36c6ffa30970f1"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/09-rAjavidyA rAjaguhya yOga.txt": {
-                "hash": "45edb1269974b99779fcfc07c246a5aa"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/18-mOxa sanyAsa yOga.txt": {
-                "hash": "675d27cad1934ea290ffbaa1ccfe2861"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/14-guNatraya vibhAga yOga.txt": {
-                "hash": "2f1f6772db811b3588e247f0ff5e5fc8"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/06-Atma saMyama yOga.txt": {
-                "hash": "3a7f45098f0fcd256f9c3a8a5af7041a"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/10-vibhUti yOga.txt": {
-                "hash": "8d07a5a873136e58c6085b8cf5b9ba49"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/13-xEtra xEtrajna yOga.txt": {
-                "hash": "7953f79ea911b35b9581d5e1c84c4d8e"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/05-karma sanyAsa yOga.txt": {
-                "hash": "df12d0d9a11383b0ccdba9be6057f364"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/15-puruShOttama yOga.txt": {
-                "hash": "23810f9602de74556192a77e86b610c8"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/07-jnAna vijnAna yOga.txt": {
-                "hash": "705e784ff0d90a500330cd6afb67549a"
-            },
-            "\/mAdhva\/gItAbhAShya\/pramEyadIpikA\/16-daivAsura saMpadvibhAga yOga.txt": {
-                "hash": "ef4472d15485a63d70e2cb42ff98d565"
-            }
-        },
-        "lastModified": "2020-08-01T08:42:42.183Z",
-        "hash": "f3c061c07d46cc7d0feea256b5447f0a"
     },
     "mahAbhArata.zip": {
         "contents": {
@@ -1492,8 +2446,14 @@
             "\/stOtra\/navagrahastOtram.txt": {
                 "hash": "952f66c92f80f4490260216621e462b6"
             },
+            "\/stOtra\/narasiMhastuti-sumatIndraTIkA.txt": {
+                "hash": "790f612de47bc77f9418b4135c36471a"
+            },
             "\/stOtra\/viShNusahasranaama.txt": {
                 "hash": "7594f0d000ef1601d913e2cfe2da2ac4"
+            },
+            "\/stOtra\/narasiMhastuti-vishvapatiTIkA.txt": {
+                "hash": "f94775cc548066b2907442df5a903dff"
             },
             "\/stOtra\/suMdarakANDa.txt": {
                 "hash": "282278bef88524bda3e5a45983880569"
@@ -1549,6 +2509,9 @@
             "\/stOtra\/shrIpAdarAja paMratnamAlikA.txt": {
                 "hash": "9c5ad04ea2e9e720a851e3ac2b51ed74"
             },
+            "\/stOtra\/vAyustuti kUrma narasiMha TIkA.txt": {
+                "hash": "80424fafd2b46d788fa06cf98796a5bc"
+            },
             "\/stOtra\/gOsAvitrI stOtram.txt": {
                 "hash": "52b122160da2957bd7535560570a2412"
             },
@@ -1569,6 +2532,9 @@
             },
             "\/stOtra\/prArthanA dashaka stOtram.txt": {
                 "hash": "89c4eab9520c7019fc92aef27f5dcedc"
+            },
+            "\/stOtra\/nakhastuti TIkA vishvapati.txt": {
+                "hash": "5e7fab3a5f3780f9de31c0ac156bd44b"
             },
             "\/stOtra\/narasiMhastuti.txt": {
                 "hash": "b54069578335999504a94b5c5371c1df"
@@ -1634,161 +2600,77 @@
                 "hash": "3645829eadea56b1d51ac99d076b0f10"
             }
         },
-        "lastModified": "2020-07-31T20:34:11.681Z",
-        "hash": "5d04bf29a2327253d8cff02b1b58cb64"
+        "lastModified": "2021-01-31T18:35:01.700Z",
+        "hash": "6efbe5999f655754460cc7e44a3ea96e"
     },
-    "mAdhva_sarvamUla.zip": {
+    "purANa_upapurANam.zip": {
         "contents": {
-            "\/mAdhva\/sarvamUla\/nyAyavivaraNa.txt": {
-                "hash": "b69b57455924dbf88b071c452132f062"
+            "\/purANa\/upapurANam\/kapila-purana.txt": {
+                "hash": "043a1c71e831d6c0792746024ad87d18"
             },
-            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/1.txt": {
-                "hash": "11df0acc1d3c9afe98e1059402b682ff"
+            "\/purANa\/upapurANam\/nIlamata-purana.txt": {
+                "hash": "f6e81391e566454795538281900d125c"
             },
-            "\/mAdhva\/sarvamUla\/gItAtAtparya.txt": {
-                "hash": "fc911ecf463beab5aa44f1092dfffeea"
+            "\/purANa\/upapurANam\/parAshara-purana.txt": {
+                "hash": "47e4ba2ddef4767c89589cd163698677"
             },
-            "\/mAdhva\/sarvamUla\/sUtra.txt": {
-                "hash": "34094395493fcf0fa06a106e3d3e2aca"
+            "\/purANa\/upapurANam\/nAndi-purana.txt": {
+                "hash": "8a73dc3129e3ca28ab78fe68a281fbe1"
             },
-            "\/mAdhva\/sarvamUla\/Atharvana-bhAShya.txt": {
-                "hash": "2ad13dc55566ce4370e62841af360a8a"
-            },
-            "\/mAdhva\/sarvamUla\/taittirIya-bhAShya.txt": {
-                "hash": "e035d488c0f4d3eea4c2d0e6c7ad3447"
-            },
-            "\/mAdhva\/sarvamUla\/sadAchArasmRtiH.txt": {
-                "hash": "cc7e86a814a2dde49bbedd39426b7d59"
-            },
-            "\/mAdhva\/sarvamUla\/ChAndOgya-bhAShya.txt": {
-                "hash": "63f3d9d1a5dd1ed0474a0682b9401300"
-            },
-            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/2.txt": {
-                "hash": "1e267b49632f3d81c8bdc6eeb03834c8"
-            },
-            "\/mAdhva\/sarvamUla\/pramANalaxaNaM.txt": {
-                "hash": "7f5fdfc8742eba7cb4e9698eb42a2993"
-            },
-            "\/mAdhva\/sarvamUla\/bRhadAraNyaka-bhAShya.txt": {
-                "hash": "85d8c6973e2ddc1743448c74361b5313"
-            },
-            "\/mAdhva\/sarvamUla\/tantrasArasaMgraha\/tantrasArasaMgraha-4.txt": {
-                "hash": "2a8538e57af4ba8bda780a88b36399a9"
-            },
-            "\/mAdhva\/sarvamUla\/anuvyAkhyAna.txt": {
-                "hash": "57a09ae4d549b6d5dcbcba9c9769b8f7"
-            },
-            "\/mAdhva\/sarvamUla\/yamaka.txt": {
-                "hash": "5f8dba9d2e8067b397895a68f7914c99"
-            },
-            "\/mAdhva\/sarvamUla\/saMkIrNa.txt": {
-                "hash": "8e7025b2e52c6583a88c60bfe166ff84"
-            },
-            "\/mAdhva\/sarvamUla\/kAThaka-bhAShya.txt": {
-                "hash": "263dd973d9264dd4d606ee55a84eda88"
-            },
-            "\/mAdhva\/sarvamUla\/tatvOdyOtaH.txt": {
-                "hash": "e9e312a67aeb76592867be443e1c37cc"
-            },
-            "\/mAdhva\/sarvamUla\/mAyAvAdakhaNDanam.txt": {
-                "hash": "80cbf542797bfb8fb072b3c2e44b0593"
-            },
-            "\/mAdhva\/sarvamUla\/aitarEya-bhAShya.txt": {
-                "hash": "a61b9b72d1b342c363d997f34a5ed244"
-            },
-            "\/mAdhva\/sarvamUla\/karmanirNayaH.txt": {
-                "hash": "94c1ef8d5e572fd1ca3d3ccbc7e736b7"
-            },
-            "\/mAdhva\/sarvamUla\/kRShNAmRtamahArNava.txt": {
-                "hash": "18ce1be01609418a052b9eeb530cfa08"
-            },
-            "\/mAdhva\/sarvamUla\/tithinirNayaH.txt": {
-                "hash": "73cae28da0c58a8902dcd9b90ee93441"
-            },
-            "\/mAdhva\/sarvamUla\/mahAbhAratatAtparyanirNaya.txt": {
-                "hash": "5ac630a1f8d09b07efd9b90e7c76f3ec"
-            },
-            "\/mAdhva\/sarvamUla\/talavakAra-bhAShya.txt": {
-                "hash": "4fb61de5246e719e37a60e115b1fa7e7"
-            },
-            "\/mAdhva\/sarvamUla\/prapaMcamithyAtvAnumAnakhaNDanam.txt": {
-                "hash": "6fc9f3bd8333cbf6aeb6a34b7a5e37e3"
-            },
-            "\/mAdhva\/sarvamUla\/gItA.txt": {
-                "hash": "a1e930244d7349f848d8b6421a1c5a2a"
-            },
-            "\/mAdhva\/sarvamUla\/tantrasArasaMgraha\/tantrasArasaMgraha-2.txt": {
-                "hash": "007a6227c3ab296c651e6de43f706e04"
-            },
-            "\/mAdhva\/sarvamUla\/tantrasArasaMgraha\/tantrasArasaMgraha-3.txt": {
-                "hash": "1edea073151417a11fd145ac88656433"
-            },
-            "\/mAdhva\/sarvamUla\/tatvavivEkaH.txt": {
-                "hash": "061e211f70b7764717199cd6f401b31b"
-            },
-            "\/mAdhva\/sarvamUla\/yatipraNava kalpa.txt": {
-                "hash": "04c92caf9bf925ae0cd1a8485c23d04d"
-            },
-            "\/mAdhva\/sarvamUla\/RgbhAShya.txt": {
-                "hash": "a054115957e46dc8475aaaf972eb636d"
-            },
-            "\/mAdhva\/sarvamUla\/kRShNAmRta mahArNava.txt": {
-                "hash": "ad96ec3c4726b7f0e14e04c3cf860d74"
-            },
-            "\/mAdhva\/sarvamUla\/gItAbhAShya.txt": {
-                "hash": "0e83fad08d2c30a5cf1aef2177c968fe"
-            },
-            "\/mAdhva\/sarvamUla\/bhAgavata-tAtparya.txt": {
-                "hash": "8d69ed250bb98a49638b26d6d3b50dac"
-            },
-            "\/mAdhva\/sarvamUla\/tatvasaMkhyAnam.txt": {
-                "hash": "2d4aab1bcf6ca1ae1f55aeebdb9b5ecf"
-            },
-            "\/mAdhva\/sarvamUla\/IshAvAsya-bhAShya.txt": {
-                "hash": "1386966d06cf4d8d14de3458e55c96f7"
-            },
-            "\/mAdhva\/sarvamUla\/upAdhikhaNDanam.txt": {
-                "hash": "745655a0ab6feb2bfd0e921e5a77e74f"
-            },
-            "\/mAdhva\/sarvamUla\/mANDUkya-bhAShya.txt": {
-                "hash": "593325eaf386026910a4785ab911b319"
-            },
-            "\/mAdhva\/sarvamUla\/kathAlaxaNam.txt": {
-                "hash": "829ef09b2e2f66c8d4b94014852cf95d"
-            },
-            "\/mAdhva\/sarvamUla\/ShaTprashna-bhAShya.txt": {
-                "hash": "2a11bf5dcf3f260006a6676fcdf509e6"
-            },
-            "\/mAdhva\/sarvamUla\/tantrasArasaMgraha\/tantrasArasaMgraha-1.txt": {
-                "hash": "eedea8d7b8509281ac59b4e23f919b93"
-            },
-            "\/mAdhva\/sarvamUla\/sanyAsapaddhatiH.txt": {
-                "hash": "705aab47a188a09c27199e31d6052563"
-            },
-            "\/mAdhva\/sarvamUla\/viShNutatvavinirNayaH\/3.txt": {
-                "hash": "4c25264e457eccf692b050143d385433"
-            },
-            "\/mAdhva\/sarvamUla\/sUtrabhAShya.txt": {
-                "hash": "5c3f57778ab666aaa58ced3f39991e99"
+            "\/purANa\/upapurANam\/sAMba-purana.txt": {
+                "hash": "953280a597cdbb9a75cc0da3346f1cb5"
             }
         },
-        "lastModified": "2020-08-01T08:42:53.365Z",
-        "hash": "a866b3dbe33118847b2d0caa26f291e4"
+        "lastModified": "2021-01-31T18:35:08.057Z",
+        "hash": "717def8f2fab00c15f9edbb58b843e4a"
     },
-    "sarvamUla_viShNutatva vinirNayaH.zip": {
+    "mAdhva_vAdAvalI.zip": {
         "contents": {
-            "\/mAdhva\/sarvamUla\/viShNutatva vinirNayaH\/1.txt": {
-                "hash": "11df0acc1d3c9afe98e1059402b682ff"
-            },
-            "\/mAdhva\/sarvamUla\/viShNutatva vinirNayaH\/3.txt": {
-                "hash": "4c25264e457eccf692b050143d385433"
-            },
-            "\/mAdhva\/sarvamUla\/viShNutatva vinirNayaH\/2.txt": {
-                "hash": "1e267b49632f3d81c8bdc6eeb03834c8"
+            "\/mAdhva\/vAdAvalI\/vAdAvalI-saTIkA.txt": {
+                "hash": "eb69246b753b372d83e00acde03bfa1d"
             }
         },
-        "lastModified": "2020-07-31T20:34:21.784Z",
-        "hash": "9f2d498c543023dda5b2a74ed6132af8"
+        "lastModified": "2021-01-31T18:35:07.816Z",
+        "hash": "62782291dc93a1631ecb9d68c417837e"
+    },
+    "mAdhva_sadAchArasmRti-saTIkA.zip": {
+        "contents": {
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchAradIikA-3.txt": {
+                "hash": "f34c5ac1cc31127d41de9626f72af62b"
+            },
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchAradIikA-2.txt": {
+                "hash": "1e6adf71a46ae5d9104cf7c225dca267"
+            },
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchArasmRti-saTIkA-Ayi-narahari.txt": {
+                "hash": "9ab81e1d26b9158d245f29a7c4512a4c"
+            },
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchAradIikA-4.txt": {
+                "hash": "796ce9515330c7ea9d6d96561f10d29f"
+            },
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchAradIikA-6.txt": {
+                "hash": "5bda699a6e38d136e7de83a6ead50ee6"
+            },
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchAradIikA-5.txt": {
+                "hash": "ce4d5b1a38f7381bf76548ed0fcd107c"
+            },
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchArasmRti-saTIkA-AhnIkakaustubha-1.txt": {
+                "hash": "c87894ee6adb01c45c6b1d0a16fa1e85"
+            },
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchArasmRti-saTIkA-kRShNAchArya.txt": {
+                "hash": "5982c7a97f9bfe5666194616fbac300e"
+            },
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchAradIikA-1.txt": {
+                "hash": "64f77300220836b682d4fe6d9e938af7"
+            },
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchArasmRti-saTIkA-AhnIkakaustubha-2.txt": {
+                "hash": "08e3f178aa9c68ef6ef3ab627ba2f66e"
+            },
+            "\/mAdhva\/sadAchArasmRti-saTIkA\/sadAchArasmRti-saTIkA-AhnIkakaustubha-3.txt": {
+                "hash": "840647b3a92fb1b7d562eabf0332652e"
+            }
+        },
+        "lastModified": "2021-01-31T18:35:01.506Z",
+        "hash": "0fc9ff71810b41a1c8dc5f1c09c67fe5"
     },
     "rAmAyaNa.zip": {
         "contents": {
@@ -1798,135 +2680,6 @@
         },
         "lastModified": "2017-06-04T09:18:19Z",
         "hash": "3bd58a467152776d7ad34760a2bfa017"
-    },
-    "vEda.zip": {
-        "contents": {
-            "\/vEda\/nAdabiMdu upaniShat.txt": {
-                "hash": "f46a3db94d1ad47ab4a34d6556dcd75c"
-            },
-            "\/vEda\/puruShasUktakhaMDaartha.txt": {
-                "hash": "b27d9645b208bcf9a713f1628a11d5c8"
-            },
-            "\/vEda\/IshAvAsya upaniShat.txt": {
-                "hash": "7bcb46221578a2343e6ebd7df9f2e076"
-            },
-            "\/vEda\/aitarEya upaniShat.txt": {
-                "hash": "a65db0e2386bd6418455483229651cca"
-            },
-            "\/vEda\/mAMDUkya upaniShat.txt": {
-                "hash": "f6bb5f262010fd44678ac0afabd1b771"
-            },
-            "\/vEda\/garbha upaniShat.txt": {
-                "hash": "49068e90947865f6555ab0dc4d0e0037"
-            },
-            "\/vEda\/sAmavEda.txt": {
-                "hash": "cdaf73efc95f2866edd605f8a0fe39dc"
-            },
-            "\/vEda\/atharvavEda saMhitA.txt": {
-                "hash": "76e8d0308cac83d44aa3a2c3edc11828"
-            },
-            "\/vEda\/brahmabiMdu upaniShat.txt": {
-                "hash": "9ea8f592f9042a13e28737f6200ad080"
-            },
-            "\/vEda\/gOpatha brAhmaNa.txt": {
-                "hash": "1fd6b8badc27287be52d2b2e8c65f2d1"
-            },
-            "\/vEda\/mahAnArAyaNa upaniShat.txt": {
-                "hash": "2b8ce3e83a7eb71dc747465ae79c17f6"
-            },
-            "\/vEda\/RgvEda.txt": {
-                "hash": "763cdf8c3cefa3c2e00b621799111347"
-            },
-            "\/vEda\/RgvEda khilAni.txt": {
-                "hash": "119095a4f02717f5895394df4fc650a1"
-            },
-            "\/vEda\/bRhadAraNyaka upaniShad.txt": {
-                "hash": "451860b24d0d38189aa8f6eef2609ded"
-            },
-            "\/vEda\/maitrAyaNI-saMhitA.txt": {
-                "hash": "9f16025fee3449b8960beac622f127b5"
-            },
-            "\/vEda\/ChAMdOgya upaniShat.txt": {
-                "hash": "66b4e632f9cb0519cf9984f578813402"
-            },
-            "\/vEda\/mAMDUkya kArikA.txt": {
-                "hash": "97c23724587237fe99d9976042f0542b"
-            },
-            "\/vEda\/shatapatha brAhmaNa.txt": {
-                "hash": "1b876f63ba5110c9a6b65cec8d8d6e17"
-            },
-            "\/vEda\/RgvidhAna.txt": {
-                "hash": "006f31fbd6d7fac07a64c046bc71f7ff"
-            },
-            "\/vEda\/atharva shira upaniShat.txt": {
-                "hash": "68808005156898fcef4860900a10c56e"
-            },
-            "\/vEda\/shvEtAshvatara upaniShat.txt": {
-                "hash": "1022cac9e5f808080f8f74e7e76d15ad"
-            }
-        },
-        "lastModified": "2017-09-28T06:25:35.190Z",
-        "hash": "53b3016319ba3150ed63c736ef01a448"
-    },
-    "mAdhva_gItAvivRti.zip": {
-        "contents": {
-            "\/mAdhva\/gItAvivRti\/16-daivAsura saMpadvibhAga yOga.txt": {
-                "hash": "1ee794ca90af2fd9a77dc8cba184a112"
-            },
-            "\/mAdhva\/gItAvivRti\/11-vishvarUpa yOga.txt": {
-                "hash": "02320ee13f76dc7274967403ef769b69"
-            },
-            "\/mAdhva\/gItAvivRti\/02-sAMkhya yOga.txt": {
-                "hash": "2642d390415300e096180eee98fe67d0"
-            },
-            "\/mAdhva\/gItAvivRti\/18-mOxa sanyAsa yOga.txt": {
-                "hash": "1fd7f4270c167a65d8ffcd4889fb59a7"
-            },
-            "\/mAdhva\/gItAvivRti\/12-bhakti yOga.txt": {
-                "hash": "20b23ea800934f2c5486c9dfa15277a3"
-            },
-            "\/mAdhva\/gItAvivRti\/13-xEtra xEtrajna yOga.txt": {
-                "hash": "03bce990b605b4a03b846313f89d2c5d"
-            },
-            "\/mAdhva\/gItAvivRti\/09-rAjavidyA rAjaguhya yOga.txt": {
-                "hash": "97ccffc269e6da01a048fc7545578134"
-            },
-            "\/mAdhva\/gItAvivRti\/03-karma yOga.txt": {
-                "hash": "143d1de63a05cd171595ef2705c2f1fb"
-            },
-            "\/mAdhva\/gItAvivRti\/17-shraddhAtraya vibhAga yOga.txt": {
-                "hash": "041e379d54d65aee53b88fe916497b42"
-            },
-            "\/mAdhva\/gItAvivRti\/01-arjuna viShAda yOga.txt": {
-                "hash": "d2e79acb762e1fc0a4493665053a371e"
-            },
-            "\/mAdhva\/gItAvivRti\/08-axara parabrahma yOga.txt": {
-                "hash": "0877e27c311def465a41cf556e952aad"
-            },
-            "\/mAdhva\/gItAvivRti\/14-guNatraya vibhAga yOga.txt": {
-                "hash": "636491da0c372f331f5b9fc0c6d43854"
-            },
-            "\/mAdhva\/gItAvivRti\/07-jnAna vijnAna yOga.txt": {
-                "hash": "38d745ac4e1812f5beeb7db09bd1c9ac"
-            },
-            "\/mAdhva\/gItAvivRti\/04-jnAna yOga.txt": {
-                "hash": "f6ce145dd91f0186d3a80c8b9eac28c8"
-            },
-            "\/mAdhva\/gItAvivRti\/15-puruShOttama yOga.txt": {
-                "hash": "17b541353d0d3b5ed45f0e43307813c3"
-            },
-            "\/mAdhva\/gItAvivRti\/06-Atma saMyama yOga.txt": {
-                "hash": "bc9f00bd9171375fce645cd2a96d4207"
-            },
-            "\/mAdhva\/gItAvivRti\/10-vibhUti yOga.txt": {
-                "hash": "1411ac8c926ca53751003d2e0fc3e2d6"
-            },
-            "\/mAdhva\/gItAvivRti\/05-karma sanyAsa yOga.txt": {
-                "hash": "341cd06468cef4290d0cb47eb75b35b2"
-            }
-        },
-        "lastModified": "2020-08-01T08:42:51.753Z",
-        "hash": "ba125ec95e747dfc7451cbeebe4ec741"
     },
     "mAdhva_sUtrabhAShyadIpikA.zip": {
         "contents": {
@@ -1943,56 +2696,6 @@
         "lastModified": "2020-08-01T08:43:22.580Z",
         "hash": "2c06e4d4d993d61aeffd2c68b03a40e6"
     },
-    "purANa_harivaMsha.zip": {
-        "contents": {
-            "\/purANa\/harivaMsha\/harivaMsha-01.txt": {
-                "hash": "0e61ee86f9d920e2901806525f2e9f6d"
-            },
-            "\/purANa\/harivaMsha\/harivaMsha-02.txt": {
-                "hash": "bbb62930c4a124c9d5e3daf8407d32d4"
-            }
-        },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "0e82136ff610421ba3a82b6eebde8e17"
-    },
-    "purANa_vAmana-purANa.zip": {
-        "contents": {
-            "\/purANa\/vAmana-purANa\/vAmana purANa.txt": {
-                "hash": "3782fba94f53773e70643876093cc57c"
-            },
-            "\/purANa\/vAmana-purANa\/vAmana purANa sarO mahAtmya.txt": {
-                "hash": "31939a53426cbe3478b12b3b48fd3e32"
-            }
-        },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "a5f147a4c48d474b6dba2431fb15b244"
-    },
-    "madhvavijaya.zip": {
-        "contents": {
-            "\/madhvavijaya\/aNumadhvavijaya.txt": {
-                "hash": "ffbf9c607a109753cc3d832a15a747a2"
-            },
-            "\/madhvavijaya\/prameyaphalamAlikA.txt": {
-                "hash": "8c343eeba86d5431a41851fcf2d8f32a"
-            },
-            "\/madhvavijaya\/madhvavijaya.txt": {
-                "hash": "3f844c65b28acb0ae630cd221ec919fc"
-            }
-        },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "3c25e24696896b4a4a941c56b2b50e19"
-    },
-    "zipsUpdated": [
-        "mAdhva_gItAbhAShya.zip",
-        "mahAbhArata_mAdhvapATha.zip",
-        "mAdhva.zip",
-        "mAdhva_tatvaprakAshikA.zip",
-        "mAdhva_gItAvivRti.zip",
-        "mAdhva_sarvamUla.zip",
-        "mAdhva_sudhA_samagra.zip",
-        "mAdhva_tantradIpikA.zip",
-        "mAdhva_sUtrabhAShyadIpikA.zip"
-    ],
     "kOsha_vAchaspatyaM.zip": {
         "contents": {
             "\/kOsha\/vAchaspatyaM\/vAchaspatya-127.txt": {
@@ -2599,159 +3302,6 @@
         "lastModified": "2017-08-12T10:44:23.568Z",
         "hash": "bd06cbd88267a694c44f2d60428039c0"
     },
-    "dAsasAhitya.zip": {
-        "contents": {
-            "\/dAsasAhitya\/jagannAthadAsaru\/laxmIhRdaya-stOtra.txt": {
-                "hash": "a9c1c2cc969f7439df4012afd2e7565f"
-            },
-            "\/dAsasAhitya\/puraMdaradAsara-gadya.txt": {
-                "hash": "8f27be1859fe973241270f5bbd6c2334"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/paMcharatna-suLAdigaLu.txt": {
-                "hash": "be5d6fc0d0f3b6db96bf3d6b8995fdd3"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/habba-suLAdi.txt": {
-                "hash": "476bc332ad1444662fbb0ef8867e3c89"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/sAdhana-suLAdi.txt": {
-                "hash": "658028a67452bd98f65aa0465b41a86d"
-            },
-            "\/dAsasAhitya\/vAdirAjaru\/avatAratraya_madhva-suvvAli.txt": {
-                "hash": "2d8237cd8182482362d1151955fc530b"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/shrInivAsa-suLAdi.txt": {
-                "hash": "65ac44966d4a9eb4827865f6b1a24685"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/maDi-suLAdi.txt": {
-                "hash": "4a15eacb9de9de1d6c098e50f752c1ae"
-            },
-            "\/dAsasAhitya\/kanakadAsaru\/haribhaktisAra.txt": {
-                "hash": "cf68725f0d8c5ff2c9b870c622592c79"
-            },
-            "\/dAsasAhitya\/kanakadAsaru\/kEshavanAma.txt": {
-                "hash": "755f97a0c161720d45c46f45a7cc1a83"
-            },
-            "\/dAsasAhitya\/jagannAthadAsaru\/narasiMha-suLAdi.txt": {
-                "hash": "40617a8f2b027a17093323734ba0c74c"
-            },
-            "\/dAsasAhitya\/vAdirAjaru\/laxmI-shObhana-hADu.txt": {
-                "hash": "8b36df3567a2ee6caeae034c4e129326"
-            },
-            "\/dAsasAhitya\/vAdirAjaru\/svapnapada.txt": {
-                "hash": "10f6fa663731327ec333fbb780e92bc5"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/annadAna-mahimA-suLAdi.txt": {
-                "hash": "2cd41a34a5390dac765adbd2001cf347"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/sAMkhya-shAstra-suLAdi.txt": {
-                "hash": "9f988fea5677025e48d0efd6efd1a794"
-            },
-            "\/dAsasAhitya\/vAdirAjaru\/guMDa_kriye.txt": {
-                "hash": "b824cfe72e226a9128bc30b0d78a880c"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/naivEdya-suLAdi.txt": {
-                "hash": "0ec41499aa4b28cf0439b53f4ff66a3a"
-            },
-            "\/dAsasAhitya\/gOpAladAsaru\/karuNa-kavacha.txt": {
-                "hash": "3e8b655345dafeeef4020dbad68cdb7b"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/haridAsa-laxaNa-suLAdi.txt": {
-                "hash": "24d3a9254006034622d088e4cabd1004"
-            },
-            "\/dAsasAhitya\/jagannAthadAsaru\/vEMkatEsha-stavarAja.txt": {
-                "hash": "46ecd5e421e5125f5941bcb2b16ca8de"
-            },
-            "\/dAsasAhitya\/vAdirAjaru\/axayapAtre-hADu.txt": {
-                "hash": "ac58943fa943ef238a847c085c26eeef"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/virADrUpa-suLAdi.txt": {
-                "hash": "efaf69a9ed45b38769588221d2bb8390"
-            },
-            "\/dAsasAhitya\/vAdirAjaru\/tatvasAra-vaikuMTha-varNane.txt": {
-                "hash": "42557efba7c363cf9d25cb195fc59faf"
-            },
-            "\/dAsasAhitya\/vijayakavacha.txt": {
-                "hash": "ed91ab2f6550e8117d09d38cf246a505"
-            },
-            "\/dAsasAhitya\/vijayadAsaru\/vedavyasa-suLAdi.txt": {
-                "hash": "4629fa4a655fb29833593ad4dcfab85d"
-            },
-            "\/dAsasAhitya\/vAdirAjaru\/bhramara_gIte.txt": {
-                "hash": "8b7be9775bd500f77eebb1f155d2aff2"
-            }
-        },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "18da2b6e87dea81f03df4d4dfc6de647"
-    },
-    "mAdhva_sudhA_samagra.zip": {
-        "contents": {
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-3.txt": {
-                "hash": "f82a54e521d104d90f3a7fb1e67890d8"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-2-bhAga-2.txt": {
-                "hash": "77280b7b4989d894bbae67a69fb5a0a9"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-1-bhAga-2.txt": {
-                "hash": "bcd056ff2581b94e38d210a8086d8b13"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-1_3-2-bhAga-1.txt": {
-                "hash": "8e6e6fac981754b55b4fd1e7be612b1b"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-4-2.txt": {
-                "hash": "e5c4f42a497004d6174556f897ddec56"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-4-3_4-4.txt": {
-                "hash": "ff127a00a15edfae98e42674422ad1e5"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-3.txt": {
-                "hash": "daa2aa8bb129c078c885c2ca08ac7934"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-2.txt": {
-                "hash": "fb4921e9a606b045445c0f98bd5cee07"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-4.txt": {
-                "hash": "1d20de1a1c678e63b71512ec9c2aada1"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-1-bhAga-3.txt": {
-                "hash": "bc0dc02c3fff672a50dda02837d79f9c"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1.txt": {
-                "hash": "705bb4da185e75616f0c16d98e0ba17b"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-3_2-4.txt": {
-                "hash": "13362df845d17279329bb1cbab4a2217"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-1_3-2-bhAga-2.txt": {
-                "hash": "50d9c4b3b61d16d10e888c77c64d1e8e"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-1-bhAga-1.txt": {
-                "hash": "a36943e734ea9de82fbf43410b64588f"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-4-1.txt": {
-                "hash": "1ff6e4a66a02621da552fd05f0faa9bf"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-2-bhAga-1.txt": {
-                "hash": "33ddf99498292b94811f87805f4fcecb"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-2-bhAga-3.txt": {
-                "hash": "af46a06efaf56c0829ac87ba063b9095"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-3.txt": {
-                "hash": "30221aae94338d8f746118fa94b6ede5"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-1.txt": {
-                "hash": "3f4cf1c8506c8d50c0e2800ee8db3d9a"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-4.txt": {
-                "hash": "cb68a0d8a13b557b3d6dbb2125cb59bf"
-            },
-            "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-2.txt": {
-                "hash": "acbe7c1b213db2cffb449915b81e64c1"
-            }
-        },
-        "lastModified": "2020-08-01T08:43:01.741Z",
-        "hash": "703f3762ce23fc081e4e41a5003cbf72"
-    },
     "purANa_viShNudharma.zip": {
         "contents": {
             "\/purANa\/viShNudharma\/viShNu dharma.txt": {
@@ -2772,8 +3322,14 @@
             "\/sAhitya\/jayadEva\/gIta-gOvindam.txt": {
                 "hash": "cc299c5f22aa039c350d515136b156c7"
             },
+            "\/sAhitya\/kALidAsa\/raghuvaMshaMsaTIkA.txt": {
+                "hash": "7dd67b1caffd66f689c98f54b2a3934f"
+            },
             "\/sAhitya\/kALidAsa\/RtusaMhAra.txt": {
                 "hash": "6aa2a73067f4ab659d15b20432a1dc7a"
+            },
+            "\/sAhitya\/kALidAsa\/mEghadUtasaTIkA.txt": {
+                "hash": "5c07f6db3ea151f4439b78c11531907f"
             },
             "\/sAhitya\/mAgha\/shishupAlavadha.txt": {
                 "hash": "3bd84c3be319ab6e7a75d963666cc287"
@@ -2797,8 +3353,8 @@
                 "hash": "0e6432b2cd9c51e44d62682c82aba413"
             }
         },
-        "lastModified": "2020-07-31T20:34:32.395Z",
-        "hash": "0631e507e91a79aa5617c66c542097c1"
+        "lastModified": "2021-01-31T18:35:25.362Z",
+        "hash": "e301365a0f34a3f26ea48e86717dcc82"
     },
     "sarvamUla_tatvaprakAshikA.zip": {
         "contents": {
@@ -2995,24 +3551,6 @@
         "lastModified": "2020-07-31T20:34:32.064Z",
         "hash": "77214afad2dc72551e3a9b13e4c4759b"
     },
-    "sarvamUla_tantrasAra saMgraha.zip": {
-        "contents": {
-            "\/mAdhva\/sarvamUla\/tantrasAra saMgraha\/tantrasAra saMgraha-4.txt": {
-                "hash": "2a8538e57af4ba8bda780a88b36399a9"
-            },
-            "\/mAdhva\/sarvamUla\/tantrasAra saMgraha\/tantrasAra saMgraha-2.txt": {
-                "hash": "007a6227c3ab296c651e6de43f706e04"
-            },
-            "\/mAdhva\/sarvamUla\/tantrasAra saMgraha\/tantrasAra saMgraha-3.txt": {
-                "hash": "1edea073151417a11fd145ac88656433"
-            },
-            "\/mAdhva\/sarvamUla\/tantrasAra saMgraha\/tantrasAra saMgraha-1.txt": {
-                "hash": "eedea8d7b8509281ac59b4e23f919b93"
-            }
-        },
-        "lastModified": "2020-07-31T20:34:32.098Z",
-        "hash": "1810bbc403bc971f3a95dee44303fae4"
-    },
     "kOsha.zip": {
         "contents": {
             "\/kOsha\/EkArthanAmamAlA.txt": {
@@ -3037,188 +3575,14 @@
         "lastModified": "2017-06-04T09:18:19Z",
         "hash": "0de1ce8956490556fac8d6af7b4db29e"
     },
-    "purANa_padmapurANa.zip": {
+    "purANa_gArga-saMhitA.zip": {
         "contents": {
-            "\/purANa\/padmapurANa\/pAtALa-khaNDa.txt": {
-                "hash": "d52e36247e1774762c626e88dbea8e66"
-            },
-            "\/purANa\/padmapurANa\/kriyA-khaNDa.txt": {
-                "hash": "9efc79f0d17ab220f45017bffea40059"
-            },
-            "\/purANa\/padmapurANa\/uttara-khaNDa.txt": {
-                "hash": "12a373d6507d32879f453295e6979348"
-            },
-            "\/purANa\/padmapurANa\/svarga-khaNDa.txt": {
-                "hash": "87f3566c1e28fe43dbc206291741220c"
-            },
-            "\/purANa\/padmapurANa\/bhUmi-khaNDa.txt": {
-                "hash": "dfe7ded79a580ad13f5f34cd1200f12a"
-            },
-            "\/purANa\/padmapurANa\/brahma-khaNDa.txt": {
-                "hash": "b5a3bb2931d87d36ef63fa34e00f1c73"
-            },
-            "\/purANa\/padmapurANa\/sRShTi-khaNDa.txt": {
-                "hash": "0f43805098d86eb644bbaec7644ff4f7"
+            "\/purANa\/gArga-saMhitA\/gargasaMhitA.txt": {
+                "hash": "17d8e057da71308633dd059f791c4b8a"
             }
         },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "7f59dede654d37c625f796f602da0b26"
-    },
-    "mahAbhArata_mAdhvapATha.zip": {
-        "contents": {
-            "\/mahAbhArata_mAdhvapATha\/04-virATa-parva.txt": {
-                "hash": "8fae8e57345e2e9f4f75bb5853102b4a"
-            },
-            "\/mahAbhArata_mAdhvapATha\/13-anushAsana-parva.txt": {
-                "hash": "6439c6299eadca4498bfa10c107bd675"
-            },
-            "\/mahAbhArata_mAdhvapATha\/14-AshvamEdhika-parva.txt": {
-                "hash": "2cf0e9bd4e42b1a9c19c5343734e9729"
-            },
-            "\/mahAbhArata_mAdhvapATha\/09-shalya-parva.txt": {
-                "hash": "e4345f59151551151dd588ae55fbb4fe"
-            },
-            "\/mahAbhArata_mAdhvapATha\/16-mausala-parva.txt": {
-                "hash": "8b4e25214d66ed60148572eac59239f5"
-            },
-            "\/mahAbhArata_mAdhvapATha\/08-karNa-parva.txt": {
-                "hash": "38a5c051fb9b90218c76be641aaca09a"
-            },
-            "\/mahAbhArata_mAdhvapATha\/03-vana-parva.txt": {
-                "hash": "b9ee02c9ceabd9d7083040cdba10df3b"
-            },
-            "\/mahAbhArata_mAdhvapATha\/15-AshramavAsika-parva.txt": {
-                "hash": "6613f8dd4f4c4fcef40b3bc7d663e3bc"
-            },
-            "\/mahAbhArata_mAdhvapATha\/05-udyoga-parva.txt": {
-                "hash": "e2088c259ddbc1a859f800521e25f8c2"
-            },
-            "\/mahAbhArata_mAdhvapATha\/02-sabhA-parva.txt": {
-                "hash": "78ce4fe98d265435eaa4d62de60290b5"
-            },
-            "\/mahAbhArata_mAdhvapATha\/12-shaanti-parva.txt": {
-                "hash": "403f6a9278b31d19ede568259080b5cd"
-            },
-            "\/mahAbhArata_mAdhvapATha\/10-sauptika-parva.txt": {
-                "hash": "f51102c4891d90f2a6833ae3bfb50abf"
-            },
-            "\/mahAbhArata_mAdhvapATha\/11-strI-parva.txt": {
-                "hash": "284fac93517af34701b0ffa1ca9222ae"
-            },
-            "\/mahAbhArata_mAdhvapATha\/01-Adi-parva.txt": {
-                "hash": "a390135ed56a400ff2f1bb2da1292083"
-            },
-            "\/mahAbhArata_mAdhvapATha\/07-droNa-parva.txt": {
-                "hash": "494f939947e50efc93efbcc09c7e434b"
-            },
-            "\/mahAbhArata_mAdhvapATha\/17-mahAprasthAnika-parva.txt": {
-                "hash": "5c7efcdd5653a5aaeb57c21e9ff4d058"
-            },
-            "\/mahAbhArata_mAdhvapATha\/18-svargArOhaNa-parva.txt": {
-                "hash": "30b140639fa2dae24f745484ab696ce3"
-            },
-            "\/mahAbhArata_mAdhvapATha\/06-bhIshma-parva.txt": {
-                "hash": "c9f793193932f30bd90435901c7a1b96"
-            }
-        },
-        "lastModified": "2020-08-01T08:42:45.666Z",
-        "hash": "1b5e560a330704fdee5a78876a476df9"
-    },
-    "mImAMsA.zip": {
-        "contents": {
-            "\/mImAMsA\/jaimini\/mImAMsAsUtra.txt": {
-                "hash": "bfed9bd6b13378cc4a5c6ad6ffb12e2e"
-            }
-        },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "f95f820c3ce22cb13bf3598e34207c58"
-    },
-    "sarvamUla_sudhA samagra.zip": {
-        "contents": {
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-1-bhAga-3.txt": {
-                "hash": "bc0dc02c3fff672a50dda02837d79f9c"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-2-bhAga-3.txt": {
-                "hash": "af46a06efaf56c0829ac87ba063b9095"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-4.txt": {
-                "hash": "cb68a0d8a13b557b3d6dbb2125cb59bf"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-3-1_3-2-bhAga-2.txt": {
-                "hash": "50d9c4b3b61d16d10e888c77c64d1e8e"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-2.txt": {
-                "hash": "fb4921e9a606b045445c0f98bd5cee07"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-2.txt": {
-                "hash": "acbe7c1b213db2cffb449915b81e64c1"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-3-4.txt": {
-                "hash": "1d20de1a1c678e63b71512ec9c2aada1"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-3-1_3-2-bhAga-1.txt": {
-                "hash": "8e6e6fac981754b55b4fd1e7be612b1b"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-1-bhAga-2.txt": {
-                "hash": "bcd056ff2581b94e38d210a8086d8b13"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-4-1.txt": {
-                "hash": "1ff6e4a66a02621da552fd05f0faa9bf"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-3.txt": {
-                "hash": "f82a54e521d104d90f3a7fb1e67890d8"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-1.txt": {
-                "hash": "705bb4da185e75616f0c16d98e0ba17b"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-2-bhAga-1.txt": {
-                "hash": "33ddf99498292b94811f87805f4fcecb"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-3_2-4.txt": {
-                "hash": "13362df845d17279329bb1cbab4a2217"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-1.txt": {
-                "hash": "3f4cf1c8506c8d50c0e2800ee8db3d9a"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-2-bhAga-2.txt": {
-                "hash": "77280b7b4989d894bbae67a69fb5a0a9"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-2-1-bhAga-1.txt": {
-                "hash": "a36943e734ea9de82fbf43410b64588f"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-3.txt": {
-                "hash": "daa2aa8bb129c078c885c2ca08ac7934"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-3-3.txt": {
-                "hash": "30221aae94338d8f746118fa94b6ede5"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-4-2.txt": {
-                "hash": "e5c4f42a497004d6174556f897ddec56"
-            },
-            "\/mAdhva\/sarvamUla\/sudhA samagra\/nyAyasudhAsamagra-4-3_4-4.txt": {
-                "hash": "ff127a00a15edfae98e42674422ad1e5"
-            }
-        },
-        "lastModified": "2020-07-31T20:34:16.273Z",
-        "hash": "f7212e294457e6804c7d58cb8456be1b"
-    },
-    "purANa_bhaviShyapurANa.zip": {
-        "contents": {
-            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-04.txt": {
-                "hash": "edd46b2cfcb841a82f70c5f62d9a8856"
-            },
-            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-01.txt": {
-                "hash": "59020a9a84f6de5b256749de150ae1b8"
-            },
-            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-02.txt": {
-                "hash": "6bdbf0f723e73ea664cbc6a18f5b1af8"
-            },
-            "\/purANa\/bhaviShyapurANa\/bhaviShyapurANa-parva-03.txt": {
-                "hash": "482443bf6ebe13f36b73ed695839a2cb"
-            }
-        },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "ca943378dba05fd5467cc78687c373bd"
+        "lastModified": "2021-01-31T18:34:59.802Z",
+        "hash": "256f3d87b882e0982f298ead50fb2e65"
     },
     "mAdhva_tantradIpikA.zip": {
         "contents": {
@@ -3238,7 +3602,7 @@
                 "hash": "78075c45ecb03bd779b76acd811d6ef5"
             },
             "\/mAdhva\/tantradIpikA\/1-2.txt": {
-                "hash": "c969e267aa19b524a10a4fa6e4a5fc61"
+                "hash": "226b032262c71f2e7939c6c519c2278b"
             },
             "\/mAdhva\/tantradIpikA\/3-3.txt": {
                 "hash": "da57f7b607aff9c8ca201b387802ef7a"
@@ -3262,7 +3626,7 @@
                 "hash": "cb90ede4526623330af04bad80c0857a"
             },
             "\/mAdhva\/tantradIpikA\/1-1.txt": {
-                "hash": "3859382c8582a0dba7476e70130b6e09"
+                "hash": "7a37040f3d2302e16e6468248e1a885c"
             },
             "\/mAdhva\/tantradIpikA\/1-3.txt": {
                 "hash": "0dc84ef632504acbe6663feb8d0b9a31"
@@ -3271,50 +3635,8 @@
                 "hash": "96f9fe1fe29cea358ba38f528d3bad26"
             }
         },
-        "lastModified": "2020-08-01T08:43:21.825Z",
+        "lastModified": "2021-01-31T18:35:24.828Z",
         "hash": "f07b9944764bab991c1d54b1a240534a"
-    },
-    "mAdhva.zip": {
-        "contents": {
-            "\/mAdhva\/dvaitadyumaNiH.txt": {
-                "hash": "046765d03d3eee4ffe4456025ac19d05"
-            },
-            "\/mAdhva\/vadAvali.txt": {
-                "hash": "1db1899d2a7531dd1113671491c4f29c"
-            },
-            "\/mAdhva\/yuktimallikA.txt": {
-                "hash": "3ed8966eb5443dac26e3a716ff045946"
-            },
-            "\/mAdhva\/IshAvAsya khaNDArthaH.txt": {
-                "hash": "ca39159a459d76486fb8aa67d30bacd1"
-            },
-            "\/mAdhva\/sattatvaratnamAlA.txt": {
-                "hash": "607206afa14e08ecc8b1c9cd1e03bcaa"
-            },
-            "\/mAdhva\/nyAyAmRutam.txt": {
-                "hash": "8d1c77debb4bfa9cc5020e23b94431e0"
-            },
-            "\/mAdhva\/tatvavivEkaTIkA.txt": {
-                "hash": "f041e36e2f865c3c06e73de4ce603e26"
-            },
-            "\/mAdhva\/tatvasaMkhyAnaTIkA.txt": {
-                "hash": "7310e58776852227db6e3b1e20cc91e3"
-            },
-            "\/mAdhva\/saMgraharAmAyaNa.txt": {
-                "hash": "4b78db1fb680394dea76a2c2800a875c"
-            },
-            "\/mAdhva\/IshAvAsyaTIkA.txt": {
-                "hash": "2e6bf11aaaa306704e2b72520c6d4d8c"
-            },
-            "\/mAdhva\/pramANapaddhatiH.txt": {
-                "hash": "2e94e830c2103d3223e9d9b155fff157"
-            },
-            "\/mAdhva\/yOgadIpikA.txt": {
-                "hash": "c32a8e850b9f4ed8f5c2fb1bde606748"
-            }
-        },
-        "lastModified": "2020-08-01T08:42:46.766Z",
-        "hash": "657e561e8cfbebd3215f3afdb908d975"
     },
     "sarvamUla_tantradIpikA.zip": {
         "contents": {
@@ -3370,161 +3692,23 @@
         "lastModified": "2020-07-31T20:34:10.881Z",
         "hash": "c090eaf540fed841fea2c89b6f03e5ca"
     },
-    "kOsha_shabdakalpadruma_1.zip": {
+    "mAdhva_sUtraprasthAna.zip": {
         "contents": {
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-042.txt": {
-                "hash": "d0ef9cf304e4795f8a05b69df7df7b60"
+            "\/mAdhva\/sUtraprasthAna\/sUtrabhAShya-saTIkA\/bramhasUtrabhAShyaM-saTIkA-1-1.txt": {
+                "hash": "62a964b5f6139023f18ce3e81813e0a6"
             },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-080.txt": {
-                "hash": "fd41eec284c678b80c6165d262b6aace"
+            "\/mAdhva\/sUtraprasthAna\/sUtrabhAShya-saTIkA\/bramhasUtrabhAShyaM-saTIkA-1-2.txt": {
+                "hash": "d59a2162997dd50ac55a77a8e2a940ff"
             },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-055.txt": {
-                "hash": "85531a3e2786913560c7ce9e378620e0"
+            "\/mAdhva\/sUtraprasthAna\/bramhasUtrArthasaMgraha-aviditavyAkhyAnaM.txt": {
+                "hash": "47e43c289661d7d03f609eb5c59e6efd"
             },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-136.txt": {
-                "hash": "c89aad06de488c07033ba441a4c5526a"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-122.txt": {
-                "hash": "3b7a01da5f094607c96c310220f19419"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-069.txt": {
-                "hash": "f4de6604b55414882af5e1958643e85f"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-054.txt": {
-                "hash": "fd3df500d37e4373887079a029c5d80c"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-041.txt": {
-                "hash": "af641844d29846b0c4d0d522c211a4f1"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-121.txt": {
-                "hash": "5f323868ee52f3eb62402be82ea1cb2f"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-097.txt": {
-                "hash": "f79396c7dbc175af188144827ad814ca"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-057.txt": {
-                "hash": "3467f5b90bbea58d55eb64d439f03990"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-040.txt": {
-                "hash": "3d789aec0968bd4752b279534a930998"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-120.txt": {
-                "hash": "d1829dc8e20d66a1ec215a0c2b4f930d"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-108.txt": {
-                "hash": "c8a15f4c9f93cb0acb876da9631a6f70"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-096.txt": {
-                "hash": "8ddb9270a1e3c38baf697219c2c6f1ba"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-083.txt": {
-                "hash": "60e4f792ead0e889427896b08e8d4b8a"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-082.txt": {
-                "hash": "26c0a617e96b1837170217f32562ca66"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-134.txt": {
-                "hash": "f2883e5ff81e58dc490a932d79f651eb"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-081.txt": {
-                "hash": "0d5c0d392f9129e50ca113dd4175f984"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-095.txt": {
-                "hash": "4c78f0e77bcf01124499c6be675d63a3"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-056.txt": {
-                "hash": "03fa71ec6a401bed83bf4d06a5a605f6"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-043.txt": {
-                "hash": "d9f10bcfe8ede68b842123a88ecc37fd"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-094.txt": {
-                "hash": "db30cd44215643f1b8373a41d9d6ace7"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-135.txt": {
-                "hash": "4cbc86f5ff80e788b59d04fab6f5a471"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-109.txt": {
-                "hash": "b3c4f7054e18b52e6dac77f0e8652497"
-            },
-            "\/kOsha\/shabdakalpadruma\/shabdakalpadruma-068.txt": {
-                "hash": "fe8422112103ab58e53ce50b340e426b"
+            "\/mAdhva\/sUtraprasthAna\/nyAyamuktAvalI\/2.txt": {
+                "hash": "729562bd58ea44f8461334c9f9f9edd2"
             }
         },
-        "lastModified": "2018-08-05T14:00:09.027Z",
-        "hash": "06078a8b5c531117b504a521de559d26"
-    },
-    "purANa_skandapurANa.zip": {
-        "contents": {
-            "\/purANa\/skandapurANa\/kAshIkhaNDa.txt": {
-                "hash": "ebed830d3ed5a761d74f22972ae5c53d"
-            },
-            "\/purANa\/skandapurANa\/mAhEshvarakhaNDa.txt": {
-                "hash": "18d79c16ecdb6ba6928d756867a8ae47"
-            },
-            "\/purANa\/skandapurANa\/skaMda purANa rEvA khaMDa.txt": {
-                "hash": "d514bdfdc3e2592d8c3ead5681bc9035"
-            },
-            "\/purANa\/skandapurANa\/avantIkhaNDa.txt": {
-                "hash": "698682d33817172e9b5263a60cdc20de"
-            },
-            "\/purANa\/skandapurANa\/prabhAsakhaNDa.txt": {
-                "hash": "a763c53ad94766cc80447c5f30a2b44b"
-            },
-            "\/purANa\/skandapurANa\/vaiShNavakhaNDa.txt": {
-                "hash": "bcb7f099986a693dc2d3278fd2e6b78c"
-            },
-            "\/purANa\/skandapurANa\/brahmakhaNDa.txt": {
-                "hash": "2265d4675ffa6ebb2716cefeae6f69de"
-            },
-            "\/purANa\/skandapurANa\/nAgarakhaNDa.txt": {
-                "hash": "82e501ad463227a67fd091199c0f5729"
-            },
-            "\/purANa\/skandapurANa\/skaMda purANa.txt": {
-                "hash": "2305625d1f79750bbef3529e17ff7e31"
-            }
-        },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "83739dc3696a2eacd5bb32d6e757581b"
-    },
-    "vyAkaraNa.zip": {
-        "contents": {
-            "\/vyAkaraNa\/kAshikA-5.txt": {
-                "hash": "9411f7417b1cd0a20aa36aaf9a465748"
-            },
-            "\/vyAkaraNa\/kAshikA-6.txt": {
-                "hash": "06eedda1876b3a82525513def6b0b817"
-            },
-            "\/vyAkaraNa\/nAgOjibhaTTa\/paribhAshEMdushEkhara.txt": {
-                "hash": "e72c377744d828e6ec72825c9a524266"
-            },
-            "\/vyAkaraNa\/varadarAja\/laghusiddhAntakaumudI.txt": {
-                "hash": "8fc15b3079e9aede5c45c09541785ad2"
-            },
-            "\/vyAkaraNa\/kAshikA-8.txt": {
-                "hash": "68ca6ca05c8e4b51312b11772ba123cc"
-            },
-            "\/vyAkaraNa\/kAshikA-7.txt": {
-                "hash": "c7acb3eabb04bc2d9911e38e319d8efc"
-            },
-            "\/vyAkaraNa\/kAshikA-1.txt": {
-                "hash": "0b17db57073dea966d07e49aa27569b0"
-            },
-            "\/vyAkaraNa\/kAshikA-4.txt": {
-                "hash": "5165cc8b331fb73dcf940d01df7fc0c1"
-            },
-            "\/vyAkaraNa\/bhartRhari\/vAkyapAdIya.txt": {
-                "hash": "1c23963d184dd3c7a4d99b50212e75e6"
-            },
-            "\/vyAkaraNa\/kAshikA-3.txt": {
-                "hash": "cd11c65a6242260fad8329ac149f2702"
-            },
-            "\/vyAkaraNa\/kAshikA-2.txt": {
-                "hash": "b729573fd3e71cd5131f6849356def37"
-            }
-        },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "366a3922f13e801d67ddf80d63cc563a"
+        "lastModified": "2021-01-31T18:35:04.451Z",
+        "hash": "33a56c09a42d4245fde0d72b222a3f6e"
     },
     "purANa_vAyupurANa.zip": {
         "contents": {
