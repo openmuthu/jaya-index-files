@@ -1357,29 +1357,41 @@
     },
     "vEda.zip": {
         "contents": {
+            "\/vEda\/taittirIyasaMhitA.txt": {
+                "hash": "b2eb7825da8dcd4e6639abe13a4dfe43"
+            },
+            "\/vEda\/taittirIyAraNyakam.txt": {
+                "hash": "ca77b36f713e006e1f1110ca2148698a"
+            },
             "\/vEda\/nAdabiMdu upaniShat.txt": {
                 "hash": "f46a3db94d1ad47ab4a34d6556dcd75c"
             },
             "\/vEda\/puruShasUktakhaMDaartha.txt": {
                 "hash": "b27d9645b208bcf9a713f1628a11d5c8"
             },
+            "\/vEda\/nArAyaNOttaraTApanIya.txt": {
+                "hash": "04cc9cb03785f48532516b7b8dded9ad"
+            },
             "\/vEda\/IshAvAsya upaniShat.txt": {
                 "hash": "7bcb46221578a2343e6ebd7df9f2e076"
+            },
+            "\/vEda\/kaTha-upaniShat.txt": {
+                "hash": "89e019203303bda072698793126c997d"
+            },
+            "\/vEda\/prashna-upaniShat.txt": {
+                "hash": "47a684c85ea5aeaf51d5cb5c312e3dfb"
             },
             "\/vEda\/aitarEya upaniShat.txt": {
                 "hash": "a65db0e2386bd6418455483229651cca"
             },
+            "\/vEda\/taittirIyabrAhmaNam.txt": {
+                "hash": "612b8922b23b90559b6078cda7f460e4"
+            },
             "\/vEda\/mAMDUkya upaniShat.txt": {
                 "hash": "f6bb5f262010fd44678ac0afabd1b771"
             },
-            "\/vEda\/garbha upaniShat.txt": {
-                "hash": "49068e90947865f6555ab0dc4d0e0037"
-            },
             "\/vEda\/sAmavEda.txt": {
                 "hash": "cdaf73efc95f2866edd605f8a0fe39dc"
-            },
-            "\/vEda\/atharvavEda saMhitA.txt": {
-                "hash": "76e8d0308cac83d44aa3a2c3edc11828"
             },
             "\/vEda\/brahmabiMdu upaniShat.txt": {
                 "hash": "9ea8f592f9042a13e28737f6200ad080"
@@ -1396,11 +1408,41 @@
             "\/vEda\/RgvEda khilAni.txt": {
                 "hash": "119095a4f02717f5895394df4fc650a1"
             },
+            "\/vEda\/shatapatha brAhmaNa.txt": {
+                "hash": "1b876f63ba5110c9a6b65cec8d8d6e17"
+            },
+            "\/vEda\/nArAyaNa-upaniShat.txt": {
+                "hash": "0290a2334255557d5b73a11ea26113ea"
+            },
+            "\/vEda\/garbha upaniShat.txt": {
+                "hash": "49068e90947865f6555ab0dc4d0e0037"
+            },
+            "\/vEda\/atharvavEda saMhitA.txt": {
+                "hash": "76e8d0308cac83d44aa3a2c3edc11828"
+            },
+            "\/vEda\/nArAyaNapUrvatApanIya.txt": {
+                "hash": "461e717ff276f68b523ba57b997847fa"
+            },
+            "\/vEda\/vAjasanEyisaMhitA.txt": {
+                "hash": "915e878215b504f84fa43b20b2c47efb"
+            },
+            "\/vEda\/aitarEyAraNyakam.txt": {
+                "hash": "cd0cd3f62200e27d2570c742c11e9784"
+            },
+            "\/vEda\/nRsiMhOttaraTApanIya.txt": {
+                "hash": "e1d254368c6a24d2fa81254402859811"
+            },
             "\/vEda\/bRhadAraNyaka upaniShad.txt": {
                 "hash": "451860b24d0d38189aa8f6eef2609ded"
             },
             "\/vEda\/maitrAyaNI-saMhitA.txt": {
                 "hash": "9f16025fee3449b8960beac622f127b5"
+            },
+            "\/vEda\/nRsiMhapUrvaTApanIya.txt": {
+                "hash": "9613eeca97d70719285415f8394093a2"
+            },
+            "\/vEda\/kEna-upaniShat.txt": {
+                "hash": "8e814a66965958d5b90f768dad8f36ea"
             },
             "\/vEda\/ChAMdOgya upaniShat.txt": {
                 "hash": "66b4e632f9cb0519cf9984f578813402"
@@ -1408,21 +1450,24 @@
             "\/vEda\/mAMDUkya kArikA.txt": {
                 "hash": "97c23724587237fe99d9976042f0542b"
             },
-            "\/vEda\/shatapatha brAhmaNa.txt": {
-                "hash": "1b876f63ba5110c9a6b65cec8d8d6e17"
-            },
             "\/vEda\/RgvidhAna.txt": {
                 "hash": "006f31fbd6d7fac07a64c046bc71f7ff"
             },
             "\/vEda\/atharva shira upaniShat.txt": {
                 "hash": "68808005156898fcef4860900a10c56e"
             },
+            "\/vEda\/muMDaka-upaniShat.txt": {
+                "hash": "c4e05cc48c200c2cc7af2acd5de0cf5f"
+            },
+            "\/vEda\/taittirIya-upaniShat.txt": {
+                "hash": "82941967b58ad608d145462928944767"
+            },
             "\/vEda\/shvEtAshvatara upaniShat.txt": {
                 "hash": "1022cac9e5f808080f8f74e7e76d15ad"
             }
         },
-        "lastModified": "2017-09-28T06:25:35.190Z",
-        "hash": "53b3016319ba3150ed63c736ef01a448"
+        "lastModified": "2026-05-02T03:35:31.715Z",
+        "hash": "d82d6bb1c1c4bb093da27b6340fdfc79"
     },
     "mAdhva_gItAvivRti.zip": {
         "contents": {
@@ -1542,7 +1587,8 @@
         "hash": "3c25e24696896b4a4a941c56b2b50e19"
     },
     "zipsUpdated": [
-        "dAsasAhitya.zip"
+        "AgamAH.zip",
+        "itaragraMthAH.zip"
     ],
     "dAsasAhitya.zip": {
         "contents": {
@@ -1753,6 +1799,69 @@
         },
         "lastModified": "2017-06-04T09:18:19Z",
         "hash": "7f59dede654d37c625f796f602da0b26"
+    },
+    "AgamAH.zip": {
+        "contents": {
+            "\/AgamAH\/hayashIrShapaMcarAtram.txt": {
+                "hash": "cb6c84197ec675e810ee63202d204b03"
+            },
+            "\/AgamAH\/ahirbudhnyasaMhitA.txt": {
+                "hash": "a717997361ea50b441aef3ce9f9871f9"
+            },
+            "\/AgamAH\/puruShOttamasaMhitA.txt": {
+                "hash": "22a1850f9ff2501133cf613c7070e359"
+            },
+            "\/AgamAH\/jayAkhyasaMhitA.txt": {
+                "hash": "baef0d3d4b622a026e2cee99d8bafdb4"
+            },
+            "\/AgamAH\/paramapuruShasaMhitA.txt": {
+                "hash": "6a7eb0b2b0e9146756409d889d0541a7"
+            },
+            "\/AgamAH\/sAttvatasaMhitA.txt": {
+                "hash": "023c9041ff3fd69bafca325a626698ef"
+            },
+            "\/AgamAH\/viShNusaMhitA.txt": {
+                "hash": "6530c2b920e26a3bed5dbcba67a8ed44"
+            },
+            "\/AgamAH\/padmasaMhitA.txt": {
+                "hash": "2a9e36bf0036f74aff694fc92eed50a7"
+            },
+            "\/AgamAH\/jnAnAmRtasArasaMhitA.txt": {
+                "hash": "419a1daf8707e7a38925dd5693966296"
+            },
+            "\/AgamAH\/bhArgavatantram.txt": {
+                "hash": "e1d54d735ea714e49650323f2a608e5f"
+            },
+            "\/AgamAH\/AgamapramANyam.txt": {
+                "hash": "218711445a747ba21e426c97df02ed90"
+            },
+            "\/AgamAH\/lakShmItantram.txt": {
+                "hash": "eb09d93ea83404f8bc26af7c35a64d93"
+            },
+            "\/AgamAH\/kriyAkairavacandrikA.txt": {
+                "hash": "3feb4fdda9c642183f3099e25293407a"
+            },
+            "\/AgamAH\/prakAshasaMhitA.txt": {
+                "hash": "07021f49da95ed668e4654e04da257eb"
+            },
+            "\/AgamAH\/viShvaksenasaMhitA.txt": {
+                "hash": "a0951de6568b2fdc2947b9c295bbc228"
+            },
+            "\/AgamAH\/prashnasaMhitA.txt": {
+                "hash": "41f6318adf2004f0847704b4b168f3a4"
+            },
+            "\/AgamAH\/paramEshvarasaMhitA.txt": {
+                "hash": "ad3fa675e9770213774703a3ab72f7d4"
+            },
+            "\/AgamAH\/aniruddhasaMhitA.txt": {
+                "hash": "a98390ceecf0927b7021c7e28ef20bf7"
+            },
+            "\/AgamAH\/vishvAmitrasaMhitA.txt": {
+                "hash": "b013d897eed6a05e480885006a48d4fb"
+            }
+        },
+        "lastModified": "2026-05-02T04:14:42.158Z",
+        "hash": "0f7907f110b587bfb38466b9946f229e"
     },
     "mahAbhArata_mAdhvapATha.zip": {
         "contents": {
@@ -2077,14 +2186,11 @@
     },
     "vyAkaraNa.zip": {
         "contents": {
-            "\/vyAkaraNa\/kAshikA-5.txt": {
-                "hash": "9411f7417b1cd0a20aa36aaf9a465748"
-            },
             "\/vyAkaraNa\/kAshikA-6.txt": {
                 "hash": "06eedda1876b3a82525513def6b0b817"
             },
-            "\/vyAkaraNa\/nAgOjibhaTTa\/paribhAshEMdushEkhara.txt": {
-                "hash": "e72c377744d828e6ec72825c9a524266"
+            "\/vyAkaraNa\/pataMjali\/mahAbhAShyam.txt": {
+                "hash": "150f5118ce9466ad84419bf89e6bf1f0"
             },
             "\/vyAkaraNa\/varadarAja\/laghusiddhAntakaumudI.txt": {
                 "hash": "8fc15b3079e9aede5c45c09541785ad2"
@@ -2092,27 +2198,39 @@
             "\/vyAkaraNa\/kAshikA-8.txt": {
                 "hash": "68ca6ca05c8e4b51312b11772ba123cc"
             },
+            "\/vyAkaraNa\/kAshikA-4.txt": {
+                "hash": "5165cc8b331fb73dcf940d01df7fc0c1"
+            },
+            "\/vyAkaraNa\/pANini\/aShTAdhyAyI.txt": {
+                "hash": "cdda0f713213859ca82f74c1424a33a6"
+            },
+            "\/vyAkaraNa\/siddhAntakaumudI.txt": {
+                "hash": "899b331d413bc76202ede004cb7548da"
+            },
+            "\/vyAkaraNa\/kAshikA-2.txt": {
+                "hash": "b729573fd3e71cd5131f6849356def37"
+            },
+            "\/vyAkaraNa\/kAshikA-5.txt": {
+                "hash": "9411f7417b1cd0a20aa36aaf9a465748"
+            },
+            "\/vyAkaraNa\/nAgOjibhaTTa\/paribhAshEMdushEkhara.txt": {
+                "hash": "e72c377744d828e6ec72825c9a524266"
+            },
             "\/vyAkaraNa\/kAshikA-7.txt": {
                 "hash": "c7acb3eabb04bc2d9911e38e319d8efc"
             },
             "\/vyAkaraNa\/kAshikA-1.txt": {
                 "hash": "0b17db57073dea966d07e49aa27569b0"
             },
-            "\/vyAkaraNa\/kAshikA-4.txt": {
-                "hash": "5165cc8b331fb73dcf940d01df7fc0c1"
-            },
-            "\/vyAkaraNa\/bhartRhari\/vAkyapAdIya.txt": {
-                "hash": "1c23963d184dd3c7a4d99b50212e75e6"
-            },
             "\/vyAkaraNa\/kAshikA-3.txt": {
                 "hash": "cd11c65a6242260fad8329ac149f2702"
             },
-            "\/vyAkaraNa\/kAshikA-2.txt": {
-                "hash": "b729573fd3e71cd5131f6849356def37"
+            "\/vyAkaraNa\/bhartRhari\/vAkyapAdIya.txt": {
+                "hash": "1c23963d184dd3c7a4d99b50212e75e6"
             }
         },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "366a3922f13e801d67ddf80d63cc563a"
+        "lastModified": "2026-05-02T03:35:39.059Z",
+        "hash": "2ae3cbc470387be79eadeb683d9d730e"
     },
     "kOsha_vAchaspatyaM_1.zip": {
         "contents": {
@@ -2371,15 +2489,21 @@
             "\/smRti\/yAjnavalkyasmRti.txt": {
                 "hash": "8908032c2b8d1d5b3458d839ab64d957"
             },
+            "\/smRti\/gautamasmRti.txt": {
+                "hash": "ad9c6214eb5960aaea5dd1a0b61131bf"
+            },
             "\/smRti\/nAradasmRti.txt": {
                 "hash": "afd9adf3f24ae4525082f5e672985f86"
+            },
+            "\/smRti\/vasiShThasmRti.txt": {
+                "hash": "75617182af28a9ac72bc3404138dc369"
             },
             "\/smRti\/kAtyAyana-smRti.txt": {
                 "hash": "675fbce115e95458d24e684ed1bbd5e7"
             }
         },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "85dff79b3ac3fe72d66579561410543d"
+        "lastModified": "2026-05-02T03:35:30.012Z",
+        "hash": "446fc2f1c1580419e156e1799aadda67"
     },
     "stOtra.zip": {
         "contents": {
@@ -2674,12 +2798,39 @@
     },
     "rAmAyaNa.zip": {
         "contents": {
+            "\/rAmAyaNa\/adhyAtmarAmAyaNam.txt": {
+                "hash": "efd0f7be1ff86b304efc378d713e010c"
+            },
+            "\/rAmAyaNa\/bAlakANDam.txt": {
+                "hash": "0d87dff2b7b0adb7a2d34aafb3f38491"
+            },
+            "\/rAmAyaNa\/araNyakANDam.txt": {
+                "hash": "369f8678b397a02047140c871e1cbfa0"
+            },
+            "\/rAmAyaNa\/yOgavAsiShTha.txt": {
+                "hash": "35d3ec775ed7822a50b76fe8d46337a5"
+            },
+            "\/rAmAyaNa\/ayOdhyAkANDam.txt": {
+                "hash": "25d70070fdb80c8e2a90ae8ccac8e76d"
+            },
+            "\/rAmAyaNa\/uttarakANDam.txt": {
+                "hash": "f253aab1ae4741150b7c7eacbd7ed4dc"
+            },
+            "\/rAmAyaNa\/kiShkiMdhAkANDam.txt": {
+                "hash": "8bd0ed33a9db909a16a364770e81d373"
+            },
+            "\/rAmAyaNa\/suMdarakANDam.txt": {
+                "hash": "bd6f811d3fab5b5957f538dcc90742f0"
+            },
             "\/rAmAyaNa\/vAlmIki rAmAyaNa.txt": {
                 "hash": "f0d24531a73bad3abdb503eda2625ca0"
+            },
+            "\/rAmAyaNa\/yuddhakANDam.txt": {
+                "hash": "8a6c1f0e21db5637ab6dae21b710c7a4"
             }
         },
-        "lastModified": "2017-06-04T09:18:19Z",
-        "hash": "3bd58a467152776d7ad34760a2bfa017"
+        "lastModified": "2026-05-02T03:35:50.834Z",
+        "hash": "bef6ee401f51c030878e6301893cdca3"
     },
     "mAdhva_sUtrabhAShyadIpikA.zip": {
         "contents": {
@@ -3079,11 +3230,14 @@
     },
     "itaragraMthAH.zip": {
         "contents": {
+            "\/itaragraMthAH\/yOgasUtrANi.txt": {
+                "hash": "4bcac18d17f473301040d75897150954"
+            },
             "\/itaragraMthAH\/svApnavRMdAvanAkhyAna.txt": {
                 "hash": "e7b01dd80d413c329275b33e016dcff9"
             },
             "\/itaragraMthAH\/prakAsha-saMhitA.txt": {
-                "hash": "8b95dedef60be1d822bdafae1389f821"
+                "hash": ""
             },
             "\/itaragraMthAH\/tarka tAMDava nyAyadIpa.txt": {
                 "hash": "d2c1f5bceffa40d5318b47b595fdfaee"
@@ -3093,6 +3247,9 @@
             },
             "\/itaragraMthAH\/tIrthaprabaMdha\/tIrthaprabaMdha-1.txt": {
                 "hash": "4ab79cf12b2679f2545f2435a5abecc2"
+            },
+            "\/itaragraMthAH\/sAMkhyakArikA.txt": {
+                "hash": "f2e008c09e210760c46bdc6f5afdcdfe"
             },
             "\/itaragraMthAH\/sUrya-siddhAnta.txt": {
                 "hash": "8e415cbd72ae66f2d0606d3dd7ff9bd3"
@@ -3118,6 +3275,9 @@
             "\/itaragraMthAH\/subhAShita.txt": {
                 "hash": "97875e7ab21af79d37503a5213ac0f99"
             },
+            "\/itaragraMthAH\/nyAyasUtrANi.txt": {
+                "hash": "db0833bd0af46b19380774ad66ea4cd8"
+            },
             "\/itaragraMthAH\/tIrthaprabaMdha\/tIrthaprabaMdha-4.txt": {
                 "hash": "cef98892c4cac5d88ce69f34dbda88c0"
             },
@@ -3125,8 +3285,8 @@
                 "hash": "c2e6143bad562400793dc70077c6e8ee"
             }
         },
-        "lastModified": "2020-07-31T20:34:21.761Z",
-        "hash": "03cdae4c5cd4b8e75335cde180cba826"
+        "lastModified": "2026-05-02T04:14:55.455Z",
+        "hash": "6442e169fa6ba171bc48fc7288deba3f"
     },
     "advaitam.zip": {
         "contents": {
