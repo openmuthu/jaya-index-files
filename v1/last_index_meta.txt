@@ -1587,7 +1587,6 @@
         "hash": "3c25e24696896b4a4a941c56b2b50e19"
     },
     "zipsUpdated": [
-        "AgamAH.zip",
         "itaragraMthAH.zip"
     ],
     "dAsasAhitya.zip": {
@@ -3236,9 +3235,6 @@
             "\/itaragraMthAH\/svApnavRMdAvanAkhyAna.txt": {
                 "hash": "e7b01dd80d413c329275b33e016dcff9"
             },
-            "\/itaragraMthAH\/prakAsha-saMhitA.txt": {
-                "hash": ""
-            },
             "\/itaragraMthAH\/tarka tAMDava nyAyadIpa.txt": {
                 "hash": "d2c1f5bceffa40d5318b47b595fdfaee"
             },
@@ -3285,8 +3281,8 @@
                 "hash": "c2e6143bad562400793dc70077c6e8ee"
             }
         },
-        "lastModified": "2026-05-02T04:14:55.455Z",
-        "hash": "6442e169fa6ba171bc48fc7288deba3f"
+        "lastModified": "2026-05-02T06:22:46.986Z",
+        "hash": "737ab597d0e5618baa0c0969a8df9ca2"
     },
     "advaitam.zip": {
         "contents": {
