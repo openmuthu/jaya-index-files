@@ -1424,7 +1424,7 @@
                 "hash": "461e717ff276f68b523ba57b997847fa"
             },
             "\/vEda\/vAjasanEyisaMhitA.txt": {
-                "hash": "915e878215b504f84fa43b20b2c47efb"
+                "hash": "764d16461c9668a76602e2f9f7c97060"
             },
             "\/vEda\/aitarEyAraNyakam.txt": {
                 "hash": "cd0cd3f62200e27d2570c742c11e9784"
@@ -1466,7 +1466,7 @@
                 "hash": "1022cac9e5f808080f8f74e7e76d15ad"
             }
         },
-        "lastModified": "2026-05-02T03:35:31.715Z",
+        "lastModified": "2026-05-02T11:29:37.780Z",
         "hash": "d82d6bb1c1c4bb093da27b6340fdfc79"
     },
     "mAdhva_gItAvivRti.zip": {
@@ -1587,7 +1587,14 @@
         "hash": "3c25e24696896b4a4a941c56b2b50e19"
     },
     "zipsUpdated": [
-        "itaragraMthAH.zip"
+        "mAdhva.zip",
+        "smRti.zip",
+        "vEda.zip",
+        "AgamAH.zip",
+        "mAdhva_sUtraprasthAna.zip",
+        "purANa_upapurANam.zip",
+        "mAdhva_sudhA_samagra.zip",
+        "vyAkaraNa.zip"
     ],
     "dAsasAhitya.zip": {
         "contents": {
@@ -1679,70 +1686,70 @@
     "mAdhva_sudhA_samagra.zip": {
         "contents": {
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-3.txt": {
-                "hash": "f82a54e521d104d90f3a7fb1e67890d8"
+                "hash": "12d701595864613bb9458ef0865de5d7"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-2-bhAga-2.txt": {
-                "hash": "77280b7b4989d894bbae67a69fb5a0a9"
+                "hash": "116b1a87734b892b9852809ece8843bb"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-1-bhAga-2.txt": {
-                "hash": "bcd056ff2581b94e38d210a8086d8b13"
+                "hash": "c8d1e6bce863ee04bd7538e2f921a659"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-1_3-2-bhAga-1.txt": {
-                "hash": "8e6e6fac981754b55b4fd1e7be612b1b"
+                "hash": "0503935b65dd9f7bd69fb14300acbeaf"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-4-2.txt": {
                 "hash": "e5c4f42a497004d6174556f897ddec56"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-4-3_4-4.txt": {
-                "hash": "ff127a00a15edfae98e42674422ad1e5"
+                "hash": "9a8ef993da58142e1d7753fe6b373d68"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-3.txt": {
-                "hash": "daa2aa8bb129c078c885c2ca08ac7934"
+                "hash": "f0f996e5094d96bdbbe4e8a0873b1383"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-2.txt": {
                 "hash": "fb4921e9a606b045445c0f98bd5cee07"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-4.txt": {
-                "hash": "1d20de1a1c678e63b71512ec9c2aada1"
+                "hash": "5e3269fe50c7530d5a15dcc15be84978"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-1-bhAga-3.txt": {
-                "hash": "bc0dc02c3fff672a50dda02837d79f9c"
+                "hash": "eecac8f02b800dca1e8591184746795f"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1.txt": {
-                "hash": "705bb4da185e75616f0c16d98e0ba17b"
+                "hash": "53fa11e423cd760f54920dd7768bda32"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-3_2-4.txt": {
                 "hash": "13362df845d17279329bb1cbab4a2217"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-1_3-2-bhAga-2.txt": {
-                "hash": "50d9c4b3b61d16d10e888c77c64d1e8e"
+                "hash": "49c7f402b0a77588a4f2f68fa281d1c6"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-1-bhAga-1.txt": {
-                "hash": "a36943e734ea9de82fbf43410b64588f"
+                "hash": "e3436e289f27432a54cb9b72ae5edf73"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-4-1.txt": {
                 "hash": "1ff6e4a66a02621da552fd05f0faa9bf"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-2-bhAga-1.txt": {
-                "hash": "33ddf99498292b94811f87805f4fcecb"
+                "hash": "a1f5599fe87aa3b8dcd2dca0c17d9c4d"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-2-2-bhAga-3.txt": {
-                "hash": "af46a06efaf56c0829ac87ba063b9095"
+                "hash": "e3b01d76c754decbdb0f4b14446ea93a"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-3-3.txt": {
-                "hash": "30221aae94338d8f746118fa94b6ede5"
+                "hash": "e6bf9b6202672223f80b7e3f648ec684"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-1-jijnAsAdhikaraNa-bhAga-1.txt": {
-                "hash": "3f4cf1c8506c8d50c0e2800ee8db3d9a"
+                "hash": "e78bbb2bbe5bb29707dfaa1ac83ce413"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-4.txt": {
-                "hash": "cb68a0d8a13b557b3d6dbb2125cb59bf"
+                "hash": "3bdef12e3602f0cf4edb14f99a0d5565"
             },
             "\/mAdhva\/sudhA_samagra\/nyAyasudhAsamagra-1-2.txt": {
                 "hash": "acbe7c1b213db2cffb449915b81e64c1"
             }
         },
-        "lastModified": "2020-08-01T08:43:01.741Z",
+        "lastModified": "2026-05-02T11:29:43.742Z",
         "hash": "703f3762ce23fc081e4e41a5003cbf72"
     },
     "purANa_dEvI-mahApurANa.zip": {
@@ -1802,7 +1809,7 @@
     "AgamAH.zip": {
         "contents": {
             "\/AgamAH\/hayashIrShapaMcarAtram.txt": {
-                "hash": "cb6c84197ec675e810ee63202d204b03"
+                "hash": "4d250d4905250cd82eb1fed612338084"
             },
             "\/AgamAH\/ahirbudhnyasaMhitA.txt": {
                 "hash": "a717997361ea50b441aef3ce9f9871f9"
@@ -1859,7 +1866,7 @@
                 "hash": "b013d897eed6a05e480885006a48d4fb"
             }
         },
-        "lastModified": "2026-05-02T04:14:42.158Z",
+        "lastModified": "2026-05-02T11:29:38.644Z",
         "hash": "0f7907f110b587bfb38466b9946f229e"
     },
     "mahAbhArata_mAdhvapATha.zip": {
@@ -2054,7 +2061,7 @@
                 "hash": "7310e58776852227db6e3b1e20cc91e3"
             },
             "\/mAdhva\/IshAvAsyaTIkA.txt": {
-                "hash": "2e6bf11aaaa306704e2b72520c6d4d8c"
+                "hash": "0b4a1edd2f136a4457d874bc87dba9c4"
             },
             "\/mAdhva\/pramANapaddhatiH.txt": {
                 "hash": "2e94e830c2103d3223e9d9b155fff157"
@@ -2063,7 +2070,7 @@
                 "hash": "cdeb48f3c8e21c6e98139100681dc3b4"
             }
         },
-        "lastModified": "2021-01-31T18:35:00.413Z",
+        "lastModified": "2026-05-02T11:29:35.594Z",
         "hash": "52d50757a2000450e1eb13e0ab6ed9ff"
     },
     "kOsha_shabdakalpadruma_1.zip": {
@@ -2201,7 +2208,7 @@
                 "hash": "5165cc8b331fb73dcf940d01df7fc0c1"
             },
             "\/vyAkaraNa\/pANini\/aShTAdhyAyI.txt": {
-                "hash": "cdda0f713213859ca82f74c1424a33a6"
+                "hash": "e7b140ebf93f02603660f463b2c9e1fa"
             },
             "\/vyAkaraNa\/siddhAntakaumudI.txt": {
                 "hash": "899b331d413bc76202ede004cb7548da"
@@ -2228,7 +2235,7 @@
                 "hash": "1c23963d184dd3c7a4d99b50212e75e6"
             }
         },
-        "lastModified": "2026-05-02T03:35:39.059Z",
+        "lastModified": "2026-05-02T11:29:44.285Z",
         "hash": "2ae3cbc470387be79eadeb683d9d730e"
     },
     "kOsha_vAchaspatyaM_1.zip": {
@@ -2489,7 +2496,7 @@
                 "hash": "8908032c2b8d1d5b3458d839ab64d957"
             },
             "\/smRti\/gautamasmRti.txt": {
-                "hash": "ad9c6214eb5960aaea5dd1a0b61131bf"
+                "hash": "568af875a99d17596640adc4306ea9e1"
             },
             "\/smRti\/nAradasmRti.txt": {
                 "hash": "afd9adf3f24ae4525082f5e672985f86"
@@ -2501,7 +2508,7 @@
                 "hash": "675fbce115e95458d24e684ed1bbd5e7"
             }
         },
-        "lastModified": "2026-05-02T03:35:30.012Z",
+        "lastModified": "2026-05-02T11:29:36.139Z",
         "hash": "446fc2f1c1580419e156e1799aadda67"
     },
     "stOtra.zip": {
@@ -2738,13 +2745,13 @@
                 "hash": "47e4ba2ddef4767c89589cd163698677"
             },
             "\/purANa\/upapurANam\/nAndi-purana.txt": {
-                "hash": "8a73dc3129e3ca28ab78fe68a281fbe1"
+                "hash": "04b2e86e8f25aebd7af14d397fe61d7f"
             },
             "\/purANa\/upapurANam\/sAMba-purana.txt": {
                 "hash": "953280a597cdbb9a75cc0da3346f1cb5"
             }
         },
-        "lastModified": "2021-01-31T18:35:08.057Z",
+        "lastModified": "2026-05-02T11:29:41.389Z",
         "hash": "717def8f2fab00c15f9edbb58b843e4a"
     },
     "mAdhva_vAdAvalI.zip": {
@@ -3851,7 +3858,7 @@
     "mAdhva_sUtraprasthAna.zip": {
         "contents": {
             "\/mAdhva\/sUtraprasthAna\/sUtrabhAShya-saTIkA\/bramhasUtrabhAShyaM-saTIkA-1-1.txt": {
-                "hash": "62a964b5f6139023f18ce3e81813e0a6"
+                "hash": "851fa1ba362503497e640b7aa30a3441"
             },
             "\/mAdhva\/sUtraprasthAna\/sUtrabhAShya-saTIkA\/bramhasUtrabhAShyaM-saTIkA-1-2.txt": {
                 "hash": "d59a2162997dd50ac55a77a8e2a940ff"
@@ -3863,7 +3870,7 @@
                 "hash": "729562bd58ea44f8461334c9f9f9edd2"
             }
         },
-        "lastModified": "2021-01-31T18:35:04.451Z",
+        "lastModified": "2026-05-02T11:29:39.190Z",
         "hash": "33a56c09a42d4245fde0d72b222a3f6e"
     },
     "purANa_vAyupurANa.zip": {
